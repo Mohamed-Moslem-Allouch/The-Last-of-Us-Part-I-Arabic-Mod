@@ -18,6 +18,7 @@ build/
 *.dll
 *.pkg
 *.spec
+The_Last_of_Us_Part_I_Arabic_Mod/
 
 # Archives (except embedded installer payload)
 *.rar
@@ -43,6 +44,8 @@ ENV/
 *.swp
 *.log
 *.png
+!screenshots/*.png
+!docs/*.png
 
 # Untouched Large Asian Fonts (> 3 MB)
 orig_fonts/AsiaKGD14-R.ttf

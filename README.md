@@ -15,19 +15,20 @@
 ## 📖 Table of Contents
 1. [Overview](#-overview)
 2. [Key Features](#-key-features)
-3. [The Technical Deep Dive](#-the-technical-deep-dive)
+3. [In-Game Translation Screenshots](#-in-game-translation-screenshots)
+4. [The Technical Deep Dive](#-the-technical-deep-dive)
    - [1. The 1-Pixel Cursive Seam Problem & Material 0x1f Bypass](#1-the-1-pixel-cursive-seam-problem--material-0x1f-bypass)
    - [2. Adobe Type 2 CFF CharString Engineering & FtAlloc Limits](#2-adobe-type-2-cff-charstring-engineering--ftalloc-limits)
    - [3. x86_64 Executable Patching & RTL Subtitle Hook](#3-x86_64-executable-patching--rtl-subtitle-hook)
    - [4. Dual-Slot Persistence Architecture (Steam API Bypass)](#4-dual-slot-persistence-architecture-steam-api-bypass)
    - [5. High-Speed PSARC Stream Injection via Oodle Kraken](#5-high-speed-psarc-stream-injection-via-oodle-kraken)
    - [6. High-Performance Standalone Installer](#6-high-performance-standalone-installer)
-4. [Tool Catalog & Repository Structure](#-tool-catalog--repository-structure)
-5. [Installation Guide](#-installation-guide)
+5. [Tool Catalog & Repository Structure](#-tool-catalog--repository-structure)
+6. [Installation Guide](#-installation-guide)
    - [For Players (End Users)](#for-players-end-users)
    - [For Developers & Modders](#for-developers--modders)
-6. [Building from Source](#-building-from-source)
-7. [Credits & Legal](#-credits--legal)
+7. [Building from Source](#-building-from-source)
+8. [Credits & Legal](#-credits--legal)
 
 ---
 
@@ -51,9 +52,37 @@ This repository provides the complete technical solution, toolchain, and assets 
 
 ---
 
+## 📸 In-Game Translation Screenshots
+
+The screenshots below show the localized Arabic mod running on PC at 1440p resolution, showcasing dialogue subtitles, systemic barks, and in-game document reader translations:
+
+| 🎬 Narrative & Cutscene Subtitles | 📜 In-Game Document & Note Reader |
+| :---: | :---: |
+| <img src="screenshots/Screenshot%20(472).png" alt="Narrative Dialogue" width="480"> | <img src="screenshots/Screenshot%20(471).png" alt="In-Game Document Reader" width="480"> |
+| *Seamless Arabic cursive dialogue rendering* | *Full document reading mode translated to Arabic* |
+
+| 🗣️ Environmental & Ambient Dialogue | 🎮 Prologue & Gameplay Subtitles |
+| :---: | :---: |
+| <img src="screenshots/Screenshot%20(473).png" alt="Ambient Dialogue" width="480"> | <img src="screenshots/Screenshot%202026-10-25%20151235.png" alt="Prologue Subtitles" width="480"> |
+| *Combat and systemic speech in Arabic* | *RTL alignment and crisp vector font rendering* |
+
+| 🌆 Full Scene In-Game Subtitle Presentation |
+| :---: |
+| <img src="screenshots/Screenshot%202026-10-25%20155429.png" alt="Full Scene Gameplay" width="960"> |
+| *Flawless presentation, correct pacing, and pristine cursive letter shaping across all gameplay scenarios* |
+
+---
+
 ## 🔬 The Technical Deep Dive
 
 ### 1. The 1-Pixel Cursive Seam Problem & Material 0x1f Bypass
+
+#### Visual Comparison: How It Was vs. How It Was Fixed
+
+| ❌ How It Was (Broken Cursive Seams) | ✅ How It Was Fixed (Seamless Continuous Arabic) |
+| :---: | :---: |
+| <img src="screenshots/seam_issue_before.png" alt="Broken Seams Before Fix" width="280"> | <img src="screenshots/seam_issue_fixed.png" alt="Seamless After Fix" width="280"> |
+| **Notice the black vertical cuts between letters:**<br>`هـ | يـ | ا ،  لـ | نـ | ذ | هـ | ب`<br>*Each glyph's dilated outline quad stamped over the preceding tail.* | **Flawless cursive letter connections:**<br>`هيا، لنذهب`<br>*Material `0x1e` solid vector text combined with +100 unit baseline overhangs.* |
 
 #### The Root Cause:
 In cursive scripts such as Arabic, glyphs must connect seamlessly along the horizontal baseline. Initial testing revealed a persistent 1-to-2-pixel vertical black gap between connected Arabic letters:
