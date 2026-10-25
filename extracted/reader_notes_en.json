@@ -1,0 +1,2466 @@
+{
+  "23318812441495309": {
+    "name": "JOURNAL3_MUSHROOMS_TEXT",
+    "en": "Kids used to think these were cute..."
+  },
+  "29120766661908285": {
+    "name": "INTERACT_LOC_LAK_MEATSHOP",
+    "en": "Welcome to \nCORNER MEAT and SUPPLY CO.\nTHE ONLY MEAT YOU'LL WANT TO EAT!"
+  },
+  "47685227262566626": {
+    "name": "HUD_COL_NOTE_SEA_CONVOY_MEMO",
+    "en": "Emergency Protocols Memo"
+  },
+  "106295445041520441": {
+    "name": "HUD_COL_NOTE_MOST_WANTED_LIST",
+    "en": "List of Known WLF Agitators"
+  },
+  "125787801436612775": {
+    "name": "NOTE_DESC_AUC_PAMPHLET",
+    "en": "ROSSI ESTATE AUCTION\\LOT ORDER (PAGE 1 of 3)\\\\Auction starts promptly at 19:00.\\\\All bids final. All payments are required by midnight tonight. Shill bidding and/or failure to pay for your items will result in severe penalties. Transport of your items, if required, can be arranged with the Rossi Estate managers.\\\\  Lot Number: 539\\ Lot Holder: Ching Shih Holding Co.\\ Description: Collection of Chinese Bronzes\\ Starting Price: 200,000EU\\\\  Lot Number: 34\\ Lot Holder: Ching Shih Holding Co.\\ Description: 6 Terracotta Soldiers\\ Starting Price: 8,250,000EU\\\\  Lot Number: 143\\ Lot Holder: Ching Shih Holding Co.\\ Description: 4 Terracotta Archers\\ Starting Price: 5,250,000EU\\\\  Lot Number: 37\\ Lot Holder: G.R. Acquisitions\\ Description: Euphronios Krater\\ Starting Price: 4,500,000EU\\\\  Lot Number: 432\\ Lot Holder: G.R. Acquisitions\\ Description: Hen w/Sapphire Pendant Fabergé Egg\\ Starting Price: 3,000,000EU\\\\  Lot Number: 543\\ Lot Holder: Treasures of Scheherazade\\ Description: Parthian Statue, 3rd Century BC\\ Starting Price: 500,000EU\\\\  Lot Number: 912\\ Lot Holder: Treasures of Scheherazade\\ Description: Syrian Icon, Judas & Jesus\\ Starting Price: 200,000EU\\\\  Lot Number: 1411\\ Lot Holder: Estate of Sir Nicholas Trott\\ Description: Wooden Crucifix, gold/silver inlay\\ Starting Price: 20,000EU\\\\  Lot Number: 1485\\ Lot Holder: Estate of Sir Nicholas Trott\\ Description: 6 Gold Doubloons, Captain Rackham\\ Starting Price: 200,000EU\\\\  Lot Number: 1497\\ Lot Holder: Estate of Sir Nicholas Trott\\ Description: Jeweled Cutlass, Captain Rackham\\ Starting Price: 300,000EU\\\\  Lot Number: 1523\\ Lot Holder: Hawkins & Sons\\ Description: Victoria's Parliamentary Mace\\ Starting Price: 250,000EU\\\\  Lot Number: 734\\ Lot Holder: Herrlichkeit GmbH\\ Description: Charing Cross Bridge, London -- Claude Monet\\ Starting Price: 20,000,000EU\\\\  Lot Number: 231\\ Lot Holder: Herrlichkeit GmbH\\ Description: Old Fisherman of Aphrodisias\\ Starting Price: 15,000,000EU\\\\  Lot Number: 445\\ Lot Holder: Baasch Holdings Ltd\\ Description: Mask of Warka\\ Starting Price: 1,000,000EU\\\\  Lot Number: 472\\ Lot Holder: Baasch Holdings Ltd\\ Description: Shanidar Skull\\ Starting Price: 1,500,000EU\\\\  Lot Number: 734\\ Lot Holder: Baasch Holdings Ltd\\ Description: Gold/Silver Plaque, The Lioness Attacking a Nubian\\ Starting Price: 10,000,000EU\\\\"
+  },
+  "186833004382920054": {
+    "name": "HUD_COL_NOTE_SEA_BARKOS_LETTER",
+    "en": "WLF Safe House Supply Note"
+  },
+  "188548557294959841": {
+    "name": "HUD_COL_NOTE_RES_FEDRA_NOTE_BACK",
+    "en": "Join the Washington Liberation Front"
+  },
+  "210255311891551178": {
+    "name": "TREASURE_DESC_OPE_SECOND_ISLAND_1",
+    "en": "17th century silver and wood tankard, Germany"
+  },
+  "258169088769404296": {
+    "name": "TREASURE_BILLS_SIPHON_HOSE_DESCRIPTION",
+    "en": "Hose Bill offered to siphon gas from vehicles"
+  },
+  "280794965311397284": {
+    "name": "TREASURE_PIC_WILD_JOEL_AND_SARAH_DESCRIPTION",
+    "en": "Joel and Sarah"
+  },
+  "339619475311633759": {
+    "name": "TREASURE_BIL_APARTMENT_NOTICE_DESCRIPTION",
+    "en": "Rachel,<br><br>Soldiers are going door to door forcing people onto the buses. I hear yelling a couple of buildings down - time's running out. I tried calling, waiting, I don't know what to do, but I can't wait anymore. I've thrown most of our stuff into a couple of suitcases. I'll be waiting for you in the quarantine zone. Come find me.<br><br>I'll see you soon!<br><br>-Ezra"
+  },
+  "355612433634048314": {
+    "name": "HUD_COL_NOTE_SEA_INFORMANT_LETTER",
+    "en": "Note to Informant"
+  },
+  "366478722972511234": {
+    "name": "HUD_COL_NOTE_RES_TATTOO_NOTE_TEXT",
+    "en": "Uli - \nYou know our hearts will always be with Hillcrest, but after Sofia's shooting we've decided to head to the stadium with the others. We've got our own kids to think about. \n\nThe Brandmans\n\nPS - saw Boris a couple hours ago. We tried talking to him, but he seemed off. Please talk to him. \n\nI hope you guys will join us… \n\n"
+  },
+  "369988106409565187": {
+    "name": "HUD_COL_NOTE_WAT_GROCERY_BAG_LOC",
+    "en": "E. Olive Way"
+  },
+  "370049674073173262": {
+    "name": "HUD_COL_NOTE_SEA_VAULT_CODE_NOTE",
+    "en": "Bank Heist Plans"
+  },
+  "393841079871707657": {
+    "name": "HUD_COL_NOTE_WAT_THRIFT_BATH_TEXT",
+    "en": "FOR A GOOD TIME\nCALL STACI!!!\n(206) 555-0133"
+  },
+  "418173332427301351": {
+    "name": "INTERACT_LOC_HUN_GIVE_FOOD",
+    "en": "More will die if you don't give us our food"
+  },
+  "480873698706455805": {
+    "name": "JOURNAL1_JOELTRIP_TEXT",
+    "en": "Joel said he's taking me on a camping trip next week for my birthday. He found something he said I'll love. He's acting very proud of himself. Smug old fogey. "
+  },
+  "509584452263343110": {
+    "name": "INTERACT_LOC_SUB_DO_NOT_ENTER",
+    "en": "Warning<br>Infected Inside<br>Do NOT Open"
+  },
+  "518302289324645933": {
+    "name": "HUD_COL_NOTE_MED_DESCENT_NOTE_TEXT",
+    "en": "Avery - The BlacRay Hotel contains a large group of infected, likely the ones that spilled out of the hospital. We need you and your crew to bring down the supports from the inside out. Use the supplied explosives and remote detonators. Good luck."
+  },
+  "519962597546705721": {
+    "name": "TREASURE_COMIC_C_DESCRIPTION",
+    "en": "Book 3: FORCE CARRIER<br><br>Reluctant to acknowledge Daniela's findings, the Council was forced to accept the ominous reality: a series of supermassive objects were appearing and then disappearing in nearby star systems. The objects were making a sweep, and one that would hit the Sol system within days.<br><br>Daniela has been brought on board the Kobyashi, led by Captain James Ryan, to make an up-close analysis of whatever threat emerges."
+  },
+  "535343331945804025": {
+    "name": "HUD_COL_NOTE_SEA_HUB_DEAD_COMMAND_TEXT",
+    "en": "FOR OFFICIAL USE ONLY\nFEDERAL DISASTER RESPONSE AGENCY\n\nMEMORANDUM FOR FEDRA CENTRAL COMMAND\n\nSUBJECT: Seattle QZ compromised\nATTN: Captain Paul Douglas\n\nDespite our best efforts, The Seattle Quarantine Zone will fall to the terrorist group calling themselves the Washington Liberation Front. We underestimated their capabilities and lost key sites around the city.\n\nWe have executed our contingency plans and are prepping to escort key personnel out of the QZ 24 hours from now. I intend to stay until the last officer has escaped.\n\nLet the record show I provided for this city and its citizens as best as I could. They are now “freed” of us and are at the mercy of the WLF. Let's see how they feed and shelter a community of thousands. Let them deal with dissent among their own ranks. Let them deal with those religious fanatics. Inevitably, someone else will come along and hold them accountable for all their perceived wrongs. I almost wish I could be there to see it.\n\nLieutenant Carmelo Torres"
+  },
+  "561532646175732373": {
+    "name": "INTERACT_LOC_HUN_CAFE_SLOGAN",
+    "en": "Good <br>Coffee <br>Since <br>1976"
+  },
+  "662362064128859521": {
+    "name": "JOURNAL_DESC_SCO_GRAVES_LEFT",
+    "en": "Henry's Gravery\\Needs to have:\\\\Skull and crossbones\\\\Crossed swords (pointed down)\\\\Dates"
+  },
+  "709694880231296383": {
+    "name": "TREASURE_BILLS_REMINDER_3_DESCRIPTION",
+    "en": "Need to remember to clear the infected by the fences. Third time this month that too many of them were stacking up against the fence, knocking that shit over.<br>-CLEAR THE FENCES!"
+  },
+  "777267110751191934": {
+    "name": "HUD_COL_NOTE_SEA_INFECT_DETECT",
+    "en": "FEDRA Cordyceps Detector"
+  },
+  "779504086778786855": {
+    "name": "INTERACT_LOC_JACKSON_COUNTY",
+    "en": "Jackson County"
+  },
+  "787549862205544878": {
+    "name": "JOURNAL_DESC_SCO_CLIFF_CROSSES_TOK005",
+    "en": "\\DEATH TRAPS"
+  },
+  "787552061228801300": {
+    "name": "JOURNAL_DESC_SCO_CLIFF_CROSSES_TOK003",
+    "en": "\\PROFIT? DEATH TRAP?\\\\"
+  },
+  "787554260252057722": {
+    "name": "JOURNAL_DESC_SCO_CLIFF_CROSSES_TOK001",
+    "en": "\\DEATH TRAP\\\\"
+  },
+  "792664244826393838": {
+    "name": "TREASURE_COMIC_F_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - ACCRETION"
+  },
+  "808451927704686989": {
+    "name": "HUD_COL_NOTE_JACKSON_EUGENE_NOTE",
+    "en": "Eugene's Ultimatum"
+  },
+  "861252755335874566": {
+    "name": "JOURNAL3_JESSE_TEXT",
+    "en": "Jesse's here. This is good. He can help protect Dina. \n\nIt felt good having him around to deal with the WLF. \n\nMaybe he can help us find these people more quickly. I don't want to hear anything about turning back."
+  },
+  "968634311283165376": {
+    "name": "JOURNAL_DESC_OPE_LIBERTALIA_BACKSTORY_TOK003",
+    "en": "\\\"... they were no pyrates, but men who were resolved to assert that Liberty which God and Nature gave them.\""
+  },
+  "968636510306421798": {
+    "name": "JOURNAL_DESC_OPE_LIBERTALIA_BACKSTORY_TOK001",
+    "en": "\\\"Avery; and was likely to be the Founder of a new Monarchy, having, as it was said, taken immense riches\"\\\\\"Yet all these were no more than false Rumours, improved by the Credulity of some, and the Humour of others who love to tell strange Things.\"\\\\"
+  },
+  "991257017305073002": {
+    "name": "TREASURE_LAB_SURGEON_RECORDER_DESCRIPTION",
+    "en": "Firefly Surgeon's Digital Recorder"
+  },
+  "1004986926386667329": {
+    "name": "TREASURE_FIREFLY_LOGO_A_ROHNER_DESC",
+    "en": "Alex<br>Rohner <br>000260 "
+  },
+  "1008277441162547638": {
+    "name": "TREASURE_FIREFLY_LOGO_DM_VIGIL_DESC",
+    "en": "David<br>Michael<br>Vigil <br>000102 "
+  },
+  "1017922484967768570": {
+    "name": "TREASURE_DIGITAL_RECORDER1_UNI_4_LAB_DESCRIPTION",
+    "en": "Office Recorder"
+  },
+  "1047753375103456411": {
+    "name": "JOURNAL_DESC_COL_LIBERTALIA_VISTA",
+    "en": "LIBERTALIA\\\\[arrow pointing to tower]\\Treasury?"
+  },
+  "1080892936326670004": {
+    "name": "JOURNAL3_OWENTAGS_TEXT",
+    "en": "Owen Moore "
+  },
+  "1142287843759799785": {
+    "name": "TREASURE_COMIC_G_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - FREE RADICALS"
+  },
+  "1161305092349392986": {
+    "name": "TREASURE_PANEL_NOTE_UNI_1_LIBRARY_DESCRIPTION",
+    "en": "We had to rig up the door to the generator upstairs. Please use it sparingly, as we're running out of gas."
+  },
+  "1189913447813133612": {
+    "name": "INTERACT_LOC_HUN_THIS_IS_WHAT_THEY_DID",
+    "en": "This is what they did to us"
+  },
+  "1256125818888589451": {
+    "name": "NOTE_DESC_SUN_DEAD_COLONIST",
+    "en": "August 1 1718\\\\I bade farewell to Eleanor and little Abigail at midnight. They joined the other escapees aboard the Swiftsure, bound for better shores. I pray I shall be able to join them soon.\\\\The Founders have taken everything from me, from all of us. What little gold I contributed is now gone - or behind the high walls of New Devon. We shall see soon enough. At dawn, we go forth to take back what's rightfully ours. They did not stop us at the treasury, they shall not stop us now.\\\\My darling Eleanor, my sweet Abigail. Should I perish here, should I fail you, know that I only wished us happiness and prosperity. Perhaps you will still have a chance for yourselves."
+  },
+  "1263565896986302578": {
+    "name": "HUD_COL_NOTE_SEA_RECRUIT_LETTER",
+    "en": "WLF Recruitment Letter\n"
+  },
+  "1292356858686680707": {
+    "name": "JOURNAL_DESC_MAD_KINGS_BAY_2_TOK000",
+    "en": "Tastes the same as back home. Real beef my ass.\\\\Fast Burger has a Varanga bowl in Madagascar. Sully got it. Shredded beef on rice.\\\\Call Elena\\calling card PIN:\\"
+  },
+  "1292359057709937129": {
+    "name": "JOURNAL_DESC_MAD_KINGS_BAY_2_TOK002",
+    "en": "021625110\\17 mins"
+  },
+  "1292361256733193551": {
+    "name": "JOURNAL_DESC_MAD_KINGS_BAY_2_TOK004",
+    "en": "\\042786211\\9 mins"
+  },
+  "1310147840754923638": {
+    "name": "HUD_COL_UPGRADE_MANUAL_WEAPONS_ABBY_TEXT",
+    "en": "BRING YOUR OWN BULLETS:\n\nHOW TO MAKE YOUR OWN\nIMPROVISED MUNITIONS\nWITH EVERYDAY HOUSEHOLD ITEMS\n\n\nE. C. KOWALCZYK and J. J. MAZUR\n"
+  },
+  "1312618460013520134": {
+    "name": "TREASURE_FIREFLY_LOGO_J_SCHEFFLER_DESC",
+    "en": "Josh<br>Scheffler <br>000127 "
+  },
+  "1314367208851703371": {
+    "name": "TREASURE_NOTE_OUT_MILITARY_PAMPHLET_DESCRIPTION",
+    "en": "STAGES OF INFECTION<br><br>Stage 1__(RUNNER--DO NOT LET THEM SWARM YOU!)<br>•__Cordyceps has taken over the victim's motor functions. Fast and agile, Stage 1 infected usually travel in packs. Do not let them swarm you.<br><br>Stage 2__(STALKER)<br>•___…hide and ambush victims…check your surroundings.<br><br>Stage 3__(CLICKER--CAN'T SEE)<br>•__Completely blind, acute hearing, use echolocation to seek out prey. Keep your distance! Stage 3 infected are known for their ferocious attacks and are extremely lethal.<br><br>Stage 4__(B??????)"
+  },
+  "1375100965901368155": {
+    "name": "TREASURE_FIREFLY_LOGO_NAT_HOO_DESC",
+    "en": "Natalie<br>Hoo <br>000202 "
+  },
+  "1410149233309598838": {
+    "name": "HUD_COL_NOTE_RES_RESISTANCE_FLYER",
+    "en": "Rosemont's Flyer"
+  },
+  "1415428550796188144": {
+    "name": "NOTE_DESC_COL_GHOST_TOWN_NOTE",
+    "en": "May 17 1715\\Father - \\\\You no doubt heard my vessel was destroyed by an East Indianman ship. If you grieved for me, I beg your forgiveness, but I needed the world to believe me dead.\\\\Not only is your son alive and well, you shall be happy to hear I have resigned my Captaincy. I no longer make my fortunes as a thief, instead, my stalwart crew of buccaneers and I have joined with other like-minded souls to further the cause of Liberty.\\\\We are founding a colony where every man is considered equal and free to do as they wish. To that end, I have chosen to work the fields and livestock - which I imagine would amuse you to no end - but it brings me satisfaction the likes of which I never found back home.\\\\For now, our location must remain secret. But I hope one day you can come here and see what we have accomplished: a society free from the unjust subjection you have grown to accept.\\\\Christopher"
+  },
+  "1417174275665221591": {
+    "name": "JOURNAL2_BITEPHOTO_TEXT",
+    "en": "Is that my arm? "
+  },
+  "1464757060772826804": {
+    "name": "TREASURE_MAP_BILLROADMAP_DESCRIPTION",
+    "en": "A map of Bill's town. Handwritten notes across the map indicate locations of infected nests, safe zones, traps, Bill's cache, and a convoy"
+  },
+  "1476419801145881241": {
+    "name": "JOURNAL4_LYRICS_TEXT",
+    "en": "When does it get quiet?\nTime was supposed to\n<strike>Suffocate the urge…\nSuffocate the desire…\nExtinguish? </strike>\nExtinguish the desire…\n\nHaunted by your <strike>stare</strike> smiles\nThe mask keeps getting heavier\n<strike>It's sliding off my face</strike>\nOne step forward, two steps back. \n\nThere's a noose around my neck\nAnd the further I get\n<strike>The tighter</strike> It's harder and harder to breathe\nCan I find a way to cut the <strike>cord rope</strike> cord?\n\nI've been waiting for dawn \nBut the light is all gone.\n<strike>I've lost the light</strike>\nDon't know if I'm already \nBlind…\nCan I leave it all behind? \n"
+  },
+  "1546880417012606555": {
+    "name": "TREASURE_TRAINING_MANUAL_MELEE_COVER_DESC",
+    "en": "Close-Combat Fighting Techniques and Personal Defense"
+  },
+  "1631504856291112243": {
+    "name": "TREASURE_NOTE_SUICIDE_DESCRIPTION",
+    "en": "A crumpled letter reads:\n\nWell, Bill,<br>I doubt you'd ever find this note cause you were too scared to ever make it to this part of town. But if for some reason you did, I want you to know I hated your guts. I grew tired of this shitty town and of your set-in-your-ways attitude. I wanted more from life than this and you could never get that.<br><br>And that stupid battery you kept moaning about -- I got it. But I guess you were right. Trying to leave this town will kill me. Still better than spending another day with you.<br><br>Good Luck,<br>Frank"
+  },
+  "1668061287358752796": {
+    "name": "TREASURE_DESC_ISL_SHORE_ASCENT_1",
+    "en": "17th century Persian bronze signet ring"
+  },
+  "1687847051718478504": {
+    "name": "JOURNAL_DESC_START_RAFE_INFO_RIGHT",
+    "en": "SHORELINE AIDS REBELS IN CIVIL WAR\\\\Shoreline's presence in the capital city confirms what many already suspected: Nadine Ross is continuing her ambitious expansion of Shoreline's resources, involving them in several theaters of conflict around the globe.\\\\[written below article]\\...or that Nadine's got a mean high kick and an army at her beck and call...\\\\...crap."
+  },
+  "1695210679627715706": {
+    "name": "TREASURE_COMIC_B_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - MESSENGER PARTICLE"
+  },
+  "1721171981163663742": {
+    "name": "HUD_COL_NOTE_SEA_HUB_BANK_ROBBER_TEXT",
+    "en": "Fuck this!\n\nI wasn't even supposed to be here. Fucking Neal roped me in. Said the police would be too busy chasing all those sick people running around. Said this place would be easy pickings. So of course those sick fuckers showed up and everything went to shit. Pulled one of them off Kyle and nearly lost my arm with all the fucking bites. AND THEN MY OWN GUYS LOCK ME IN HERE. \n\nThe cops will get here soon. If I go down then my “friends” go down with me. I'll tell the newspapers, tell everyone on TV that Kyle Peters, Leon Travis, and Neal Grant are motherfucking cowards."
+  },
+  "1732081041265673557": {
+    "name": "TREASURE_MAL_COL_ATRIUM_NOTE_DESCRIPTION",
+    "en": "With supplies running low, Private Eugene Ellis and I entered the loading dock in hopes of procuring additional rations. We were caught off guard when a group of roughly half a dozen Stage 2s attacked us. We neutralized the threat, but not before Ellis was bitten.<br><br>After a heated debate - where Private Ellis tried taking his own life - I incapacitated him. I then took it upon myself to break protocol. I isolated the infection with a tourniquet. I gathered and cleaned a surgical saw from the abandoned triage. I injected Private Ellis with morphine before amputating his arm several inches above the bite.<br><br>I'm confident that once the private regains consciousness he'll be clear of the Cordyceps Infection.<br><br>Captain Regan Francis"
+  },
+  "1805925242877097007": {
+    "name": "HUD_COL_NOTE_WAT_THRIFT_TEXT",
+    "en": "M - make sure you take the envelope to the bank before Monday AM. Made the combo the last 6 digits to Staci's phone number. Figured that'd be easy for you to remember, heh.\n(206-555-01--)"
+  },
+  "1913598494463623513": {
+    "name": "NOTE_DESC_PAS_TEW_TILE_NOTE",
+    "en": "Lieutenant Barton - \\\\Even now Avery is readying his escape. If we allow him to leave these shores, he will surely disappear, along with our treasure.\\\\This master key will open the gates in the depths of his tunnels, but be wary, Lieutenant. He will no doubt expect us to pursue him. While you and your men search the tunnels, I shall take a small detachment of men through the valley so that we may cut off his escape.\\\\If God grants us Victory, by sundown tomorrow we shall be Pyrates once more, sailing to unknown ports with the treasure in our hold, the wind in our sails, and the freedom to live as we choose.\\\\God Speed.\\\\Captain Thomas Tew"
+  },
+  "1946743073703850614": {
+    "name": "INTERACT_LOC_MAL_QZ_APT_FIREFLY_GRAFFITI",
+    "en": "Look for the light"
+  },
+  "1959123589703414719": {
+    "name": "JOURNAL_DESC_OPE_SHIPWRECK_B",
+    "en": "Jonathan Burnes' sunken ship.\\\\We're definitely in the right place.\\\\Or we both came to the wrong place."
+  },
+  "1959124689215042930": {
+    "name": "JOURNAL_DESC_OPE_SHIPWRECK_A",
+    "en": "sunken ship.\\\\We're definitely in the right place.\\\\Or we both came to the wrong place."
+  },
+  "1964662607916307840": {
+    "name": "NOTE_DESC_SUN_TEWS_INVITATION",
+    "en": "On behalf of Lord Avery,\\\\I invite you to my manor at sundown tomorrow.\\\\The time has come to abandon our animosities and reunite under the banner of God and Liberty.\\\\Thomas Tew"
+  },
+  "2050173889745957181": {
+    "name": "TREASURE_FIREFLY_LOGO_H_WANG_DESC",
+    "en": "Hui<br>Wang<br>000197 "
+  },
+  "2054279617935210640": {
+    "name": "JOURNAL3_DINASICK_TEXT",
+    "en": "I'm struggling to sleep. Keep seeing him with his head… Dina seems to be sick. Think she caught a cold. I feel calmer with her lying next to me. I want to do something nice for her…"
+  },
+  "2099136499516440771": {
+    "name": "JOURNAL_DESC_SCO_DOOR_MECHANISM",
+    "en": "What reaching into that thing felt like..."
+  },
+  "2143929650854670453": {
+    "name": "HUD_COL_NOTE_SEA_HUB_FEDRA_TEXT",
+    "en": "Benny, \n\nThe WLF is winning. The city's going to fall any day now. And unless you quit FEDRA, I can't keep you safe.\n\nUp until recently, I could almost understand why you stuck with them, but after the Thursday Market massacre, I don't see how you can call us “misguided killers” with a straight face. Those people were just trying to get food for their families! And today they started banishing people for sedition? That's a death sentence!\n\nListen: you still have time. I will vouch for you. Meet me by Ruston Coffee at 2am on Friday, alone. Please show up. I know it's scary, but it's the only way. \n\nYour friend,\nSandra"
+  },
+  "2210915516636747833": {
+    "name": "TREASURE_NOTE_MILITARY_BURNT_SQUAD_DESCRIPTION",
+    "en": "Oct 10th<br><br>I just watched a mob douse Capt. Mastros and the rest of my team in gasoline and burn them alive. The animals were actually celebrating. Some old fucker complained it was a waste of gasoline.<br><br>There were too many of them. All I could do was slip away. But I'll remember all their faces. Gonna hunt each one of them down if I have to."
+  },
+  "2241026835678485452": {
+    "name": "HUD_COL_NOTE_RES_BOWMAN_CONFESSION",
+    "en": "Boris' Confession"
+  },
+  "2241822244157593782": {
+    "name": "HUD_COL_NOTE_SEA_WLF_LEAFLET",
+    "en": "WLF Leaflet"
+  },
+  "2347543470997834565": {
+    "name": "JOURNAL3_LIBRARY_TEXT",
+    "en": "Shimmer, you move too much"
+  },
+  "2365189255798802224": {
+    "name": "TREASURE_TRAINING_MANUAL_SMOKE_BOMB_2_DESC",
+    "en": "Chapter 12<br>Improved Duration of Smoke Screens<br>SHAPING<br>-Proper shaping of an incendiary smoke screen device is crucial to extending effective duration.<br>..."
+  },
+  "2419679516975937275": {
+    "name": "TREASURE_TRAINING_MANUAL_SMOKE_BOMB_1_DESC",
+    "en": "Chapter 8<br>Improved Duration of Smoke Screens<br>CHEMISTRY<br>-Through proper construction techniques, the effective duration of smoke screen cover can be improved<br>..."
+  },
+  "2420380782082569948": {
+    "name": "TREASURE_HOTEL_DESCRIPTION",
+    "en": "To all staff - <br><br>The combination for the security safe for hotel guests' valuables has changed. The new combination is<br><br>22-10-56."
+  },
+  "2441714100500563247": {
+    "name": "HUD_COL_NOTE_RES_TRAPPED_NOTE",
+    "en": "Imprisoned Note"
+  },
+  "2460647925143736973": {
+    "name": "TREASURE_NOTE_OUT_MEDICAL_PAMPHLET_DESCRIPTION",
+    "en": "CBI: SAFETY PAMPHLET<br><br>The Centers for Disease Control has produced this pamphlet on Cordyceps Brain Infection (CBI) to increase awareness and prevention of infection.<br><br>BACKGROUND<br>•__The Cordyceps mushroom is a parasitic fungi that can take over a host's mind and alter its behavior. Until recently it has only affected insects and some arthropods. A new species has emerged with the ability to target human hosts.<br><br>TRANSMISSION<br>•__The two known ways to contract CBI are:<br>__-__Breathing the spores emitted by the Cordyceps.<br>__-__Contact with bodily fluids of a person infected with CBI, usually by being bitten.<br><br>INCUBATION<br>•__After initial infection, the parasite travels to the host's brain over a period of one to two days.<br>•__The incubation concludes when the Cordyceps has taken over all major bodily functions of the host (Stage One CBI).<br><br>SYMPTOMS<br>•__Stage One CBI patients display erratic and violent behavior, lashing out at anyone around them.<br>•__Eventually the fungus pushes through the host's tissue to allow for the release of airborne spores.<br><br>TREATMENT<br>•__There is no vaccine for CBI, nor any known treatment to lengthen the incubation period.<br><br>DIAGNOSIS<br>•_CBI can be diagnosed using a blood or microscopic imaging test (usually administered against the ear). Within minutes of contraction, the results of this test will come out positive."
+  },
+  "2515262973246614267": {
+    "name": "JOURNAL3_SCARSYMBOL_TEXT",
+    "en": "\"Feel her love.\" Who the fuck are these people? Why did they do this? "
+  },
+  "2527723829247344362": {
+    "name": "HUD_COL_NOTE_SEA_RABBI_LETTER_BACK",
+    "en": "with one thought: for every turn away from a better world, there is often a stronger correction towards it. Do not lose hope for the future.\n\nAs the old saying goes, “it takes but one candle to dispel the darkness.”\n\nMay God watch over you always.\n\nRabbi Zivah Saunders"
+  },
+  "2535158720307757008": {
+    "name": "INTERACT_LOC_PIONEER_SQUARE_STATION",
+    "en": "Pioneer Square Station"
+  },
+  "2588829832964298558": {
+    "name": "TREASURE_ELLIE_MOM_NOTE_FRONT_DESCRIPTION",
+    "en": "Ellie,<br><br>I'm going to share a secret with you, I'm not a big fan of kids and I hate babies. And yet… I'm staring at you and I'm just awestruck.<br><br>You're not even a day old, and holding you is the most incredible thing I've done in my life - a life that is about to get cut a little short.<br><br>Marlene will look after you. There's no one in this world I trust more than her. When the time comes she'll tell you all about me. Don't give her too much of a hard time. Try not to be as stubborn as me.<br><br>I'm not going to lie, this is a pretty messed up world. It won't be easy. The thing you always have to remember is that, "
+  },
+  "2601101860395578712": {
+    "name": "NOTE_DESC_SUN_HANGED_WOMAN_NOTE",
+    "en": "Founder Want.\\\\I promised you swift retribution. As you have taken from me, so have I taken from you.\\\\Signed,\\\\Founder Baldridge"
+  },
+  "2606579905859719791": {
+    "name": "INTERACT_LOC_WIL_BUS_STATION",
+    "en": "LOGAN JAMES BUS STATION"
+  },
+  "2612183924376479019": {
+    "name": "TREASURE_COMIC_M_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - CATALYSIS"
+  },
+  "2685086970587514399": {
+    "name": "TREASURE_RELOCATION_PAPER_DESCRIPTION",
+    "en": "Hey Brother,<br><br>We were so close. I'm sitting outside the walls knowing I'll never see the inside of the zone. While waiting for the smuggler to show up, we heard a squad of soldiers approaching.  In our panic, we ducked into this building in hopes of hiding from them. None of us noticed the spores until it was too late. We're all infected - we have a few hours, maybe a day at most. I hope the smuggler is still coming so that I can at least pass this note to you.<br><br>I should've listened to you and come to the zone with you when I had the chance.  Now it's too late.<br><br>Take care,<br>-Mark"
+  },
+  "2688112716475628025": {
+    "name": "HUD_COL_NOTE_SEA_HUB_DEAD_COMMAND",
+    "en": "Lt. Torres' Final Memorandum"
+  },
+  "2718588334145419984": {
+    "name": "TREASURE_NOTE_MILITARY_LOST_AREAS_DESCRIPTION",
+    "en": "Areas of Pittsburgh Q.Z. lost by the military.\n\nNorth: \"LIBERATED\"\nWest: \"NO SURVIVORS\"\nSouth: \"OVERRUN\""
+  },
+  "2774363255609109880": {
+    "name": "INTERACT_LOC_WIL_TUNNEL_EAST",
+    "en": "Tunnel East"
+  },
+  "2875839173262098955": {
+    "name": "JOURNAL1_DINABIRTHDAY_TEXT",
+    "en": "Dina made me a crown for my birthday. She went back to that camp and got all this paper. It's… pretty great.  "
+  },
+  "2888834769301648238": {
+    "name": "TREASURE_FIREFLY_LOGO_B_PINO_DESC",
+    "en": "Brent<br>Pino<br>000317 "
+  },
+  "2952832936839100642": {
+    "name": "INTERACT_LOC_SUB_U_LOOT_I_SHOOT",
+    "en": "I Have A Gun! <br>U LOOT I SHOOT <br>Will Shoot to KILL"
+  },
+  "2967694583645282496": {
+    "name": "TREASURE_COMIC_L_DESCRIPTION",
+    "en": "Book 12: ZERO POINT<br><br>It's been fifteen days since the Travelers detected the uncloaked Von Neumann. The attack killed most of the crew, and, perhaps more importantly, it interrupted the reaction chain in the zero-point engine.  At sub-light speed it would take six thousand years to reach the Travelers' homeworld: they are close, but not close enough.<br><br>Hope seems all but lost for Daniela."
+  },
+  "2976851254022006454": {
+    "name": "NOTE_DESC_SUN_TEW_BURNT_NOTE",
+    "en": "May God forgive me. They were my compatriots and I betrayed them all.\\\\I have done everything that treacherous madman asked of me. Now, our once great colony lies in ruins and he retreats further into his delusions, casting suspicious glances in my direction. I am certainly next on his list.\\\\He was the Captain, but I was the Quartermaster. It was through my efforts that Libertalia came into being, and it is through my efforts that its legacy will be preserved. Avery shall not have the last word. Tomorrow, I gather my men and settle this once and for all."
+  },
+  "2999008156389542602": {
+    "name": "INTERACT_LOC_WLD_FEDRA_WAGON",
+    "en": "FEDRA<br>Federal Disaster Response Agency<br>Incident Security Force"
+  },
+  "3034458170530317205": {
+    "name": "JOURNAL_DESC_SUN_PIRATE_BRIDGE",
+    "en": "WHAT PIRATE BRIDGES ARE MADE OF:\\\\TWIGS\\DIRT\\SMALL ROCKS\\BEARD HAIR\\ICE CREAM STICKS\\TAPE\\BROKEN BONES\\USED PEG LEGS\\PIRATE SELF WORTH\\\\\"Arrr. me da' never hugged me much.\""
+  },
+  "3090569046120690005": {
+    "name": "JOURNAL2_DINA_TEXT",
+    "en": "I feel like Dina's avoiding me. Cat says she's just jealous about how I'm spending my time. I keep trying to invite Dina along, but she keeps saying she's busy. "
+  },
+  "3101006290542940568": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_2_TOK000",
+    "en": "Evelyn's copy of “General History” has passages I've not seen in later editions. If I'm able to trace his route, perhaps I can discern where Avery's treasure might be…\\\\HENRY AVERY\\- lived 1659 - 1699\\- alias: Benjamin Bridgeman, Long Ben, Pirate King, the Arch Pirate\\- sigil:\\\\- raided Mughal treasure ship Gunsway & vanished with untold millions in treasure.\\\\- may have teamed up with other pirates in the Madagascar region to attack the ships - must look into Thomas Tew (killed in the battle), Richard Want, William Mayes, perhaps others.\\\\- “General History” is known to be full of embellishment & outright fabrication… but there's more truth in those pages that people suspect…\\\\--------------------------------------------------------------\\\\Where did he go?\\\\"
+  },
+  "3101008489566196990": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_2_TOK002",
+    "en": "\\\\No idea!\\\\The ship Burnes was on got blown off course in a storm & they were captured by the Spaniards in Panama. Bad luck.\\\\Avery was very good at hiding his tracks. I feel like I'm going down the wrong road here - it's clear the best and only hope of finding Avery's treasure is with our friend Burnes. Time to read up on Panama.\\\\"
+  },
+  "3101010688589453412": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_2_TOK004",
+    "en": "\\\\- Strait of Bab-el Mandeb - Gunsway heist\\\\- Reunion Island - split treasure here?\\\\- met with Adam Baldridge?\\\\- Ascension Island - stop to get more food\\\\- Nassau - laid low under protection of Governor Nicholas Trott\\\\- Scotland 1699 - last known sighting of Avery"
+  },
+  "3130876817456005036": {
+    "name": "INTERACT_LOC_OUT_STATE_HOUSE_SIGN",
+    "en": "The Freedom Trail\n\nMassachusetts State House"
+  },
+  "3136097237205497520": {
+    "name": "HUD_COL_NOTE_JACKSON_KID_NOTE_BACK",
+    "en": "Here's what she should look like:\n\nCan you also get me a gun? I think if I was stronger my daddy would be happier.\n\nThank you very very much,\nEric"
+  },
+  "3162997141114355388": {
+    "name": "TREASURE_NOTE_MILITARY_DESCRIPTION",
+    "en": "Date of Action: 7/2033\nO.I.C: Waters\nArea of Operations: 2438A\n\n18:08  Arrived Grid 2438A. Negative Contact at LZ. Moving patrol west towards city center.\n\n21:00  Negative Contact\n\n22:18 Negative FUCKING Contact\n\n23:12  Pvt. Atwater reports visual/sound contact Stage-2 Cordyceps infected near collapsed office building. Moving to investigate.\n\n23:40  MULTIPLE infected contacts. Pvts Atwater, Shah, Coolidge K.I.A.\n\nOVERRUN FELL BACK TO BUILDING INTERIOR - AWAITING EVAC"
+  },
+  "3170208954366507036": {
+    "name": "HUD_COL_NOTE_SEA_INFECT_DETECT_BACK",
+    "en": "FEDRA"
+  },
+  "3285116282215814771": {
+    "name": "TREASURE_FUNGAL_XRAYS_UNI_4_LAB_DESCRIPTION",
+    "en": "X-rays of fungal growths on patient's brains."
+  },
+  "3288950059155217895": {
+    "name": "TREASURE_LAB_MARLENE_RECORDER2_DESCRIPTION",
+    "en": "Marlene's Recorder 2"
+  },
+  "3311759962770095272": {
+    "name": "TREASURE_DESC_MAD_PLATEAU_1",
+    "en": "17th-18th century brass and wood \"magic box\"."
+  },
+  "3392800176851063367": {
+    "name": "NOTE_DESC_COL_COLONIST_LETTER",
+    "en": "Franklin,\\\\Forgive me, I dared not speak of this in the presences of our families last night. I did not want to distress them.\\\\I have not seen my cousin Jack for several days and I hoped you might know his whereabouts. I have already been to the jail to check the stockades and cells - it wouldn't be the first time he was detained there - but I only saw the usual gathering of drunkards.\\\\Something has surely happened to him, but no one dares speak of it.\\\\I must be forthright: I fear it is related to the meetings you both attend ‘neath the Church every half moon. They are an open secret, and if I know of them, it is certain the Founders know of them as well.\\\\If you have heard anything, I implore you, please tell me.\\\\Matthew"
+  },
+  "3409373834579814571": {
+    "name": "TREASURE_COMIC_M_DESCRIPTION",
+    "en": "Book 13: CATALYSIS<br><br>Faced with the failure of their mission, Daniela and James chose to make the ultimate sacrifice for humanity: flying the ship, and the anticarbon bomb on it, straight into a neutron star.<br><br>The resulting explosion was the single most significant astronomical event since the formation of the galaxy, destroying the Traveler fleet, their homeworld, and countless other worlds and star systems.  But will the sacrifice of two of humanity's greatest heroes be enough to break the Travelers' iron grip?"
+  },
+  "3445196215429568934": {
+    "name": "HUD_COL_NOTE_SEA_RABBI_LETTER_TEXT",
+    "en": "Lieutenant Torres -\n\nSeventy years ago, my grandfather fled Germany with his family as World War II began. He escaped thanks to the kindness and bravery of a Polish family.\n\nAnd so the wheel turns, and the cycle continues: tonight, my family has packed our belongings, and due to your kindness we will be leaving this city, escorted by your brave men.\n\nThank you for helping me preserve what we could of our shul. It is difficult to leave our home behind, but in the end, it is people - living people - that matter.\n\nYou bear a heavy burden on your shoulders, and I hope our late-night talks were of some comfort to you. If I can leave you "
+  },
+  "3461225484774111280": {
+    "name": "INTERACT_LOC_TOM_DAM_SIGN",
+    "en": "Jackson County Hydro Dam Reservoir<br>Federal Services Of Parks<br>Government Property No Unauthorized Vehicles Allowed"
+  },
+  "3487397695561819888": {
+    "name": "TREASURE_COMIC_L_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - ZERO POINT"
+  },
+  "3498308963283024303": {
+    "name": "JOURNAL2_CATKISS_TEXT",
+    "en": "I've just had the worst/best day of my life! Cat was finishing another session on my arm and then climbed on top of me and kissed me. I threw her off of me. I yelled at her. I thought I infected her. I mean… I'm infected… sort of. I don't know how the fuck this shit transfers. What if she turns? What would I tell people? She's got family. \nI told her we should take a walk. I lied and said I'd never kissed anyone and that I was just nervous. She was actually sweet about my freak out. We spent the day walking and talking. Then she came to my place for a movie. She fell asleep… I stayed up all night watching her. Looking for signs of infection.\nThe next morning she was fine. Nothing.\nI'm not contagious! And Cat likes me! What a fucking rollercoaster!!!"
+  },
+  "3516999632439630672": {
+    "name": "INTERACT_LOC_TOM_RANCH_SIGN",
+    "en": "Hidden Pines Corral"
+  },
+  "3567277605793073575": {
+    "name": "HUD_COL_NOTE_SEA_CHECK_DRAWING_NOTE",
+    "en": "Street Drawing"
+  },
+  "3598546673297933374": {
+    "name": "JOURNAL3_BAKERCITY_TEXT",
+    "en": "Baker City. We saw a pack of wild horses today. They were skittish, then Dina offered them some of the fruit we collected. They ended up following us for a bit. Wish I had a camera. I've never seen her smile so wide. For like half a day I wasn't thinking about the WLF or Joel. Feeling guilty about that now. "
+  },
+  "3647711396793625874": {
+    "name": "HUD_COL_NOTE_JOE_SCHOOL_FIGHT_RADIO_NOTE_TEXT",
+    "en": "From here on out, kill all trespassers. Will send additional units to locate the other woman. Return to the FOB by EOD. Bring all available supplies."
+  },
+  "3668549236725785313": {
+    "name": "HUD_COL_NOTE_MED_SHRINE_2_NOTE",
+    "en": "Prayer for Victory"
+  },
+  "3752282044127780964": {
+    "name": "TREASURE_BILLS_REMINDER_2_DESCRIPTION",
+    "en": "Goddamn infected showing up much too close to the church safehouse. Looks like I'm going to need to do another round of clearing out the weak spots of the perimeter."
+  },
+  "3791885949351438328": {
+    "name": "HUD_COL_NOTE_SEA_WANTED_POSTER_TEXT",
+    "en": "WANTED for acts of TERRORISM and SEDITION:\n\nJASON PATTERSON\nEMMA PATTERSON\nISAAC DIXON\nMARCUS WILSON\nLUIS SANCHEZ \n\nPersons caught harboring or abetting these terrorists will be punished for TREASON."
+  },
+  "3877010861137421472": {
+    "name": "INTERACT_LOC_OUT_PARK_STREET_SIGN",
+    "en": "Park Street\n\nBoston Municipal Transit"
+  },
+  "3891070538732397821": {
+    "name": "JOURNAL_DESC_CIT_CLOCKTOWER_LEFT",
+    "en": "The statues appear in this order:\\\\1 - Scorpio\\2 - Aquarius\\3 - Leo\\4 - Taurus"
+  },
+  "3897857167364765285": {
+    "name": "NOTE_DESC_SUN_SKELETON_BED_LETTER",
+    "en": "September 6 1718\\\\Founder Condent,\\\\I know that it was on your orders that my home was ransacked and burnt.\\\\Your brother denied your involvement in these deeds, but I know a liar's tongue when I hear it. Now I am short one sword, as I cannot seem to pry it from his gut.\\\\You have until sundown to return what's mine.\\\\Founder England"
+  },
+  "3900398649729293893": {
+    "name": "HUD_COL_NOTE_RES_PETSTORE_NOTE",
+    "en": "Turn in Boris Note"
+  },
+  "3986383276732901413": {
+    "name": "HUD_COL_NOTE_MED_DESCENT_NOTE",
+    "en": "FEDRA Final Note"
+  },
+  "4001605606170804579": {
+    "name": "TREASURE_DESC_MAD_WATCHTOWER_2",
+    "en": "18th century small concealable flintlock pistol, England"
+  },
+  "4018009777171190278": {
+    "name": "TREASURE_FIREFLY_LOGO_P_LIU_DESC",
+    "en": "Philip<br>Liu <br>000105 "
+  },
+  "4025734452585840878": {
+    "name": "HUD_COL_NOTE_MED_CROSSROADS_NOTE",
+    "en": "Scavenging List"
+  },
+  "4041786183645707075": {
+    "name": "TREASURE_DESC_AUC_AUCTION_2",
+    "en": "17th century nephrite brass cup, Turkey"
+  },
+  "4041787283157335286": {
+    "name": "TREASURE_DESC_AUC_AUCTION_1",
+    "en": "17th century water container, Mughal Empire, India"
+  },
+  "4041790581692219919": {
+    "name": "TREASURE_DESC_AUC_AUCTION_6",
+    "en": "17th century mother of pearl and brass horn"
+  },
+  "4041791681203848130": {
+    "name": "TREASURE_DESC_AUC_AUCTION_5",
+    "en": "16th century Viking cloak clasp"
+  },
+  "4041796079250360974": {
+    "name": "TREASURE_DESC_AUC_AUCTION_9",
+    "en": "17th century brass candlestick, Persian"
+  },
+  "4041797178761989185": {
+    "name": "TREASURE_DESC_AUC_AUCTION_8",
+    "en": "17th century Syrian vase"
+  },
+  "4053445331836480611": {
+    "name": "INTERACT_LOC_BIL_MAIN_ARCADE",
+    "en": "The Turning"
+  },
+  "4060214340386929482": {
+    "name": "HUD_COL_NOTE_RES_BOWMAN_CONFESSION_TEXT",
+    "en": "Yolanda,\nI'm sorry. I won't be able to keep taking care of Alfie.\n\nYou were right about the Wolves. They turned out to be worse than the military. \n\nWhat I didn't expect is that our own neighborhood would turn on each other. They all saw what the Wolves did to my poor Sofia. And what did everyone want to do in return? Appease?! I deserved Wolf blood… they should've joined me. Instead they conspired against me. \n\nSo I got them first…"
+  },
+  "4117923376183185025": {
+    "name": "TREASURE_FIREFLY_LOGO_C_REED_DESC",
+    "en": "Colby<br>Reed<br>000232 "
+  },
+  "4126440022758918676": {
+    "name": "HUD_COL_NOTE_SEA_FUEL_NOTE_BACK",
+    "en": "REMINDER: All items confiscated from suspects should be placed in the office lockup. Code is 860722"
+  },
+  "4172677018145968649": {
+    "name": "HUD_COL_NOTE_RES_FEDRA_NOTE_TEXT",
+    "en": "They think we're sheep!\nBare your fangs"
+  },
+  "4177708276418237356": {
+    "name": "JOURNAL3_BURDEN_TEXT",
+    "en": "What do I do here? How do I… We just started... I shouldn't have said that to her. She's gonna treat me different now. I know it. I wish my fucking mask didn't fucking break. When did she figure it out she was pregnant? Where were we a couple weeks ago?  Boise? I remember her throwing up in Kennewick… This is too much. \nIt all fucking makes sense… the throwing up. How tired she's been. What the fuck, Dina?! Why didn't you tell me? Why didn't you trust me?\n\nBut did you trust her?\n\nWhat should I do? It's too late to turn back. Just gotta end this whole thing as quickly as possible. "
+  },
+  "4286744363719428226": {
+    "name": "TREASURE_COMIC_J_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - DEEP PHASE"
+  },
+  "4293785964730583050": {
+    "name": "TREASURE_BILLS_REMINDER_4_DESCRIPTION",
+    "en": "I saw a group of hunters coming dangerously close to town. Luckily a pack of infected chased them off.<br>-Reminder<br>put up more warning signs. Let them know you're serious."
+  },
+  "4372561394545612580": {
+    "name": "INTERACT_LOC_HUN_CAMP_GATE",
+    "en": "LINE HERE<br>GATE D2"
+  },
+  "4422377631772578227": {
+    "name": "JOURNAL_DESC_OPE_LIBERTALIA_MODEL",
+    "en": "biggest and most ornate. City Hall? Treasury?\\\\Shared apartment style housing\\\\Small buildings - servant's quarters? Single homes?"
+  },
+  "4554896130899214853": {
+    "name": "NOTE_DESC_ISL_HAYES_JOURNAL",
+    "en": "To whoever finds this note, know that Jonathan Burnes, erstwhile leader and financier of our expedition, has murdered me - and others - for want of Avery's treasure.\\\\He worked the crew to the point of exhaustion, promising them glory but bringing them illness and starvation. He bound a man to a mast and left him to die. And then I witnessed the bastard push our navigator to his doom for daring to speak his mind.\\\\He found me making preparations to leave for home and confronted me - I brandished my pistol and informed him I was returning to England, where I would inform the world of his deeds. And when I turned away, the blackguard shot me in the back and fled into the jungle. I returned fire, but I am not certain if the bullets hit their mark.\\\\My time grows short and my hand weak. In the absence of Earth-bound Justice, I beseech you: pray to God above that Burnes pays for his treachery.\\\\Signed,\\\\Walter Hayes\\First Mate of the Suffolk\\March 23 1808"
+  },
+  "4577097331629988961": {
+    "name": "INTERACT_LOC_WIL_MIL_ZONE_AHEAD",
+    "en": "SALT LAKE CITY<br>MILITARY ZONE<br>AHEAD"
+  },
+  "4583203364255499535": {
+    "name": "JOURNAL_DESC_STOCKADE_SAM",
+    "en": "Nice drawings, Nate"
+  },
+  "4631460041815953409": {
+    "name": "INTERACT_LOC_WIL_MEDICAL_EVAC",
+    "en": "Salt Lake City<br>Saint Mary's Hospital       3 miles<br><br>MEDICAL EVACUATION<br>USE TUNNEL"
+  },
+  "4653547987196521910": {
+    "name": "INTERACT_LOC_LAK_MINING_CAMP",
+    "en": "Warren Coral Mining Incorporated\nMine Foreman Offices"
+  },
+  "4676439572863627111": {
+    "name": "TREASURE_NOTE_WILD_WIFE_DESCRIPTION",
+    "en": "Lucia,<br><br>We made it to the Quarantine Zone. I wanted to call you but all the phone lines are down in this city. They told us that they can deliver letters between the different zones, although it will probably take a week or two to reach you.<br><br>We're in good spirits. Hanna talks about you a lot - she really misses you. I'm surprised at the calmness and maturity she's shown throughout this craziness. I feel like I've been the emotional one. I find that she's comforting me most of the time.<br><br>We've raised her well.<br><br>I hope all is well on your side of the country. And I really hope to hear your voice soon.<br><br>Love,<br>Graham"
+  },
+  "4683352210957761875": {
+    "name": "JOURNAL3_JOELPOEM_TEXT",
+    "en": "My mouth tastes like iron; wounds break open as I <strike>scream</strike> sing. \nYou were the soft twang of nylon. A smell of wood oil. Fret full. \n<strike>Guitar strings with iron are brighter</strike>\nGuitar strings with iron <strike>twang</strike> sound brighter. \nThey mistook your resonance. \n<strike>And left me with dissonance</strike>\nAnd left me with rust.\nAll I have is our last conversation, \nLooping like a chord progression,\nHarmonies in blood. \n\nW.L.F.\nWashington Liberation Front.\nwho are they?\n\nTommy said her name was ABBY"
+  },
+  "4780857596055407057": {
+    "name": "JOURNAL_DESC_CIT_WATCHTOWER_MAP",
+    "en": "I wonder if Elena would let me get a pet lemur?<br>I'd name him Victor.<br><br>[on postit note]<br>calling card PIN:<br>[crossed out]422398741, 16 mins, 3 mins[crossed out]<br>546266109<br>12 mins"
+  },
+  "4804430372089253450": {
+    "name": "HUD_COL_NOTE_SEA_FEDRA_CENSUS_DOC_TEXT",
+    "en": "SEATTLE QZ CENSUS\n\nJune, Admitted: 20, Denied: 5, Expelled: 10\nJuly, Admitted: 17, Denied: 8, Expelled: 11\nAugust,  Admitted: 11, Denied: 12, Expelled: 14\nSeptember, Admitted: 5, Denied: 11, Expelled: 16\nOctober, Admitted: 0, Denied: 30, Expelled: 22\nNovember, Admitted: 0, Denied: 28, Expelled: 35\nDecember, Admitted: 0, Denied: 15, Expelled: 50\nJanuary, Admitted: 0, Denied: 9, Expelled: 40\nFebruary, Admitted: 0, Denied: 16, Expelled: 46\n\nSergeant Ward: continued WLF disruption of our supply lines, in addition to infected attacks and spore infestations, means we are still unable to meet the weekly food distribution quotas.\n\nKeep the city gates sealed to new entrants until further notice. To ease the burden on the food stock, step up your sweeps for criminals and expel them. All Class 2 crimes now qualify for expulsion. We're running out of time.\n\nLt Torres"
+  },
+  "4870286478344950884": {
+    "name": "INTERACT_LOC_HUN_RATION_CENTER",
+    "en": "Federal Disaster Response Agency<br>Ration Center"
+  },
+  "4890239339779532584": {
+    "name": "JOURNAL_DESC_CIT_WATCHTOWER_MAP_TOK004",
+    "en": "422398741, 16 mins, 3 mins"
+  },
+  "4890241538802789006": {
+    "name": "JOURNAL_DESC_CIT_WATCHTOWER_MAP_TOK006",
+    "en": "<break/>\n546266109<break/>\n12 mins"
+  },
+  "4890243737826045428": {
+    "name": "JOURNAL_DESC_CIT_WATCHTOWER_MAP_TOK000",
+    "en": "I wonder if Elena would let me get a pet lemur?<break/>\nI'd name him Victor.<break/>\n\n"
+  },
+  "4890245936849301850": {
+    "name": "JOURNAL_DESC_CIT_WATCHTOWER_MAP_TOK002",
+    "en": "<break/>\ncalling card PIN:<break/>\n"
+  },
+  "4914524564874132399": {
+    "name": "TREASURE_COMIC_A_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - TERMINATION SHOCK"
+  },
+  "4946774565989369056": {
+    "name": "HUD_NEW_JOURNAL_ENTRY",
+    "en": "Journal Entry Added"
+  },
+  "4979463288787951951": {
+    "name": "TREASURE_SUB_KIDS_DRAWING_DESCRIPTION",
+    "en": "Danny___Ish<br><br>our protectors"
+  },
+  "5131976584753612615": {
+    "name": "TREASURE_NOTE_OUT_FIREFLY_BODY3_DESCRIPTION",
+    "en": "ORDERS: Patrol the rendezvous area. Ensure no military presence before moving the girl to the next safehouse.<br><br>Handwriting: \"Make sure the girl is well fed and in good health. Her safety is of the utmost importance.\""
+  },
+  "5143629626058723251": {
+    "name": "TREASURE_NOTE_MILITARY_ABANDON_ZONE_DESCRIPTION",
+    "en": "Col. MacKenzie<br>Atlanta QZ<br><br>Sir -<br><br>Going on 14 months and this little revolution has turned into a blood bath. We've lost too many men, and frankly we're about to lose the entire Zone. If we stay any longer, we will all get lynched.<br><br>Awaiting your orders.<br><br>Captain Mastros"
+  },
+  "5159476245308887862": {
+    "name": "TREASURE_COMIC_N_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - SINGULARITY"
+  },
+  "5162805748381823280": {
+    "name": "HUD_COL_NOTE_SEA_RECRUIT_LETTER_TEXT",
+    "en": "Monday, March 24\n\nNearly got caught dropping leaflets in that last run, but it was worth the risk - two new recruits showed up, both civilians. One of them, Clive, has a serious black eye, but he refuses to talk about it. But he doesn't need to. Everyone in the city gets fucked up by FEDRA one way or the other. The question's always how long you can put up with it before you've had enough. Our message is getting out there.\n\nThursday, March 27\n\nEmma and Jason are dead. FEDRA ambush. I'd still be wasting away in a FEDRA lockup if not for their leadership. No one knows what the fuck's gonna happen, but everyone's out for blood. Isaac's saying we need to strike back right away, but E & J would've stressed patience. I don't know what to think. Still processing all this.\n\nSaturday, March 29\n\nOur strike against the FEDRA checkpoint worked. Killed at least three of those thugs, just a few wounded on our side. Everyone voted Isaac as the new commander. Which is probably good. He's smart, but intense as hell. Says FEDRA needed to start taking us seriously, and now they do. \n\nFriday, April 4\n\nI'm fucking exhausted, but for a good reason - we've had eight new recruits show up in the last few days. And six are FEDRA deserters! We put them in lockdown, of course, and interrogated them to make sure they weren't spies, but they checked out. Isaac's plan clearly fucking worked. People are taking us seriously now, finally seeing the WLF plan is the best way forward. We'll kick those fascists out and rebuild on the foundations Emma and Jason laid."
+  },
+  "5222789753246116263": {
+    "name": "HUD_COL_NOTE_JACKSON_EUGENE_FIREFLY_PENDANT",
+    "en": "Eugene's Firefly Pendant"
+  },
+  "5236919415490325954": {
+    "name": "TREASURE_FIREFLY_LOGO_PD_BRAUN_DESC",
+    "en": "Paul D.<br>Braun <br>??0153 "
+  },
+  "5278661110334025102": {
+    "name": "JOURNAL_DESC_RIV_WATER_WHEEL",
+    "en": "[top]\\Connect the gears?\\\\[bottom]\\Impressive engineering for a bunch of pirates. Must've put the B team on their bridges."
+  },
+  "5380800150135902550": {
+    "name": "TREASURE_NOTE_HUN_HUNTER_HUMVEE_DESCRIPTION",
+    "en": "We finished scouring the city for any survivors. There were a handful of soldiers hiding in the hotel - we took care of them.<br><br>A bunch of us raided their stockade - or what was left of it. Most of the big machines got fucked up in the fighting. We won't be riding on a tank any time soon. Likewise none of the heavy artillery is salvageable. The one exception is the humvee. We've managed to repair it - including the 50-cal mounted gun. This thing is impenetrable. I'd like to see someone fuck with us now. "
+  },
+  "5414977750684629287": {
+    "name": "TREASURE_NOTE_HUN_REBELLION_STASH_DESCRIPTION",
+    "en": "It goes down tonight. We're going to take the Eastern Checkpoint. I've stashed some extra supplies at the Regal Apartments. It's marked with a red X."
+  },
+  "5453038080887510584": {
+    "name": "JOURNAL3_WOLFGRAFFITI_TEXT",
+    "en": "Fuck \nTHE WLF"
+  },
+  "5472535192335239533": {
+    "name": "TREASURE_MAP_OUT_PATROL_ROUTES_DESCRIPTION",
+    "en": "A map of patrol routes outside the zone.<br><br>Handwriting around QZ perimeter: \"West patrol\", \"southwest patrol\", \"south patrol\"<br><br>Southwest: \"Infected\" is crossed out<br>\"Safe now\"<br>\"Hostile camp?\"<br><br>South: \"Safest route to checkpoint Charlie\"<br>\"Infestation\""
+  },
+  "5513896043410818361": {
+    "name": "HUD_COL_NOTE_MOST_WANTED_LIST_TEXT",
+    "en": "KNOWN WLF AGITATORS\n\nThe following people are our top priority targets for any anti-terrorist operations.\n\n<s>Emma Patterson - smuggling, falsifying ration cards, acts of sedition</s>\n<s>Jason Patterson - smuggling, acts of sedition, acts of terrorism</s>\nMarcus Wilson - smuggling, acts of terrorism\n<s>Luis Sanchez - smuggling, acts of terrorism</s>\nIsaac Dixon - murder of FEDRA officer, acts of terrorism, acts of sedition (circled)\nHugo Gonzalez - distribution of anti-FEDRA propaganda\nAlison Cole - murder of FEDRA officer, acts of sedition (circled)\n\n\nWith the Pattersons and Sanchez gone, Dixon has moved in to fill the void; he is now our top-priority target. - Sgt. Ward "
+  },
+  "5553953263548961971": {
+    "name": "TREASURE_MAL_QZ_WINSTON_WARNING_NOTE_DESCRIPTION",
+    "en": "Major Banks -<br><br>This will be my third request in as many weeks for additional patrols in my area. With the Hartford QZ falling apart, the city has been inundated with refugees - many of which are coming through the mall because of the lack of soldiers over here.<br><br>These people are desperate and in most cases they enter the city infected. As you've seen from my reports I had to neutralize three stage ones just last week.<br><br>I realize resources are scarce, but if we don't get more security I'm afraid that this mall will get overrun in a matter of fuck!<br><br>fuck fuck fuckitie fuck fuck!!!!!!!<br><br>You're not going to listen to a word of this!<br><br>Forever your lackey,<br><br>SGT Winston Asher"
+  },
+  "5580269514243000202": {
+    "name": "HUD_COL_NOTE_MED_SHRINE_1_NOTE",
+    "en": "Prayer for a Daughter"
+  },
+  "5612487936548830331": {
+    "name": "HUD_COL_NOTE_RES_BOWMAN_DRAWING",
+    "en": "Boris' Daughter's Drawing"
+  },
+  "5644612065875152311": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT",
+    "en": "[top]\\Sullivan contact - Hotel Di Fiorentino\\\\[bottom]\\1.Get to vantage point\\2.Rendezvous with Sully\\3.Proceed to [crossed out]storage[crossed out] power room\\[crossed out]4.meet Sully at car [crossed out]\\4.Get chucked out window by Nadine ross. Ballroom shootout.\\5.Drive away with cross VERY VERY FAST\\6.[crossed out]lobster stuffed ravioli[crossed out] IBUPROFEN for dinner\\7. I think I'm also getting too old for this, kid."
+  },
+  "5714501321827690067": {
+    "name": "INTERACT_LOC_BIL_MAIN_PIZZA",
+    "en": "Anthony's Pizza and Subs"
+  },
+  "5730553832899020238": {
+    "name": "TREASURE_RILEY_NOTE_DESCRIPTION",
+    "en": "THIS HAS BEEN CUT"
+  },
+  "5742943076698614959": {
+    "name": "TREASURE_DESC_COL_TOWER_1",
+    "en": "Large bronze boar or pig, Celtic, 1st century A.D."
+  },
+  "5762660747150023879": {
+    "name": "HUD_COL_NOTE_RES_TRAPPED_NOTE_TEXT",
+    "en": "Imprisoned note TEXT"
+  },
+  "5780430575252507670": {
+    "name": "HUD_COL_NOTE_SEA_BARKOS_NOTE",
+    "en": "WLF Attack Plans"
+  },
+  "5812562573032090793": {
+    "name": "HUD_COL_NOTE_WAT_THRIFT_BATH",
+    "en": "Written on the wall"
+  },
+  "5834554961207177892": {
+    "name": "JOURNAL_DESC_OPE_TOWER_CLUE_RIGHT",
+    "en": "Chevron? Arrow?"
+  },
+  "5960670355391908609": {
+    "name": "JOURNAL_DESC_CIT_DISMAS_MURAL",
+    "en": "[top]\\Volcano!\\\\[Avery sigil]\\Avery (we are here)\\\\[lower]\\King's Bay\\\\[circled sigils]\\It's one of these."
+  },
+  "5994509687942111650": {
+    "name": "JOURNAL_DESC_OPE_LIBERTALIA_BACKSTORY",
+    "en": "[highlighted text]\\\"Avery; and was likely to be the Founder of a new Monarchy, having, as it was said, taken immense riches\"\\\\\"Yet all these were no more than false Rumours, improved by the Credulity of some, and the Humour of others who love to tell strange Things.\"\\\\[below sigil]\\\"... they were no pyrates, but men who were resolved to assert that Liberty which God and Nature gave them.\""
+  },
+  "6001457203905221023": {
+    "name": "INTERACT_LOC_MAL_QZ_COR_WATER_GUN_AD",
+    "en": "ALL NEW\nPUMP-ACTION\nTYPHOON BLITZ"
+  },
+  "6011175912367054041": {
+    "name": "INTERACT_LOC_HUN_MILITARY_SCHOOL",
+    "en": "Military Preparatory School<br>FEDRA<br>These premises have been hereby secured for FEDRA use under authority of the Security Act, Section 9.18.4"
+  },
+  "6184601342579889154": {
+    "name": "INTERACT_LOC_HUN_DEATH_FOR_FREEDOM",
+    "en": "DEATH FOR FREEDOM"
+  },
+  "6198749606013218812": {
+    "name": "HUD_COL_NOTE_SEA_BARKOS_LETTER_TEXT",
+    "en": "Hey Davis - \n\nCheck our old WLF safe houses for supplies. Probably a longshot, but every little bit helps. Grab what you can and meet us back at the Serevena. Don't worry about the gas, we'll take care of it. \n\nMike\n\n"
+  },
+  "6206795822864202596": {
+    "name": "HUD_COL_NOTE_RES_MEETING_NOTE",
+    "en": "Need a Plan Note"
+  },
+  "6213770006902959011": {
+    "name": "TREASURE_MAP_WILD_2_SALT_LAKE_DESCRIPTION",
+    "en": "A map of the Salt Lake City Quarantine Zone.<br><br>Handwritten notes across the map indicate locations of evacuation routes, the hospital, and areas with no supplies left."
+  },
+  "6225753366815270301": {
+    "name": "TREASURE_FIREFLY_LOGO_B_SEUME_DESC",
+    "en": "Bryony<br>Stewart-<br>Seume<br>??0304 "
+  },
+  "6380712997245356041": {
+    "name": "HUD_COL_NOTE_RES_FEDRA_FALL_NOTE",
+    "en": "Yolanda's Note"
+  },
+  "6455860925561322376": {
+    "name": "TREASURE_COMIC_D_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - UNCERTAINTY"
+  },
+  "6506246892825804860": {
+    "name": "TREASURE_MAINSTREET_SAFE_DESCRIPTION",
+    "en": "Bob,<br><br>I'm not leaving town without that safe, help Brad load it into the pickup.<br>And in case you need to get in, the combination is<br>5-17-21"
+  },
+  "6592769464146524282": {
+    "name": "TREASURE_NOTE_HUN_HUNTER_BECOMING_DESCRIPTION",
+    "en": "We had a public trial after a bunch of teenagers from our group killed that family that wandered into our city. I was sure they'd be punished for breaking our code. Instead the boss deemed that they “procured supplies for the group.” I couldn't believe my ears, and it didn't end there either. He then ordered that all of us take turns, hunting other survivors in the area and bringing their supplies back to the camp.<br><br>There was a long silence. We started walking away when...<br><br>Two members of the group started yelling, protesting the new law, saying he had no right to force this on us. That this isn't what we fought for. I didn't dare lift a finger as the only people to display any sort of morality were killed in front of all of us.<br><br>Next week is my turn to go hunting..."
+  },
+  "6643344780961024608": {
+    "name": "JOURNAL3_YAKIMA_TEXT",
+    "en": "Yakima. Found another camp along the highway. Can't be sure it was Tommy, but we haven't seen other people in two weeks, so… fingers crossed. "
+  },
+  "6671908287942352985": {
+    "name": "TREASURE_TRAINING_MANUAL_MELEE_UPGRADE_2_DESC",
+    "en": "Chapter 6b<br>-Improved Durability of Bladed Tools<br><br>USAGE TECHNIQUES<br>-The lifetime of a bladed tool is determined not only by its inherent durability, but equally by the skill of the user<br>1. In general, the tool should be applied to the softest part of the target. e.g. a pickaxe should be aimed at the ground beside a rock and used to lever it out, not at the rock itself.<br>2. Swing the blade along at a consistent plane. Impaling the target at an angle will weaken the blade.<br>3. If the blade becomes lodged, apply gradual pressure at an angle parallel to the plane of the cut. Lateral pressure can weaken the joints or cause the blade to fracture.<br>..."
+  },
+  "6676016875118553976": {
+    "name": "TREASURE_DESC_CIT_COMPASS_1",
+    "en": "17th century pocket compass, reportedly belonging to Henry Avery"
+  },
+  "6687504734211783492": {
+    "name": "HUD_COL_NOTE_SEA_WLF_JOURNAL",
+    "en": "WLF Recruiter Journal"
+  },
+  "6725015635901989876": {
+    "name": "TREASURE_COMIC_H_DESCRIPTION",
+    "en": "Book 8: NEGENTROPY<br><br>With Captain Ryan's leadership and Daniela's technological expertise, the raids of the Last Watch have become ever more daring. As a scientist, can she bear to use her gifts for destruction?"
+  },
+  "6751617097222723620": {
+    "name": "INTERACT_LOC_HUN_CORRUPT",
+    "en": "Corrupt bastards"
+  },
+  "6759800801754735891": {
+    "name": "HUD_COL_NOTE_SEA_CHECK_DRAWING_NOTE_BACK",
+    "en": "Heed the words of our Prophet, who foretold the outbreak that decimated our society:\n\nGod has unleashed a new Flood upon us and they are the infected: demons who are a living reflection of what we have become: selfish, ravenous, and blind to the world.\n\nThere are those who believe we are doomed, and have resorted to the worst impulses known to man. They choose to fight each other, murder each other, over things that can be shared: food, clothing, and shelter. These people are already lost.\n\nBut if we return to our natural origins, if we become God's Seraphim on Earth, we can purge the world of our demons and regain balance by living in harmony with nature and each other.\n\nCome with me, and my light will guide you through the storm."
+  },
+  "6761379304329964933": {
+    "name": "TREASURE_NOTE_HUN_REBELLION_LOST_SON_DESCRIPTION",
+    "en": "My son… my little boy… I buried him today.\nWhat did he do? Join a protest? And now they're labeling him a traitor. Fine. I'll show them what a traitor does. I've joined them, the rebels, the rioters. They gave me a gun, some bullets, and a mission. I won't survive this, but neither will they.\nHow many other fathers and mothers like me are out there? It's only a matter of time before the city falls. Let's go knock out the first brick.\n-Eva"
+  },
+  "6783941289645199186": {
+    "name": "JOURNAL3_GUITAR_TEXT",
+    "en": "All the promises at sundown, I meant them like the rest…"
+  },
+  "6844973060771692685": {
+    "name": "HUD_COL_UPGRADE_MANUAL_CRAFTING_ABBY_TEXT",
+    "en": "IMPROVISED WEAPONS AND TERRORIST TACTICS:\nA FIELD MANUAL\n\n\nIDENTIFY, COUNTER, AND DESTROY\n\n\nFEDERAL DISASTER RESPONSE AGENCY"
+  },
+  "6927760560029549244": {
+    "name": "JOURNAL_DESC_SCO_DORMITORIES",
+    "en": "The Dormitories."
+  },
+  "6940938111266889456": {
+    "name": "INTERACT_LOC_BIL_MAIN_FLOWER",
+    "en": "Annie's Flower Shoppe"
+  },
+  "6958710236224876264": {
+    "name": "TREASURE_COMIC_D_DESCRIPTION",
+    "en": "Book 4: UNCERTAINTY<br><br>Mankind's trillions have become billions. The Traveler's technology eclipsed the most optimistic projections of human_advancement over the next five hundred years, and humanity's feeble resistance has all but crumbled. <br><br>Having barely survived the crash of the Kobyashi, Daniela and Captain Ryan face an impending menace on the surface of Titan."
+  },
+  "6959886443998091818": {
+    "name": "INTERACT_LOC_BIL_MAIN_MUSIC",
+    "en": "Marquis Music Store"
+  },
+  "6965418149921689349": {
+    "name": "INTERACT_LOC_HUN_FOOD_RUNS_OUT",
+    "en": "What happens\nwhen the food\nruns out?"
+  },
+  "6986923799921231247": {
+    "name": "TREASURE_MAL_COL_SUTURE_BAG_DESCRIPTION",
+    "en": "Medical supplies with sutures, antibiotics, etc."
+  },
+  "6990118248235613194": {
+    "name": "TREASURE_FIREFLY_LOGO_SP_HICKMAN_DESC",
+    "en": "Sadie<br>Pearle<br>Hickman <br>000231 "
+  },
+  "7055601095872293651": {
+    "name": "HUD_COL_NOTE_SEA_HIDDEN_SAFE",
+    "en": "Use West 2 Gate Code"
+  },
+  "7066452332533611274": {
+    "name": "TREASURE_DESC_COL_VAULT_1",
+    "en": "17th century emerald bottle or flask, Mughal Empire"
+  },
+  "7110733971917602480": {
+    "name": "HUD_COL_UPGRADE_MANUAL_PRECISION_ELLIE_TEXT",
+    "en": "OUTDOOR SPORTSMAN\n\nTHIS ISSUE:\n15 HUNTING RIFLE SCOPES REVIEWED & RATED!\n10 THINGS TO KNOW BEFORE YOU SKIN THAT DEER\nBARGAIN HUNTER: HOW TO FIND AMAZING DEALS ON KNIVES, CAMERAS, NIGHT VISION GOGGLES, AND OTHER GEAR"
+  },
+  "7110809266726278257": {
+    "name": "HUD_COL_NOTE_MED_APARTMENT_NOTE_TEXT_BACK",
+    "en": "Scars saw James cooking on the roof. They shot him. I killed two but one got away. I'm leaving our door unlocked and some supplies in our safe. Combo is our apartment number then your apartment number. Take everything and get out of here. - Sam.\n\nI can't leave my mom behind. Gonna barricade our door and hope for the best. Your stuff's still in the safe. My aim's shit. If they get in, we're just gonna put our hands up... - Julia"
+  },
+  "7165755318100760314": {
+    "name": "HUD_COL_NOTE_WAT_GROCERY_BAG",
+    "en": "Bookstore Bag"
+  },
+  "7183946768640676262": {
+    "name": "TREASURE_FIREFLY_LOGO_AR_VINCENT_DESC",
+    "en": "Alex<br>Raymond<br>Vincent <br>000266 "
+  },
+  "7205048721484036413": {
+    "name": "TREASURE_BILLS_REMINDER_5_DESCRIPTION",
+    "en": "Group of runners triggered most of the bombs on the south side of town. It's time to do another pass.<br>DON'T FORGET TO MARK THE MAP WITH ALL BOMB LOCATIONS!"
+  },
+  "7225069374908590046": {
+    "name": "JOURNAL_DESC_ISL_SKELETON_CAVE_WARNING",
+    "en": "3 crosses?\\Jesus/Dismas/Gestus?\\also nautical symbol for shipwreck.\\\\\"NO QUARTER FOR THIEVES\""
+  },
+  "7248246977599216384": {
+    "name": "JOURNAL2_TELLJOEL_TEXT",
+    "en": "So on patrol today Jesse told me Cat referred to me as her girlfriend. She's so open about everything. She talks to her mom about us. She held my hand when we were all out at the lake. Kissed me in front of our friends. Everyone seems to know except for Joel. Should I tell him? I don't know. I don't know how he'd react. "
+  },
+  "7276933646117499351": {
+    "name": "INTERACT_LOC_WLD_FEDRA_TENT",
+    "en": "FEDRA<br>Federal Disaster Response Agency<br>Medical Services Depot"
+  },
+  "7298830199612097028": {
+    "name": "TREASURE_MAL_QZ_APARTMENT_NOTE_DESCRIPTION",
+    "en": "WANTED FOR FIREFLY AFFILIATION<br><br>MARLENE<br><br>\"HERO\" is painted on the poster<br><br>DESCRIPTION<br><br>Age: Mid 40's<br>Height: 5'7\"<br>Weight: 125-135 lbs.<br>Build: Medium<br>Occupations: Laborer, community organizer<br>Scars and marks: Scar on chest, just below collarbone<br>Hair Color: Black<br>Eyes: Brown<br>Race: Mixed<br>Nationality: American<br><br>CRIMINAL RECORD<br>Suspect is wanted on multiple charges including terrorism, murder, conspiracy to murder, forgery, bribery, robbery, and others stemming from organizing and leading the terrorist group known as The Fireflies.<br><br>CAUTION<br><br>SUSPECT SHOULD BE CONSIDERED ARMED AND DANGEROUS AT ALL TIMES; SHE IS WELL-PROTECTED AND WELL-REGARDED BY MANY; EXPECT RESISTANCE TO HER ARREST OR EXECUTION FROM MEMBERS OF THE PUBLIC.<br>IF YOU SEE THIS PERSON, REPORT TO THE NEAREST FEDRA HQ. INFORMATION LEADING TO HER CAPTURE WILL BE REWARDED!"
+  },
+  "7362668929957660421": {
+    "name": "HUD_COL_NOTE_SEA_WAD_OF_CASH_TEXT",
+    "en": "$100 legal tender"
+  },
+  "7378383778123909113": {
+    "name": "HUD_COL_NOTE_MED_ASCENT_NOTE_TEXT",
+    "en": "Pass along - the elders have agreed to a truce with the Wolves. They will stay away from our island, and won't engage with any Seraphites passing through their outer territories. To maintain this peace, we must all work together. Our goals remain the same. These are simply different means to achieve them."
+  },
+  "7426263263983874902": {
+    "name": "TREASURE_TRAINING_MANUAL_BOMB_2_DESC",
+    "en": "Chapter 13<br>-Improved Radius: Emplaced Explosives<br>SHRAPNEL<br>-Increasing the shrapnel generated by an improvised explosive device is integral to ensure coverage of target area<br>..."
+  },
+  "7484157568077874363": {
+    "name": "HUD_COL_NOTE_MED_BUILDING_NOTE",
+    "en": "Survivor Plea"
+  },
+  "7540141821496832322": {
+    "name": "NOTE_DESC_SUN_BALDRIDGE_LETTER",
+    "en": "September 9 1718\\\\Founder Baldridge.\\\\I received word you are mustering your soldiers to attack me. As a fellow Pyrate, and as a friend prior to our years in Libertalia, I implore you, heed my words:\\\\I know not who sowed the seeds of our current discord, but of this I am certain: if the civil war continues, everything we have spent our lives working towards shall come to ruin. History will remember us not as pioneers, but fools.\\\\We must put a stop to this conflict, together. Should we join forces, we shall have the strongest alliance on the island. The other Founders will either join us or fall to our superior might.\\\\If you agree, light a candle in your study this evening, and I shall take that as a sign you have come to your senses. If not, remember both Want and England have made attempts on my life, and failed.\\\\Founder Condent"
+  },
+  "7542210363168722538": {
+    "name": "HUD_COL_NOTE_SEA_QZ_GENERATOR_BACK",
+    "en": "MAIN GATE - 0512\nNORTH 0 - 1382\nNORTH 1 -\n\nEAST 1 -\nEAST 2 - 5345\nWE\nWEST 1 - 6128\nWEST 2 - 0451\nOVER->"
+  },
+  "7607585295676613457": {
+    "name": "TREASURE_COMIC_K_DESCRIPTION",
+    "en": "Book 11: ANTIPARTICLES<br><br>After a navigational error jumps the Von Neumann into the corona of a white dwarf star, the damage is extensive and tension among the crew is high. With the cloaking device destroyed, the ship is forced to hide in a nearby stellar nursery.<br><br>After Daniela's mistake, the crew won't easily trust her again... But they don't have long to decide what to do: time, along with oxygen, is running out."
+  },
+  "7622004561933644356": {
+    "name": "HUD_COL_NOTE_MED_CROSSROADS_NOTE_TEXT",
+    "en": "Horace - Erin will trade up for: \n-Flour\n-Cigarettes\n-Salt\n-Canned fruit\n-Toothpaste\n-Tampons/pads\n-Any spices (cumin, oregano, red pepper, turmeric, cinnamon, etc.)\nSo keep your eyes peeled. We could sure use the extra ammo from her."
+  },
+  "7623613129626868061": {
+    "name": "TREASURE_TRAINING_MANUAL_MOLOTOV_1_DESC",
+    "en": "Chapter 8<br>-Improved Radius of Incendiary Bombs<br>CONSTRUCTION<br>-In any incendiary device, construction is important to ensure proper detonation<br>..."
+  },
+  "7628471075425787707": {
+    "name": "TREASURE_NOTE_MIL_SPORES_BROTHER_DESCRIPTION",
+    "en": "Hey Brother,<br><br>We were so close. I'm sitting outside the walls knowing I'll never see the inside of the zone. While waiting for the smuggler to show up, we heard a squad of soldiers approaching. In our panic, we ducked into this building in hopes of hiding from them. None of us noticed the spores until it was too late. We're all infected - we have a few hours, maybe a day at most. I hope the smuggler is still coming so that I can at least pass this note to you.<br><br>I should've listened to you and come to the zone with you when I had the chance. Now it's too late.<br><br>Take care,<br>-Mark"
+  },
+  "7706654189150676672": {
+    "name": "JOURNAL_DESC_SCO_TRIALS_1",
+    "en": "(left to right, top to bottom)\\\\We receive the due reward of our deeds\\\\Today you will join me in paradise\\\\Cool. I'll just hang here, you guys have fun\\\\DISMAS (Good thief)\\\\JESUS (Jesus)\\\\GESTAS (Jerk thief) "
+  },
+  "7750236552370318959": {
+    "name": "TREASURE_FIREFLY_LOGO_J_LENZ_DESC",
+    "en": "Joseph<br>Lenz<br>000113 "
+  },
+  "7823440731133896996": {
+    "name": "JOURNAL4_HEADINGSOUTH_TEXT",
+    "en": "Heading down the coast. Haven't seen people in a few days. Or intact sailboats. What if Tommy was wrong? What if they're not here anymore? I can't think about that. "
+  },
+  "7857346472255377148": {
+    "name": "GAM_MESS_HOM_TEXT_MESSAGE_FROM_TOMMY",
+    "en": "8 Missed Calls<br><br>Text message from Tommy: \"Where the HELL are you? CALL ME!\"<br><br>\"On my way.\""
+  },
+  "7931500839965854503": {
+    "name": "TREASURE_FIREFLY_LOGO_NIKI_HOO_DESC",
+    "en": "Nicole<br>Hoo <br>000201 "
+  },
+  "7951365908381848796": {
+    "name": "HUD_COL_NOTE_SEA_BARKOS_NOTE_TEXT",
+    "en": "-Carter, Wilson, Young, Hernandez\n-Wright, Ross, Miller, Price\n-Gonzales, Roger, Marquez, Whyte\n\nIsaac - Perez met with our informer last night; they said Ward and the others would likely use the tunnels, so we're putting most of our resources there. He's been reliable in the past, but we're also covering a few other possible exits just in case. Informer will be riding with convoy and asked we insure their safety. What do you think?\n"
+  },
+  "7985164687038454039": {
+    "name": "TREASURE_COMIC_I_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - PRECIPITATE"
+  },
+  "8012875325957889541": {
+    "name": "JOURNAL3_NICK_TEXT",
+    "en": "How many people have Joel and Tommy done this to? Gotta have a hard fucking stomach. Smells like iron in here. Iron iron iron."
+  },
+  "8058024833266223774": {
+    "name": "TREASURE_MAP_UNI_2_CAMPUS_DESCRIPTION",
+    "en": "A map of the UEC Campus with circled areas and handwriting on it.\n\nTop: \"Getting slammed here, must beef up barricades!\"\n\nBottom: \"Infected slipping through here. Need to reinforce all stadium and bookstore exits\""
+  },
+  "8058278778378465126": {
+    "name": "HUD_COL_NOTE_RES_BOWMAN_CONFESSION_BACK",
+    "en": "I poisoned them, one by one. Not enough to kill them… just put them to sleep. Then I dragged them into a spored garage. Uli woke up. We wrestled. I shut him in there… but he bit me.\n\nThose traitors are going to watch each other turn. They will suffer. I hope they think of me when they lose their minds.\n\nI'm already starting to lose mine… it won't be long now. \n\nI hope you found peace somewhere outside of this shitty town. I hope you don't come back to see all of this… if you do… I'm sorry.\n\n-Boris"
+  },
+  "8082658780152819291": {
+    "name": "TREASURE_JOKE_BOOK_A_DESCRIPTION",
+    "en": "No Pun Intended<br>Will Livingston<br><br>It doesn't matter how much you push the envelope.<br>It'll still be stationary.<br><br>What did the Confederate soldiers use to eat off of?<br>Civil ware.<br><br>What did they use to drink with?<br>Dixie Cups.<br><br>A moon rock tastes better than an earthly rock because it's meteor.<br><br>What did the mermaid wear to her math class?<br>An algae bra.<br><br>What is the leading cause of divorce in long-term marriages?<br>A stalemate.<br><br>I walked into my sister's room and tripped on a bra.<br>It was a booby trap.<br><br>A book just fell on my head.<br>I only have my shelf to blame."
+  },
+  "8188981823169037054": {
+    "name": "TREASURE_MAP_FIREFLY_DESCRIPTION",
+    "en": "Meet up with second Firefly team at Capitol Building<br><br>Capitol (gold dome)<br><br>GIRL:<br>5'3\" (?)<br>14 years old<br>Red hair"
+  },
+  "8228844685208969745": {
+    "name": "NOTE_DESC_SCO_MONKS_LETTER",
+    "en": "A miracle, at long last - and on our good Saint Dismas' feast day.\\\\Weeks after we learned the Crown's intent to shutter our cathedral and reclaim our lands, a stranger wandered into our midst as my novice and I concluded our morning prayer. A startling vision with flint-colored eyes and a thick, unkempt beard; he was clothed in a naval captain's uniform, bearing a magnificent sword and a large leather satchel. We bade him join us and he graciously accepted.\\\\At mealtime, the stranger related a sad tale of a battle at sea, and the desire to bury his fallen comrades on sacred ground, confessing a kinship of sorts with our good Saint Dismas. And thus we shared our own tales of woe: the grounds in disrepair, no money forthcoming from the Crown, and the cathedral abandoned save for the two of us.\\\\He nodded knowingly before drawing out of his satchel a quantity of gold coins, the likes of which I had never seen. The stranger offered us this gold in exchange for our land and all the structures contained within the grounds. Though my beliefs conflicted with my desires, in the end, I felt to turn him down would be foolish.\\\\With this amount of gold we can certainly do more good elsewhere than here along this forgotten coastline. As for the stranger, may these lands serve his intentions well, whatever they may be."
+  },
+  "8253286481624910432": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_4_TOK002",
+    "en": "\\\\- letter spacing is similar, though not conclusive.\\- letter to Walshingham shows distinctive lowercase “f” with no crossbar. This is also apparent in the “F. James” sample.\\- distinctive “h” that drops far below the average base and descent line is common in both samples.\\- slant of lettering is the same.\\- overall spacing, weight, slant, & characters are the same in both letters.\\- analysis of ink shows similar aging, fade, & consistency.\\\\Base on analysis I feel it's safe to conclude that “F. James” was an alias of Drake. Since the F. James letter sample is dated 02/15/1597, I believe this proves my theory about his faked death.\\\\--------------------------------------------------------------\\\\I believe those numbers are of some significance and that Margaret was aware of this. I need to discuss this further with Evelyn.\\\\"
+  },
+  "8253288680648166854": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_4_TOK000",
+    "en": "Sir Francis Drake\\\\Setting aside the Burnes/Avery inquiry for now. Too much work left to do with Sir Francis, only a few weeks before I present my findings. They'll probably laugh in my face. Again. So be it.\\\\"
+  },
+  "8283503171430332741": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT_TOK009",
+    "en": "4.meet Sully at car "
+  },
+  "8283505370453589163": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT_TOK007",
+    "en": " power room\\"
+  },
+  "8283507569476845585": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT_TOK005",
+    "en": "storage"
+  },
+  "8283509768500102007": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT_TOK003",
+    "en": "\\1.Get to vantage point\\2.Rendezvous with Sully\\3.Proceed to "
+  },
+  "8283511967523358429": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT_TOK001",
+    "en": "\\Sullivan contact - Hotel Di Fiorentino\\\\"
+  },
+  "8284466343616456352": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT_TOK011",
+    "en": "\\4.Get chucked out window by Nadine ross. Ballroom shootout.\\5.Drive away with cross VERY VERY FAST\\6."
+  },
+  "8284468542639712774": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT_TOK013",
+    "en": "lobster stuffed ravioli"
+  },
+  "8284470741662969196": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_RIGHT_TOK015",
+    "en": " IBUPROFEN for dinner\\7. I think I'm also getting too old for this, kid."
+  },
+  "8285304434837303030": {
+    "name": "JOURNAL_DESC_SCO_CLIFF_CROSSES",
+    "en": "[at top]\\DEATH TRAP\\\\[center]\\PROFIT? DEATH TRAP?\\\\[bottom]\\DEATH TRAPS"
+  },
+  "8292681599658771056": {
+    "name": "HUD_COL_NOTE_SEA_RABBI_LETTER",
+    "en": "Rabbi Saunders' Letter"
+  },
+  "8304495559503254537": {
+    "name": "TREASURE_DIGITAL_RECORDER_UNI_4_LAB_DESCRIPTION",
+    "en": "Firefly Scientist's Recorder"
+  },
+  "8305444761680308650": {
+    "name": "GAM_MES_HOM_BIRTHDAY_CARD_FRONT_TEXT",
+    "en": "Congratulations!"
+  },
+  "8356892741303771721": {
+    "name": "TREASURE_DESC_ISL_SHORE_CLIFF_CAVE_2",
+    "en": "17th century brass and leather nautical spy glass, England"
+  },
+  "8376812649343475004": {
+    "name": "HUD_COL_NOTE_SEA_WLF_LEAFLET_TEXT",
+    "en": "Bare your fangs!  Free Seattle!"
+  },
+  "8459682749350947110": {
+    "name": "HUD_COL_NOTE_SEA_QZ_GENERATOR_TEXT",
+    "en": "Got a big operation coming up and Isaac wants us to scavenge any remaining supplies from downtown. Take any gas from \nthe Courthouse garage \nthe Dome\nand take them to the safe house in Serevena base"
+  },
+  "8538509021816551525": {
+    "name": "TREASURE_DESC_ISL_CAVE_1",
+    "en": "17th century wood tankard, England"
+  },
+  "8555104433101216641": {
+    "name": "TREASURE_BILLS_REMINDER_1_DESCRIPTION",
+    "en": "Reminder: Collect more pills. See if I can scrounge up some extra ammo. I only have THREE! weeks until the next drop-off with Tess."
+  },
+  "8650608793239265281": {
+    "name": "JOURNAL_DESC_MAD_SIGIL_BALDRIDGE",
+    "en": "Adam Baldridge\\\\(below the sigil)\\Sam Sully\\\\Handyman's dream!\\-moderate structural damage\\-roof leaks\\-front door slightly damaged\\-360 degree views from all rooms"
+  },
+  "8678727985070308918": {
+    "name": "TREASURE_FIREFLY_LOGO_M_WHITE_DESC",
+    "en": "Matthew<br>White <br>000118 "
+  },
+  "8747422700306575887": {
+    "name": "HUD_COL_NOTE_SEA_CHECK_DRAWING_NOTE_TEXT",
+    "en": "another day in paradise…"
+  },
+  "8802494810080789094": {
+    "name": "HUD_COL_NOTE_SEA_FEDRA_CENSUS_DOC_BACK",
+    "en": "Sergeant Ward: continued WLF disruption of our supply lines, in addition to infected attacks and spore infestations, means we are still unable to meet the weekly food distribution quotas.\n\nKeep the city gates sealed to new entrants until further notice. To ease the burden on the food stock, step up your sweeps for criminals and expel them. All Class 2 crimes now qualify for expulsion. We're running out of time.\n\nLt Torres\n"
+  },
+  "8812842335094059548": {
+    "name": "JOURNAL_DESC_COL_AVERY_SKETCH_3OF5",
+    "en": "Maybe there's some truth to the whole parrot thing.\\\\What is this symbol?"
+  },
+  "8818663133332877920": {
+    "name": "TREASURE_PIC_WILD_FAMILY_DESCRIPTION",
+    "en": "forgive us"
+  },
+  "8838124268235595675": {
+    "name": "TREASURE_NOTE_HUN_REBELLION_FINAL_FIGHT_DESCRIPTION",
+    "en": "We got them on the run. Most of their forces have retreated to Liberty Avenue. Come midnight we strike. Gather every able body and arm them. If you can stand then you can fight!<br>Anyone that refuses to fight with us will be banished. Anyone that supports the army will be made an example of. Tonight we put an end to this tyranny and start a new life for ourselves."
+  },
+  "8839387085188453078": {
+    "name": "TREASURE_LAB_MARLENE_RECORDER1_DESCRIPTION",
+    "en": "Marlene's Recorder 1"
+  },
+  "8906121864931161269": {
+    "name": "JOURNAL4_PALMDALE2_TEXT",
+    "en": "Still in this fucking basement. The batteries in my flashlight are almost done. The dark is fucking with me. I keep seeing him. Smelling iron. I miss Dina. I miss Potato. What am I doing here? "
+  },
+  "8913156631415358150": {
+    "name": "NOTE_DESC_COL_TREASURY_INVENTORY_SKETCHES",
+    "en": "SECTION G / SHELF B\\CONTENTS - as accounted for by R. Taylor\\\\[picture: jeweled dagger]\\Founder al-Basra claims this bejeweled dagger belonged to Emperor Aurangzeb himself. If so, its worth is immeasurable.\\\\[picture: pearl elephant]\\A magnificent little specimen, painted in deep indigo with a pearl saddle. Tempted to slip it into my own pocket.\\\\[picture: jade vase]\\The details in this sculpted vase are exquisite. The Mughals have a knack for working with jade. Founder al-Basra tells me their empire has entire workshops dedicated to the manufacture of such items."
+  },
+  "8922337508441701752": {
+    "name": "HUD_COL_NOTE_MED_SHRINE_1_NOTE_TEXT",
+    "en": "They've taken Gitta back to their base. She's only thirteen. Even the Wolves can't be that cruel to a child. May your infinite love protect her. May your mercy allow me to see her again."
+  },
+  "8937341596587297435": {
+    "name": "JOURNAL_DESC_OPE_BEACH_GRAVE_A",
+    "en": "Rest in peace."
+  },
+  "8937342696098925646": {
+    "name": "JOURNAL_DESC_OPE_BEACH_GRAVE_B",
+    "en": "Rest in peace, Captain Darby."
+  },
+  "8966064248393966057": {
+    "name": "INTERACT_LOC_HUN_GIVE_US_OUR_RATIONS",
+    "en": "Stop feeding us ???s!\nGive us our RATIONS!"
+  },
+  "8993375479073580484": {
+    "name": "TREASURE_MAL_COL_MEDEVAC_GENERATOR_NOTE_DESCRIPTION",
+    "en": "Private Ellis has taken a turn for the worse. He's burning up and he couldn't keep any of his food down. Maybe I made a mistake… maybe the amputation was too late. Maybe when I'm not watching him, he'll turn and…<br><br>The Infection Protocol. We did what we had to do to Officer Caulfield. We…<br><br>Who the hell am I kidding. We murdered Larry. Ellis held him down while I shot him like a fucking dog. I can't get his screams out of my head.<br><br>“Regan, Please!” “I still have time.” “Don't do this!”<br><br>Ellis, what have we done?<br><br>What if I just leave? What if I just make a run for it?<br><br>I'm sorry, Ellis.<br><br>-Regan"
+  },
+  "9002513386623313567": {
+    "name": "INTERACT_LOC_HUN_GRAFFITI",
+    "en": "DEATH FOR FREEDOM"
+  },
+  "9016118567015217351": {
+    "name": "JOURNAL_DESC_COL_HORSE_SKELETON",
+    "en": "Why did they abandon their horses?"
+  },
+  "9055499590779990600": {
+    "name": "TREASURE_MAP_TOM_POWERPLANT_DESCRIPTION",
+    "en": "North Teton<br>Power Network<br><br>Wyoming<br><br>Lines operated in connection therewith 244.05 miles."
+  },
+  "9105855335626682687": {
+    "name": "INTERACT_LOC_LAK_RESORT_NATURE",
+    "en": "Nature Track"
+  },
+  "9108230151942751066": {
+    "name": "TREASURE_ELLIE_MOM_NOTE_BACK_DESCRIPTION",
+    "en": "Life is worth living!  Find your purpose and fight for it.<br><br>I see so much strength in you.  I know you'll turn out to be the woman you're meant to be.<br><br>Forever… your loving mother<br><br>Anna<br><br>Make me proud, Ellie!"
+  },
+  "9151002388940742467": {
+    "name": "INTERACT_LOC_HUN_STARLIGHT_POSTER",
+    "en": "SAVAGE\nSTARLIGHT\nThe Movie"
+  },
+  "9191290192873339897": {
+    "name": "TREASURE_NOTE_HUN_HUNTER_AMBUSH_MAP_DESCRIPTION",
+    "en": "A map of hunter ambush points"
+  },
+  "9210567881577461292": {
+    "name": "TREASURE_MAL_COL_MEDEVAC_PHOTO_DESCRIPTION",
+    "en": "To the coolest Captain around!<br><br>Here's to another fine year.<br><br>Larry     Sean     HAPPY B-DAY!     Ellis"
+  },
+  "9238577642721581107": {
+    "name": "TREASURE_COMIC_E_DESCRIPTION",
+    "en": "Book 5: FOREIGN ELEMENT<br><br>The victory of the Travelers was absolute, and so too were the terms of humanity's surrender. The living flesh of every man, woman, and child left alive was claimed as the spoils of war.  For how long can Daniela escape their terrible grasp? "
+  },
+  "9238980157869573926": {
+    "name": "JOURNAL1_SPACEDAY_TEXT",
+    "en": "one day."
+  },
+  "9474317891847279685": {
+    "name": "NOTE_DESC_COL_TREASURY_INVENTORY",
+    "en": "SECTION D/SHELF A\\\\CONTENTS - as accounted for by R. Taylor\\\\wooden chest, silver inlay, brass studs\\contents:\\342 gold coins, Mughal\\240 silver coins, Mughal\\734 copper coins, Mughal\\\\bejeweled saddle - leather, sapphires, rubies\\\\set of carved golden rings - elephant, bird, horse\\\\bejeweled golden brooch, gold, emeralds, pearls, rubies\\\\painting, elephant and rider, wooden frame with gold inlay\\\\cups, jade, set of 6 (Founder al-Basra claims these jade cups belonged to Shah Jahan - a worthy addition to our collection!)\\\\sculpture, bronze, elephant and palanquin\\\\sculpture, gold, bust of Aurangzeb"
+  },
+  "9500834550321576432": {
+    "name": "INTERACT_LOC_PROPHET_GRAFFITI",
+    "en": "MAY SHE GUIDE YOU"
+  },
+  "9513668129759007632": {
+    "name": "JOURNAL1_CAMPGROUND_TEXT",
+    "en": "Dina and I found this cool old campground today. She said kids used to go there in the summers for fun. We found all these art supplies. She cut colored paper and made some crowns for us while it rained outside.  It was a good day. "
+  },
+  "9562347890898944592": {
+    "name": "TREASURE_FIREFLY_LOGO_H_PINO_DESC",
+    "en": "Hope<br>Pino <br>??0318 "
+  },
+  "9625089384825803411": {
+    "name": "JOURNAL3_SCARSKETCH_TEXT",
+    "en": "Scars. Fuck these people. Stay focused on why you're here."
+  },
+  "9651460724053757363": {
+    "name": "TREASURE_PIC_WILD_JOEL_AND_SARAH_DESCR",
+    "en": "Family photo of Joel and Sarah"
+  },
+  "9721713774763982179": {
+    "name": "TREASURE_NOTE_OUT_FLASHLIGHT_BODY_DESCRIPTION",
+    "en": "Your contact is a dude named Frank - he's the guy on the outside I've been trading with. He wants into the Boston QZ. Meet him in the Park Street exit of the subway station (right by the capitol building.)<br><br>Attached is his Visa and QZ papers (you like that handiwork?).<br><br>Be careful down there. Some of my other guys are reporting clickers and stalkers in the area.<br><br>(Where the hell is this guy? I've been waiting here for over two hours sweating bullets. I keep thinking I'm seeing something move in the shadows - feels like a stalker is going to jump out at me any second now. I'm giving him another 15 minutes and then I'm heading back.)"
+  },
+  "9723567904322072669": {
+    "name": "TREASURE_MAL_COL_DRUGSTORE_KEY_DESCRIPTION",
+    "en": "Key for the secure area of the pharmacy"
+  },
+  "9732896918204113365": {
+    "name": "JOURNAL4_TALKING_TEXT",
+    "en": "I don't know how Dina talks so easily about Jesse. She tells JJ all about him. She thinks it'd be good for me to talk about Joel. To get it out. When she says that it makes the memories sound like food poisoning. \nI don't want to talk about it. It's just gonna hurt. And I think once I'd start I wouldn't be able to stop. "
+  },
+  "9835631395096040772": {
+    "name": "NOTE_DESC_BURNES_JOURNAL_2",
+    "en": "January 24 1808\\\\A hellish dream: I was back in that Panamanian prison, a noose ‘round my neck, and the hangman my Grandfather. He held the wooden Dismas cross before me and spat \"We receive the due reward of our Deeds, Jonathan Burnes.\" He pushed me off the tower, and I fell.\\\\I woke in a cold sweat to the sound of frenzied shouting - our ship's rigger, possessed by Fever-borne delirium, commandeered our Caravel vessel and set sail. Darby attempted to stop him, but the boy stabbed the good Captain and left him to die on the beach. We only managed to seize him when the ship ran aground.\\\\I ordered the rigger tied to the broken mast as punishment for his unforgivable act. First Mate Hayes insisted this was needless cruelty, that a bullet would do as well, but I held firm. If we are to avoid a similar incident, if I am to succeed, an example must be made. We salvaged what supplies we could and brought them to our remaining ship.\\\\As night fell, we made our way back to the cave and laid poor Captain Darby to rest. The men busied themselves with their preparations, but it was impossible not to hear their muttering, their doubts about our purpose here. I gathered them ‘round Darby's grave and proclaimed \"Do not let his death be in vain - we have come far, Avery's treasure and its attendant glory are certainly waiting for us!\"\\\\Truth be told, the only certainty in my mind was the decision to leave Claire to wait back home. This voyage would be too much for her delicate constitution. It is almost too much for mine, but I cannot turn back now. My family's honor, my honor, hangs in the balance."
+  },
+  "9835632494607668983": {
+    "name": "NOTE_DESC_BURNES_JOURNAL_3",
+    "en": "April 14, 1808\\\\Although I successfully extracted Hayes' bullet from my thigh, the wound festers and the Fever has not abated. I long to see what lies inside the mountain, but the pain is too great to bear and I must rest, regain my strength.\\\\With a moment's respite, doubt creeps into my mind. Was I wrong to punish the men for breaking their contract with me? I have dedicated my life to finding this place, finding Avery's treasure, and their actions nearly robbed me of my destiny. No. My actions were just.\\\\Tonight, I rest. The fever will break. And tomorrow, I finish my grandfather's journey. Then upon returning home, I shall write of my exploits here: a book by Jonathan Burnes to sit in the libraries amongside history's greatest adventurers.\\\\At worst I shall lose this leg. But in the end, I will have lived a life worth living. And Claire will be proud of me at long last.\\\\Claire\\\\ \\\\        Forgive me"
+  },
+  "9835634693630925405": {
+    "name": "NOTE_DESC_BURNES_JOURNAL_1",
+    "en": "January 17 1808\\\\One year ago, I stood in a squalid prison cell in Panama, clutching a mysterious wooden cross. Today, I stand on the shores of a deserted archipelago in the middle of the Indian Ocean, one step closer to fulfilling the destiny Grandfather Burnes was unjustly denied.\\\\Captain Darby and his crew were starting to have their doubts about me - the loss of our quartermaster to the lethal traps in Scotland did not inspire confidence, nor did the weeks we spent scouring the mountains of King's Bay - but thanks to Dover's sure navigation, we have found our way to this mysterious place, and their mood has improved considerably. Though two of the men have fallen ill with ship fever and have been isolated, the others are making camp and preparing to explore the islands.\\\\With a moment to breathe, my thoughts turn to Claire - gazing upon the beauty of these forgotten isles, I feel a tinge of regret that she is not here to share this vision with me, that I encouraged her to remain behind. But we shall be reunited soon, and I am certain she will be happy to have experienced the tale of this journey vicariously rather than first-hand.\\\\Tonight, we rest. Should Fortune and Providence smile upon us, within the month we shall be sailing home with Avery's treasure, returning to whatever glory awaits us."
+  },
+  "9872645533453581562": {
+    "name": "TREASURE_MAL_COL_SALON_NOTE_DESCRIPTION",
+    "en": "Chief Warrant Officer Larry Caulfield died bravely this afternoon.<br><br>We were flying back to the QZ when our patient turned. It must've been spores because none of us saw the bite. The patient broke through the restraints and fell upon our pilot - WO Sean Brendon.<br><br>Even with the helicopter spinning out of control, Officer Caulfield fought the infected patient, saving our lives. We crashed in a rural Colorado mall. Private Eugene Ellis, Officer Caulfield, and I were the only survivors.<br><br>In subduing the infected, Officer Caulfield was bitten on the neck. He immediately showed us the bite and accepted his fate. I executed the Infection Protocol before Officer Caulfield could turn into an infected.<br><br>May he rest in peace.<br><br>Captain Regan Francis<br>4th Infantry Division<br>Denver QZ"
+  },
+  "9872786592890172822": {
+    "name": "TREASURE_TRAINING_MANUAL_HEALTH_KIT_1_DESC",
+    "en": "Chapter 2<br>Improved Effectiveness of First Aid Measures in the Field<br><br>SPLINTING<br>-Splints are used to stabilize a wounded body part.<br>1. While rigid items are ideal as supports, in the absence of these, rolled cloth will suffice.<br>2. Extend the splint beyond the area to immobilize. When possible include joints above and below injury.<br>3. Secure splint firmly above and below injured area. Avoid fastening knots directly over the injury site.<br>4. Palpate the area distal to the injury to insure adequate bloodflow to the extremities remains."
+  },
+  "9882534337684783744": {
+    "name": "TREASURE_SNIPER_LOG_UNI_1_STREETS_DESCRIPTION",
+    "en": "8/29<br>Nothing<br>(Didn't they say people were coming? What's the point of being out here if nothing happens?)<br><br>9/1<br>Still nothing<br>(Marc, quit your bitching. Plenty of time to read up here. Working guard duty on the Science Lab, that's true misery.)<br><br>9/14<br>5 new recruits from the Chicago Q.Z.___IN<br>(Hah, finally. One of ‘em gave me a pack of smokes for “doing a good job.” Sweet!)<br><br>10/5<br>6 guys from H.Q.___IN<br>(Takes 6 guys to deliver one truck? Must be worse out there than I remember.)<br>Supply delivery from H.Q.___IN<br>(BTW, snagged two apples from one of the crates. Left you one, enjoy.)<br><br>10/31<br>10 million werewolves___IN<br>(Let ‘em in just for you, Andrea. Happy Halloween!)<br><br>11/5<br>Recon went to scavenge supplies from town.___OUT<br>Recon returned.___IN<br>(Roger yelled at me for sleeping… Prick.)<br><br>12/20<br>1 Biologist from San Francisco___IN<br>(Guy's a real asshole. Watch out for him.)<br>3 new recruits as escort___IN<br>(At least they wished me a Merry Xmas. Didn't feel like telling them I was Jewish.)<br><br>2/22 <br>10 crates from UT hospital (lotta lab stuff)___IN"
+  },
+  "9941924553865778985": {
+    "name": "INTERACT_LOC_BIL_EVACUATION_NOTICE",
+    "en": "Mandatory Evacuation Order by Federal Disaster Response Agency (FEDRA)"
+  },
+  "9950846928817984035": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_4",
+    "en": "Sir Francis Drake\\\\Setting aside the Burnes/Avery inquiry for now. Too much work left to do with Sir Francis, only a few weeks before I present my findings. They'll probably laugh in my face. Again. So be it.\\\\[handwriting samples]\\\\- letter spacing is similar, though not conclusive.\\- letter to Walshingham shows distinctive lowercase “f” with no crossbar. This is also apparent in the “F. James” sample.\\- distinctive “h” that drops far below the average base and descent line is common in both samples.\\- slant of lettering is the same.\\- overall spacing, weight, slant, & characters are the same in both letters.\\- analysis of ink shows similar aging, fade, & consistency.\\\\Base on analysis I feel it's safe to conclude that “F. James” was an alias of Drake. Since the F. James letter sample is dated 02/15/1597, I believe this proves my theory about his faked death.\\\\--------------------------------------------------------------\\\\I believe those numbers are of some significance and that Margaret was aware of this. I need to discuss this further with Evelyn.\\\\[ring sketch]"
+  },
+  "9950850227352868668": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_1",
+    "en": "Evelyn bought a 1st edition of “A General History of the Pyrates” from a collector, along with a stack of 18th century documents. Among them I found a very intriguing letter from one Joseph Burnes, who not only admits to being a crewman on Henry Avery's ship, but possibly hints at Avery's vast treasure. What else could “riches of Paradise” refer to?\\\\If he sent this letter from prison, he clearly didn't have the treasure with him - so where is it?\\\\Need to trace it back to the source - Henry Avery's attack on the Gunsway.\\\\Picture caption: Joseph Burnes\\\\Map caption: Last known sighting.\\\\--------------------------------------------------------------\\\\Note above letter: What are these markings?"
+  },
+  "9950852426376125090": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_3",
+    "en": "Did more digging - Burnes' letter mentions “the highest tower” and there's only one (semi) intact Spanish prison in Panama with a tower. Probably our best place to start.\\\\Problem #1 - Panamanian government build a new prison next to the old one. The worst of the worst criminals are kept there.\\\\Problem #2 - Panama is ruled by a dictator whom I doubt will be sympathetic to our goals.\\\\Had a long discussion with Evelyn regarding the difficulties the prison's location presents to us. She said she'll come up with a plan, but I do not feel she is fully considering the risks involved - let alone her health. Let alone my health.\\\\--------------------------------------------------------------\\\\Should we approach by sea?\\\\Pros:\\- most direct way in\\- no (few) bribes required\\- lend some excitement to our lives\\- might lead us to pirate treasure\\\\Cons:\\\\- might not lead us to pirate treasure\\- very, very illegal\\- very good chance of dying\\- humid weather\\\\[top map sketch]: New Prison / Old Prison\\\\[bottom map sketch]: Panama\n"
+  },
+  "9950853525887753301": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_2",
+    "en": "Evelyn's copy of “General History” has passages I've not seen in later editions. If I'm able to trace his route, perhaps I can discern where Avery's treasure might be…\\\\HENRY AVERY\\- lived 1659 - 1699\\- alias: Benjamin Bridgeman, Long Ben, Pirate King, the Arch Pirate\\- sigil:\\\\- raided Mughal treasure ship Gunsway & vanished with untold millions in treasure.\\\\- may have teamed up with other pirates in the Madagascar region to attack the ships - must look into Thomas Tew (killed in the battle), Richard Want, William Mayes, perhaps others.\\\\- “General History” is known to be full of embellishment & outright fabrication… but there's more truth in those pages that people suspect…\\\\--------------------------------------------------------------\\\\Where did he go?\\\\[map]\\\\No idea!\\\\The ship Burnes was on got blown off course in a storm & they were captured by the Spaniards in Panama. Bad luck.\\\\Avery was very good at hiding his tracks. I feel like I'm going down the wrong road here - it's clear the best and only hope of finding Avery's treasure is with our friend Burnes. Time to read up on Panama.\\\\[map notations, clockwise from upper right]\\\\- Strait of Bab-el Mandeb - Gunsway heist\\\\- Reunion Island - split treasure here?\\\\- met with Adam Baldridge?\\\\- Ascension Island - stop to get more food\\\\- Nassau - laid low under protection of Governor Nicholas Trott\\\\- Scotland 1699 - last known sighting of Avery"
+  },
+  "9974717488837923925": {
+    "name": "TREASURE_FIREFLY_LOGO_M_DAVIDSON_DESC",
+    "en": "Melinda<br>Davidson <br>000214 "
+  },
+  "10023214614382291487": {
+    "name": "HUD_COL_NOTE_RES_INFECTED_STREETS_SAFE",
+    "en": "Dale's Combo"
+  },
+  "10040968348469781090": {
+    "name": "HUD_COL_NOTE_JACKSON_EUGENE_TOMMY_PHOTO",
+    "en": "Photo of Eugene and Tommy"
+  },
+  "10050430984333346851": {
+    "name": "INTERACT_LOC_HUN_MOVIE_POSTER",
+    "en": "DAWN OF THE WOLF<br>Part 2"
+  },
+  "10053913437496360167": {
+    "name": "TREASURE_FIREFLY_LOGO_R_OLIVERIO_DESC",
+    "en": "Ryan<br>Oliverio<br>000194 "
+  },
+  "10078124537253307402": {
+    "name": "TREASURE_TRAINING_MANUAL_MELEE_UPGRADE_1_DESC",
+    "en": "Chapter 4<br>Improved Durability of Bladed Tools<br><br>KNOTS<br>-When binding one rigid object to another, the use of proper knots and tying techniques is paramount.<br><br>1. Tie a clove hitch several inches from the tip of the shaft.<br><br>2. Wrap the binding around the shaft at a high tension in a spiral until it sits just below halfway to the tip.<br><br>3. Place the blade perpendicular to the shaft, halfway between the hitch and the top.<br>..."
+  },
+  "10079491746417855367": {
+    "name": "HUD_COL_NOTE_WAT_THRIFT",
+    "en": "Thrift Store Reminder"
+  },
+  "10148277872898510086": {
+    "name": "INTERACT_LOC_WIL_HOSPITAL_AHEAD",
+    "en": "St. Mary's\nHospital\n\nAhead"
+  },
+  "10152337011971616247": {
+    "name": "TREASURE_NOTE_OUT_TESS_SHIPMENTS_DESCRIPTION",
+    "en": "1/8<br>8 bottles of pills___(Bill never sorts these bottles, gonna be up all night divvying them up…)<br>12 cans ham<br>8 cans beans<br>4 boxes of bandages<br>1 crate Canadian whiskey<br>10 boxes 20 gauge shells<br><br>4/1<br>1 bottle pills<br>3 cans sardines___(No matter how much I starve, don't ever make me eat these.)<br>10 cans soup<br>7 packs beef jerky<br>6 boxes gauze<br>1 bottle morphine___(Can you believe he found this? Way to go, Bill.)<br>9 boxes 9mm rounds<br><br>6/13<br>3 bags fertilizer<br>1 good bottle of Scotch__(This one's ours, Joel!)<br>5 cans fruit<br>3 packs dried fruit<br>2 good flashlights<br>4 gas mask filters<br>1 kevlar vest__(This should fetch a good price.)<br><br>8/2<br>8 bottles of pills___(Joel, don't forget, all of these bottles need to be delivered ASAP to Donovan in the West End district.)<br>2 boxes 9mm rounds<br>12 D Batteries<br><br>(I know what you're thinking: weak as shit delivery. Bill promised he'd do better next shipment.)"
+  },
+  "10155672958514697252": {
+    "name": "TREASURE_MIL_WAREHOUSE_KEY_DESCRIPTION",
+    "en": "Key Acquired"
+  },
+  "10200513209334819640": {
+    "name": "TREASURE_FIREFLY_LOGO_K_RISK_DESC",
+    "en": "Kazden<br>Risk <br>000153 "
+  },
+  "10202525705735458504": {
+    "name": "HUD_COL_UPGRADE_MANUAL_EXPLOSIVES_ELLIE_TEXT",
+    "en": "ORGANIC CHEMISTRY: CONCEPTS & PRACTICE\n\n11th EDITION\n\n\nWEINBERG, KAPOOR, AND OMENUKO"
+  },
+  "10224577695946768220": {
+    "name": "HUD_COL_NOTE_RES_BOWMAN_UNFINISHED_TEXT",
+    "en": "Boris,\n\nI'm so sorry. What those Wolves did to Sofia was horrifying. I can't help but feel somewhat responsible. I've been getting the town so riled up about standing our ground against the Wolves. When she started spray painting over their rules, I didn't discourage her hard enough. I kept it from you. I thought she'd stop.\n\nI know you want to retaliate against the Wolves… believe me, I feel the same way. But we can't. Not now. We've got to be smart. Let things cool down. \n\nPeople will be looking to you for how to handle this. You were a leader here after the outbreak. I need you to be a leader again. Let's not let everything we fought for be in vain. \n\n-Uli"
+  },
+  "10245267461729557141": {
+    "name": "TREASURE_COMIC_G_DESCRIPTION",
+    "en": "Book 7: FREE RADICALS<br><br>After their improbable escape from the Arena, Daniela and Ryan are now the two most wanted humans in the solar system. Their newfound infamy has attracted the attention of a mysterious organization called the Last Watch.<br><br>Following scarce and cryptic clues, the trail to the Last Watch has led them to Saturn's tiny and misshapen seventh moon: Hyperion."
+  },
+  "10289259483363195330": {
+    "name": "TREASURE_FIREFLY_LOGO_E_GRIGGS_DESC",
+    "en": "Erik<br>Griggs <br>000111 "
+  },
+  "10314880035358824002": {
+    "name": "GAM_MES_HOM_BIRTHDAY_CARD_TEXT",
+    "en": "You're not a fossil! (yet)<br>(Happy birthday)<br>Dear Dad,<br>Let's see… you're never around, you hate the music I'm into, you practically despise the movies I like, and yet somehow you still manage to be the best dad every year. How do you do that?<br>Happy Birthday, pops!<br>Love, Sarah"
+  },
+  "10319362939348968459": {
+    "name": "JOURNAL_DESC_COL_TREASURY_CEILING",
+    "en": "NEW DEVON"
+  },
+  "10352314772420921378": {
+    "name": "INTERACT_LOC_FEDRA_RATION_DISTRIBUTION",
+    "en": "FEDRA Ration Distribution Center"
+  },
+  "10430457381518940894": {
+    "name": "JOURNAL_DESC_COL_CODE_OF_CONDUCT",
+    "en": "ARTICLE FIVE\\\"HE WHO DESERTS LIBERTALIA IN TIME OF BATTLE SHALL BE PUNISHED BY DEATH\"\\\\Did these slavers, murderers and thieves actually follow these rules?"
+  },
+  "10435219523032105558": {
+    "name": "JOURNAL4_DIXIE_TEXT",
+    "en": "Dixie National Forest. Couple hunters tried to jump me. Didn't go well for them. "
+  },
+  "10440686404888572352": {
+    "name": "TREASURE_NOTE_SUB_DEAD_KIDS_DESCRIPTION",
+    "en": "We're trapped. I think everyone else is dead. Some of the little ones are with me.  I got infected pounding at the door. I don't know how long we'll hold out. If Ish and the others are alive, maybe they can reach us.<br><br>If it comes down to it I'll make it quick.<br><br>-Kyle"
+  },
+  "10536987146776822720": {
+    "name": "HUD_COL_NOTE_SEA_CONVOY_MEMO_TEXT",
+    "en": "Pvt. Miller -\n\nWe got fresh intel there's an active WLF hideout on Spring and 5th. Grab any available soldiers in your sector and head to the hideout ASAP. Execute any suspects, secure the location, and await my arrival.\n\nSergeant Ward"
+  },
+  "10561545245255389131": {
+    "name": "NOTE_DESC_COL_TREASURY_INVENTORY_SKETCHES_TOK006",
+    "en": "\\The details in this sculpted vase are exquisite. The Mughals have a knack for working with jade. Founder al-Basra tells me their empire has entire workshops dedicated to the manufacture of such items."
+  },
+  "10561547444278645553": {
+    "name": "NOTE_DESC_COL_TREASURY_INVENTORY_SKETCHES_TOK004",
+    "en": "\\A magnificent little specimen, painted in deep indigo with a pearl saddle. Tempted to slip it into my own pocket.\\\\"
+  },
+  "10561549643301901975": {
+    "name": "NOTE_DESC_COL_TREASURY_INVENTORY_SKETCHES_TOK002",
+    "en": "\\Founder al-Basra claims this bejeweled dagger belonged to Emperor Aurangzeb himself. If so, its worth is immeasurable.\\\\"
+  },
+  "10561551842325158397": {
+    "name": "NOTE_DESC_COL_TREASURY_INVENTORY_SKETCHES_TOK000",
+    "en": "SECTION G / SHELF B\\CONTENTS - as accounted for by R. Taylor\\\\"
+  },
+  "10595196193836676815": {
+    "name": "JOURNAL_DESC_MAD_SIGIL_BONNY",
+    "en": "Anne Bonny\\\\DRAW.\\BRIDGE."
+  },
+  "10641344501948480661": {
+    "name": "TREASURE_TRAINING_MANUAL_MOLOTOV_COVER_DESC",
+    "en": "Insurgent Ordinance: Fabrication and Tactical Deployment"
+  },
+  "10641768767357145377": {
+    "name": "TREASURE_NOTE_SUB_ELLIE_CRAWL_ROOM_DESCRIPTION",
+    "en": "I'm gone for a few months and the world doesn't waste any time going to shit. Everywhere you turn there're infected - and non-infected - trying to kill you. Mankind is back to the food chain, baby! I'm kind of shocked I've survived this long.<br><br>These sewers seem pretty safe. Limited exits/entrances make it easier to defend, and if anyone gets in here, I can lose them in the maze<br><br>I might not be tough, but I am quick. Maybe I just need to bide my time down here until it all gets sorted up there. I think I'll become a sewer mole-man for a while.<br><br>Wish me luck.<br><br>-Ish"
+  },
+  "10819404199146805143": {
+    "name": "INTERACT_LOC_OUT_TILTED_BUILDING_SIGN",
+    "en": "The Goldstone Building"
+  },
+  "10836184008536988198": {
+    "name": "TREASURE_HUN_HOTEL_KEYCARD_DESCRIPTION",
+    "en": "THE HOTEL<br>GRAND<br><br>Jack Sullivinsky<br><br>Security Door Card"
+  },
+  "10881826944869251144": {
+    "name": "NOTE_DESC_BRITISH_LETTER_1",
+    "en": "June 2 1702\\\\Captain Harrison -\\\\ It has been three days since you and your regiment set out for the towers, and our hopes that you might find and apprehend Captain Avery have dwindled along with our supplies. Discovering this pyrate hideaway after years of false leads bolstered the confidence of my men, but after three days of cowering in this damp cave, they grow restless and fearful. They do not wish to starve here, or worse, return to King's Bay empty-handed.\\\\Therefore, in direct defiance of your orders, come morning we shall take what supplies and armaments we can carry from this place and head to the towers ourselves. There, by God's good grace, we shall capture Avery and bring him to face Justice. God willing we shall rendezvous with you there.\\\\Lt. Sherwood\\4th Foot Regiment under license of the East India Company"
+  },
+  "10881830243404135777": {
+    "name": "NOTE_DESC_BRITISH_LETTER_2",
+    "en": "June 11 1702\\\\The signal fires were lit last night, and like clockwork, another group of would-be bounty hunters and glory seekers wandered heedless into our encampment. They put up a good fight, killing a number of our fellows, but the outcome was never in doubt. Two regiments sent by the East India Company defeated in as many days. For their sake, I hope they learned their lesson.\\\\Their self-righteous Lieutenant Sherwood lived long enough to slander Captain Avery, pledging us a large share of the bounty and a full pardon in exchange for Avery's whereabouts. Avery is offering us something greater than gold, said I, just before putting an end to his insults with my sword.\\\\Our losses aside, this lot of British pigs were much better stocked than the last - we shall make good use of their boots and pistols.\\\\[Thomas Tew sigil]"
+  },
+  "10898086565494070572": {
+    "name": "JOURNAL3_RADIOLOOKOUT_TEXT",
+    "en": "We lost the ground to snow. \nStep on the ice. \n<strike>Feel my thaw.</strike>\nTest my thaw."
+  },
+  "10919958523174658843": {
+    "name": "TREASURE_NOTE_HUN_HUNTER_TOURISTS_DESCRIPTION",
+    "en": "8/5<br>Shoes___4x<br>Jacket<br>Misc Clothing___6x<br>Tires___4x<br>Misc Medical___2x<br>Canteen<br><br>8/6<br>Shoes___2x<br>Misc Clothing___3x<br>Backpack<br>Canned Food___3x<br>Dried Food___4x<br><br>8/7<br>Shoes___4x<br>Jackets___2x<br>Misc Clothing___7x<br>Dried Food___2x<br><br>8/8<br>Nothing - everyone too busy chasing down that crazy chick."
+  },
+  "10978060741664882956": {
+    "name": "TREASURE_DESC_AUC_AUCTION_12",
+    "en": "17th century Persian Mughal bronze bowl"
+  },
+  "10978062940688139378": {
+    "name": "TREASURE_DESC_AUC_AUCTION_10",
+    "en": "17th century Mughal jamadhar dagger, India"
+  },
+  "10978064040199767589": {
+    "name": "TREASURE_DESC_AUC_AUCTION_11",
+    "en": "17th century brass barber's bowl, Scotland"
+  },
+  "11030405009978576293": {
+    "name": "TREASURE_TRAINING_MANUAL_BOMB_1_DESC",
+    "en": "Chapter 4<br>Improved Radius: Emplaced Explosives<br><br>CONTAINMENT<br>.."
+  },
+  "11055981596116661636": {
+    "name": "TREASURE_DESC_MAN_FOUNTAIN_1",
+    "en": "Antique tin toy drummer soldier"
+  },
+  "11105479773394931152": {
+    "name": "HUD_COL_NOTE_SEA_HUB_PET_KEY_TEXT",
+    "en": "Barko's"
+  },
+  "11192487201129086976": {
+    "name": "INTERACT_LOC_BIL_MAIN_WARNING1",
+    "en": "You Will BE SHOT"
+  },
+  "11192489400152343398": {
+    "name": "INTERACT_LOC_BIL_MAIN_WARNING3",
+    "en": "Can't help! Go away!"
+  },
+  "11192490499663971609": {
+    "name": "INTERACT_LOC_BIL_MAIN_WARNING2",
+    "en": "No trespassers!"
+  },
+  "11192492698687228031": {
+    "name": "INTERACT_LOC_BIL_MAIN_WARNING4",
+    "en": "You will be shot on sight!"
+  },
+  "11226981028842701210": {
+    "name": "JOURNAL3_HUNTERATTACK_TEXT",
+    "en": "These hunters tried to ambush us. Fuckers didn't stand a chance against us. We were scavenging for supplies and I was looking at Dina. I felt a deep appreciation for her coming along. I really love her. "
+  },
+  "11234672319952082732": {
+    "name": "HUD_COL_NOTE_MED_CONSTRUCTION_NOTE",
+    "en": "Seraphite Orders"
+  },
+  "11238929489689371994": {
+    "name": "TREASURE_TRAINING_MANUAL_SHIV_2_DESC",
+    "en": "Chapter 12b<br>Improved Durability of Blades<br>REINFORCEMENT<br>-Improving the durability of a blade can be important when replacements are unavailable or in short supply<br>..."
+  },
+  "11283323822156662167": {
+    "name": "NOTE_DESC_RIV_CARETAKER_LETTER",
+    "en": "June 5 1718\\\\Another shipment of unmarked crates came up river from the port, only this one was accompanied by a group of armed soldiers. Though agitated, I commenced inspecting the integrity of the crates, until a harsh voice commanded me to stop. I bristled at being ordered around like a common thug, but when I turned, I found myself staring into the eyes of Founder Tew. It was the first time I'd seen any of the Founders in the flesh.\\\\My throat went dry and I found myself struggling to speak, as I needed to choose my words carefully.. I explained to him I merely wanted to inspect the contents for weight, but he told me, firmly, it was unnecessary. I was relieved when he shifted his interest elsewhere.\\\\Truth be told, I did get a look inside the crates before Founder Tew stopped me. Cutlasses. Pistols. And gunpowder. Considering the number of crates, I would say enough to supply an army.\\\\I did not speak of this to Eleanor, she is preoccupied enough with her brother Jack's disappearance, but my friends must be told. Libertalia was founded on ideals worth defending, even against the Founders themselves if necessary. Once I ensure Eleanor and little Abigail are safe, I shall make my way to town to inform the others. Until then, I shall keep my head down but my eyes open."
+  },
+  "11305588781645064290": {
+    "name": "HUD_COL_NOTE_SEA_ISAAC_PEPTALK_TEXT",
+    "en": "Roger  -\n\nFollowing up on our fight from last night. I hear your concerns and understand your reluctance. \n\nBut listen: we've thinned FEDRA's numbers. Many of their soldiers have joined our fight. And knowing they plan to sneak out through the tunnels, we have a rare opportunity to deal a final blow to Torres and his thugs. If we let them regroup then how many of our men will die? Our own have to come first. You know that more than anybody. \n\nI'm glad you're asking these questions - they are questions leaders wrestle with every day. I'm proud of the growth you've made, the soldier you've become, and the leader you'll be one day.\n\nIsaac"
+  },
+  "11323533891868654060": {
+    "name": "HUD_COL_NOTE_MED_STAIRWELL_NOTE",
+    "en": "FEDRA Orders"
+  },
+  "11347436607764797540": {
+    "name": "TREASURE_NOTE_SUB_LOOTING_DESCRIPTION",
+    "en": "Another night, another shooting. I could see the muzzle flashes coming from the Carson's windows.  I stayed up the entire night with the whole family in one room. I doubt anybody got any sleep. It's only a matter of time before the looters try to break into our house. We have to get out of here.<br><br>That skinny man approached us again. He traded more of his bullets for some of our food. He offered us to join him in his hideout. He says it's secure and more importantly hidden. Easily defendable is how he described it. He said that the only reason he trusts me is because I have kids.<br><br>I don't think we can stay here anymore. He seems like a trustworthy guy. I'm going to suggest to everyone tomorrow that we take him up on his offer.<br><br>-Kyle"
+  },
+  "11448111582203782575": {
+    "name": "TREASURE_STUDENT_JOURNAL_UNI_2_DORMS_DESCRIPTION",
+    "en": "01/18<br>Nine goddamn months of waiting, and still, nothing. No word from anyone. Found some additional cans of food in the dining commons, but they won't last. Had an incident at the eastern hall barricade but everything's still secure.<br><br>01/31<br>I caught a glimpse of a group of those things running around. I saw one that looked like Heather. Maybe it WAS Heather. Fuck...<br><br>02/10<br>Since batteries are running short, they're now only listening to their radio once a night. I gave up on that since the last broadcast- it's been three fucking months, why do they bother?<br><br>02/25<br>Cheryl was smoking out yesterday. Said she needed it. She got pissed when I threw out her stash. She doesn't get it. We need to keep a clear head here.<br><br>Someone's going to have to go into town and get more supplies. It's probably going to be me."
+  },
+  "11460593840197219384": {
+    "name": "JOURNAL3_TWINFALLS_TEXT",
+    "en": "Twin Falls. Found a camp along the main highway. If it was Tommy's, he's probably only a day or so ahead of us. We're getting close to Boise. Dina's pushing to go around. I don't want to add two days to this trip."
+  },
+  "11461700446819193521": {
+    "name": "TREASURE_NOTE_SUB_RAIN_CATCHER_DESCRIPTION",
+    "en": "Hey Susan,<br><br>I just wanted to drop you a quick line and say these rain-catchers were a great idea. Super smart to gather water without leaving the place. I hope you don't mind, but I gave the kids a couple of water guns. So of course…  I've been drenched all day.<br><br>If you don't want them to have it, let me know and I'll take them back.<br><br>See you at dinner tonight. Fair warning though, Kyle is making his special “meatloaf” again.<br><br>-Ish"
+  },
+  "11484244515373352632": {
+    "name": "TREASURE_SNIPER_LOG_UNI_1_STREETS_BACK_DESCRIPTION",
+    "en": "4 veterans wrangling supplies.___OUT<br>(Lot more mouths to feed with all those scientists…)<br><br>3/4<br>2 veterans who left back in February.___IN<br>supply dump from Dallas Q.Z.___IN<br>(Holy shit. We got chicken! You better call me over as soon as they serve dinner.)<br><br>4/21<br>12 veterans to Boston Q.Z.___OUT<br>(Wished ‘em luck.)<br><br>6/12<br>3 doctors___OUT<br>(No idea why they left…)<br>2 recruits___OUT<br>(John said something about “scouting”, but for what?)<br><br>8/20<br>4 10-ton trucks and a flatbed___IN<br>1 personnel carrier truck___IN<br>2 veteran drivers___IN<br>4 recruit drivers___IN<br>(New blond guy was giving me eyes. I hope he sticks around. BTW, what's with all the commotion? Is anyone going to tell us what's going on?)"
+  },
+  "11513195635469007752": {
+    "name": "TREASURE_MAL_COL_PHARMACISTS_NOTE_DESCRIPTION",
+    "en": "Think about me while I'm off. I'll be missing you, but not too much. |../hud/read-prompts/smiley.svg|<br> <br> |../hud/read-prompts/heart.svg|-Laura"
+  },
+  "11563350620053458160": {
+    "name": "HUD_COL_NOTE_SEA_QZ_GENERATOR",
+    "en": "Checkpoint Gate Codes"
+  },
+  "11566468572832828286": {
+    "name": "TREASURE_NOTE_SUB_BOAT_DESCRIPTION",
+    "en": "Well… It's looking like I've dodged the chaos and the mayhem long enough. My time out at sea is coming to an end. I'm short on supplies and this boat has seen better days. And you know what… this was bound to happen sooner or later. I guess it's time to go see what's left of mankind.<br><br>What could possibly go wrong, right?<br><br>If you happen to find my skeleton, please don't step on my skull. Thanks.<br><br>-Ish"
+  },
+  "11629685860798057181": {
+    "name": "TREASURE_LAKESIDE_MAP_DESCRIPTION",
+    "en": "A map of a Colorado lakeside resort"
+  },
+  "11641899397926620313": {
+    "name": "HUD_COL_NOTE_SEA_HUB_MAP_TEXT",
+    "en": "Downtown Seattle"
+  },
+  "11675826065541652298": {
+    "name": "TREASURE_JOKE_BOOK_B_DESCRIPTION",
+    "en": "To Get to the Other Side<br>Kathrine McCormack<br><br>I used to be addicted to soap.<br>But I'm clean now.<br><br>Why did the scarecrow get a promotion?<br>Because he was outstanding in his field.<br><br>What does a pirate say while eating sushi?<br>Ahoy! Pass me some soy!<br><br>I tried to catch some fog earlier. I mist.<br><br>Bakers trade bread recipes on a knead-to-know basis.<br><br>A moon rock tastes better than an earthly rock because it's meteor.<br><br>A backwards poet<br>writes inverse.<br><br>3.14% of sailors are Pi Rates.<br><br>I stayed up all night wondering where the sun went. Then it dawned on me."
+  },
+  "11718732033387013738": {
+    "name": "HUD_COL_NOTE_MED_CONSTRUCTION_NOTE_TEXT",
+    "en": "Pass along - the truce is over. They ambushed one of our groups. We need to show our strength. Gather a handful of your strongest soldiers and go deep into their territory. Target any wolves you come across - there is no age restriction to the message we must deliver."
+  },
+  "11750117954879018275": {
+    "name": "TREASURE_SUBURBS_HOUSE_SAFE_DESCRIPTION",
+    "en": "8-21-36 "
+  },
+  "11821510858122786604": {
+    "name": "TREASURE_NOTE_BOYS_DIARY_DESCRIPTION",
+    "en": "October 4<br>It's official, school is closed indefinitely. I guess this outbreak is good for something. No school = no homework, which is fine by me. Now what do I do with all this free time?<br><br>October 5<br>Mom and Dad were fighting. They were somehow yelling at each other while whispering at the same time. It sounded like Mom wants to leave - go to her sister's. Dad says it's safe here. That the outbreak won't reach our town.<br><br>October 6<br>Dad yelled at me for listening to the radio. He says that the news is bullshit. Mom agreed with him while putting on a brave face, but I can tell she's scared. They both look scared.<br><br>October 7<br>I think Dad felt bad about yesterday. Gadget was asleep in my bed and Dad didn't say anything about it. He came in, petted him, sighed, and walked out. I've never seen him like this.<br><br>October 10<br>Dad was consoling mom last night. Aunt Karen is dead… at least that's what I think I heard. When we sat for breakfast, everyone was all quiet, as if nothing happened. I played along.<br><br>October 15<br>Officer Jones stopped by and chatted with Dad. More like whispered with Dad - lots of that going around these days. Afterwards Dad told us that we have to leave town. We have to go to a new home. That the military will protect us. I'm only allowed to bring one bag with me. Mom just sat there.<br><br>October 16<br>Where we're going, there are no pets allowed. We drove to the edge of town with Gadget. I took off his collar and let him go. On the drive back Dad kept talking about how he'll be fine.<br><br>“He's meant to be free in the wild.”<br><br>Whatever.<br><br>October 17<br>It's time. Dad says we'll be back before we know it…<br><br>I think he's full of it."
+  },
+  "11913678442729884262": {
+    "name": "HUD_COL_NOTE_SEA_FUEL_NOTE",
+    "en": "Note About Refueling"
+  },
+  "11960387115988146034": {
+    "name": "TREASURE_ELLIE_SWITCHBLADE_DESCRIPTION",
+    "en": "Ellie's Switchblade"
+  },
+  "11997729776285819858": {
+    "name": "HUD_COL_NOTE_SEA_HUB_PET_KEY",
+    "en": "Pet Store Key"
+  },
+  "12021672380154492665": {
+    "name": "HUD_COL_NOTE_MED_ASCENT_NOTE",
+    "en": "Seraphite Truce"
+  },
+  "12081567898627162739": {
+    "name": "JOURNAL_DESC_OPE_POLE_SKEL_B",
+    "en": "The crimes of murder and ship-wrecking carry a high penalty on Jonathan Burnes' watch.\\\\Not a good way to go.\n"
+  },
+  "12081568998138790950": {
+    "name": "JOURNAL_DESC_OPE_POLE_SKEL_A",
+    "en": "Not a good way to go."
+  },
+  "12085729319917620595": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_3_TOK002",
+    "en": ": New Prison / Old Prison\\\\"
+  },
+  "12085731518940877017": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_3_TOK000",
+    "en": "Did more digging - Burnes' letter mentions “the highest tower” and there's only one (semi) intact Spanish prison in Panama with a tower. Probably our best place to start.\\\\Problem #1 - Panamanian government build a new prison next to the old one. The worst of the worst criminals are kept there.\\\\Problem #2 - Panama is ruled by a dictator whom I doubt will be sympathetic to our goals.\\\\Had a long discussion with Evelyn regarding the difficulties the prison's location presents to us. She said she'll come up with a plan, but I do not feel she is fully considering the risks involved - let alone her health. Let alone my health.\\\\--------------------------------------------------------------\\\\Should we approach by sea?\\\\Pros:\\- most direct way in\\- no (few) bribes required\\- lend some excitement to our lives\\- might lead us to pirate treasure\\\\Cons:\\\\- might not lead us to pirate treasure\\- very, very illegal\\- very good chance of dying\\- humid weather\\\\"
+  },
+  "12085735916987389861": {
+    "name": "NOTE_DESC_MOTHERS_BOOK_3_TOK004",
+    "en": ": Panama<break/>"
+  },
+  "12118077410237775465": {
+    "name": "GAM_MES_SUBURBS_WARNING_INFECTED_INSIDE_GRAFFITI",
+    "en": "Warning infected inside do NOT open"
+  },
+  "12167803888035906580": {
+    "name": "TREASURE_LAB_MARLENE_JOURNAL_DESCRIPTION",
+    "en": "March 15<br>We've finally crossed the Utah border. In a couple of days we'll be back with the others.<br>Today the crew was in much better spirits. I've been worried about their morale since Greg and Tania's passing last week. It's good to hear them laughing again. Robin came up to me and said, “Thanks for watching over us, Marlene.” It was a small gesture, but I needed it.<br><br>March 23<br>Ellie never made it.<br><br>We arrived at the hospital. There was much celebration, at least from the others. I guess they're happy to see their old friends. We haven't seen some of these guys in over ten years.<br><br>After they told me the news, I couldn't eat. I couldn't talk to anyone.<br><br>I should be grateful to just be alive, but right now I just want to shut my eyes for a bit.<br><br>March 24<br>They look at me and I know what they're thinking - that we're a bunch of incompetent grunts. What was I supposed to do? I thought I was going to die… my men were being hunted by the entire Boston battalion. I had to get her out of the city. How was I supposed to know the Firefly escorts were already dead?<br><br>Goddamn it...<br><br>I panicked. In the end I healed pretty damn quickly, and my men were more capable than I gave them credit for. More than a handful survived the army's attack. I should've kept her with me, instead I handed her off to a couple of smugglers.<br><br>I failed you, Anna. I failed all of us.<br><br>I am an incompetent grunt.<br><br>April 25<br>I can't stand talking to any of them. I don't think I can take the stares any longer. No way I can stay here.<br><br>April 28<br>One of our scouts just radioed in. He spotted an older man and a young girl entering the tunnel by the bus terminal. He thinks she might've had red hair, but he's not sure. What if it's her? Stop doing this, Marlene!<br><br>The recon squad is about to head out. I'm going to join them.<br><br>April 28<br>When you're lost in the darkness, look for the light.<br><br>She's alive. They're running the tests on her now.<br><br>I can't tell if I'm excited, scared, or just nervous. All I know is my hands won't stop shaking."
+  },
+  "12182389304657711431": {
+    "name": "TREASURE_FIREFLY_LOGO_E_FUENTES_DESC",
+    "en": "Eddie<br>Fuentes<br>000158 "
+  },
+  "12191155332791782853": {
+    "name": "JOURNAL2_ALMOSTTHERE_TEXT",
+    "en": "Should be at the hospital by tonight. I don't know who or what I expect to find. All I know is that I'm anxious and scared. "
+  },
+  "12236991567120407129": {
+    "name": "JOURNAL4_COAST_TEXT",
+    "en": "Made it to the coast finally. It's gorgeous. Flowers everywhere. There's this thick morning gloom. Doesn't seem like the military ever came through. Maybe it was too spread out. I wish Dina could see this. She'd lose her shit. I like the sound of the waves."
+  },
+  "12273805380670765193": {
+    "name": "TREASURE_DESC_SCO_HILLS_CAVE_1",
+    "en": "Bronze boar, Celtic, 1st century B.C."
+  },
+  "12330877746658821528": {
+    "name": "HUD_COL_NOTE_SEA_HUB_BANK_ROBBER",
+    "en": "Bank Robber Letter"
+  },
+  "12394627314309752653": {
+    "name": "INTERACT_LOC_HUN_KEEP_US_SAFE",
+    "en": "How long\ncan THEY keep\n? us SAFE?"
+  },
+  "12401527737443413196": {
+    "name": "HUD_COL_NOTE_SEA_FEDRA_CENSUS_DOC",
+    "en": "FEDRA Census Document"
+  },
+  "12432073351512900860": {
+    "name": "HUD_COL_NOTE_RES_RESISTANCE_FLYER_TEXT",
+    "en": "Fall Into Savings SALE\nWith unbeatable deals stop by Rosemont's today. Bring this coupon to get 25% off your entire purchase."
+  },
+  "12442790189787801482": {
+    "name": "HUD_COL_UPGRADE_MANUAL_UNSTOPPABLE_ABBY_TEXT",
+    "en": "URBAN WARRIOR:\nCLOSE-QUARTERS COMBAT TRAINING FOR CIVILIANS\n\nCPL. LANCE McGRATH"
+  },
+  "12447560333449936216": {
+    "name": "JOURNAL2_WHEREARETHEY_TEXT",
+    "en": "No one is here. The place is clearly abandoned. Fuck it… I'm going inside. There's gotta be something. "
+  },
+  "12456648983083777368": {
+    "name": "INTERACT_LOC_BIL_MAIN_EVACUATION_TIME",
+    "en": "All residents of Amherst county and all outlying areas are required to evacuate by 8:00 PM 10/17/13"
+  },
+  "12475885999196061153": {
+    "name": "GAM_MES_HOM_NEWSPAPER_HEADLINES_TEXT",
+    "en": "Texas Herald<br><br>300% increase due to mysterious infection<br>Admittance spikes at area hospitals!<br><br>FDA expands list of contaminated crops, massive recalls anticipated<br><br>The Food and Drug Administration's investigation of crops potentially tainted with mold continues across the country. Initial lists distributed to vendors nationwide warned against crops imported from South America. However now the scope has extended to include Central America and Mexico. Several companies have already voluntarily recalled their food products from store shelves. The FDA is expected to release an expanded list of foods under their--<br>Continued on Page 3<br><br>Police: crazed woman killed husband and 3 others<br>\nAn encounter with local law enforcement yesterday evening ended in bloodshed when police responded to several 911 calls in Westlake Hills. Upon discovery of a grisly murder scene, officers were violently attacked by Sandra Rivers, who was on the premises unknown to law enforcement."
+  },
+  "12559161224963439857": {
+    "name": "JOURNAL2_LEAVING_TEXT",
+    "en": "I thought I could let it go… I wanted to let it go… He's gonna freak out when he realizes I've gone. "
+  },
+  "12582448228343487106": {
+    "name": "JOURNAL_DESC_SCO_GRAVES_RIGHT",
+    "en": "Celtic Knots<br><br>I'm knot patient enough for this<br><br>Scottish gravestone (arrow pointing to gravestone)"
+  },
+  "12666230153308427301": {
+    "name": "HUD_COL_NOTE_JACKSON_EUGENE_NOTE_TEXT",
+    "en": "Eugene-\nI'm begging you to come home!\n\nThe Fireflies want to save the world - I say let them. Let them go after the military, the politicians. Let them develop a vaccine to save mankind. Maybe one day we'll live to see the fruits of their fantasies. Until then, I have to put our daughter first.\n\nThe Fireflies will be fine without you. Your daughter won't. She keeps asking me when you're coming home. I can't lie to her anymore.\n\nI miss you. But I don't know how much more of this I can take. Come home. Please. \n\nWe love you.\nClaire"
+  },
+  "12738377238079054021": {
+    "name": "INTERACT_LOC_HUN_TRESSPASSERS",
+    "en": "TRESPASSERS WILL BE SHOT\nSURVIVORS WILL BE SHOT AGAIN"
+  },
+  "12766931399509440416": {
+    "name": "JOURNAL_DESC_SCO_PIRATE_CONSTRUCTION",
+    "en": "Water wheel for power?\\\\Elevator system?\\\\Sunken ship.\\Deliberately sunk?\\Did they take treasure up here and sink the ships to hide the entrance?\\Pirates path?"
+  },
+  "12778530593211597131": {
+    "name": "HUD_COL_NOTE_RES_BOWMAN_DRAWING_TEXT",
+    "en": "Happy Birthday Dad!\nThe Best Clicker Killer in the Whole QZ!!!"
+  },
+  "12784349548884385267": {
+    "name": "TREASURE_MEAT_LEDGER_DESCRIPTION",
+    "en": "3/23___494 lbs<br>4/10___1233 lbs<br>5/8___4700 lbs<br>6/18___5140 lbs___(BIG HAUL!)<br>9/29___1630 lbs<br>10/2___307 lbs<br>11/5___612 lbs<br>1/4___704 lbs<br>3/5___3409 lbs___(That's more like it.)<br>4/27___2817 lbs<br>5/30___4248 lbs<br>6/9___1930 lbs<br>7/26___1506 lbs<br>8/5___908 lbs<br>9/23___240 lbs___(We have to do better...)<br>10/12___305 lbs"
+  },
+  "12792654603696710927": {
+    "name": "TREASURE_MAP_MIL_QZ_DESCRIPTION",
+    "en": "A map of the Boston Quarantine Zone"
+  },
+  "12813745689058280478": {
+    "name": "TREASURE_BIL_EVACUATION_NOTICE_DESCRIPTION",
+    "en": "THIS HAS BEEN CUT"
+  },
+  "12833340590508198947": {
+    "name": "TREASURE_ELLIE_WALKMAN_DESCRIPTION",
+    "en": "Ellie's Walkman"
+  },
+  "12837475000964372544": {
+    "name": "HUD_COL_NOTE_JACKSON_EUGENE_TOMMY_PHOTO_TEXT",
+    "en": "A photograph of Tommy and Eugene from when they were Fireflies."
+  },
+  "12846228684611630520": {
+    "name": "JOURNAL4_PALMDALE3_TEXT",
+    "en": "I got out. The horde got distracted by a group of travelers. Some of them didn't make it. Two of the bodies were kids. I buried them. "
+  },
+  "12849504500190783666": {
+    "name": "HUD_COL_NOTE_MED_GYM_NOTE",
+    "en": "Gym Safe Combo"
+  },
+  "12874570421127770950": {
+    "name": "TREASURE_NOTE_OUT_WARNING_LEAFLET_DESCRIPTION",
+    "en": "WARNING\n\nTHE AREA IMMEDIATELY OUTSIDE THE BOSTON QUARANTINE ZONE WILL BE SUBJECTED TO SATURATION BOMBING IN THE NEXT 48 HOURS TO ELIMINATE ANY THREAT OF INFECTED\n\nAll residents of this area have until 48 hours from this notice's posting to evacuate the Boston city limits. No one will be allowed into the Quarantine Zone, we are not accepting new residents at this time.\n\nTHERE WILL BE NO FURTHER WARNINGS. FOR YOUR OWN SAFETY YOU MUST CLEAR THE AREA"
+  },
+  "12925502915610113319": {
+    "name": "TREASURE_FIREFLY_LOGO_B_GLUECK_DESC",
+    "en": "Ben<br>Glueck<br>000106 "
+  },
+  "12939772076672489334": {
+    "name": "INTERACT_LOC_MAL_QZ_COR_VACATION_AD",
+    "en": "Affordable getaway!\nWhere will you escape to?\n\nKAUAI, HAWAII\nPackages starting at $899"
+  },
+  "12994606064248475739": {
+    "name": "TREASURE_NOTE_MIL_DOCKS_2_DESCRIPTION",
+    "en": "Damn soldiers spotted one of our ships. I thought we were done for, but that Robert guy knew one of them. He managed to bribe them in return for letting us go. I guess he's good for something. The son of a bitch can talk. It did cost us a third of the cargo and I can't shake the feeling that we've been had. How the hell did they find us in that fog?<br><br>Anyways, here's what we managed to bring in:<br><br>2 crates of clothes (some new pairs of jeans!)<br>1 crate toilet paper<br>2 crates of frozen meat (more Canadian Bison!)<br>1 crate of liquor"
+  },
+  "13035955244769744144": {
+    "name": "JOURNAL_DESC_MAD_SIGIL_CONDENT",
+    "en": "It's not just Avery and Tew, other notable captains are involved...\\\\Christopher Condent\\ship: Fiery Dragon"
+  },
+  "13137325634720162510": {
+    "name": "TREASURE_TRAINING_MANUAL_MOLOTOV_2_DESC",
+    "en": "Chapter 8<br>-Improved Radius of Incendiary Bombs<br>DEPLOYMENT<br>-Proper use of an incendiary device is important to ensure effective detonation<br>..."
+  },
+  "13156884528406263132": {
+    "name": "INTERACT_LOC_HUN_TOOK_CARE",
+    "en": "Sara<br>Take Dexter and Neville to your mom's<br>\"It's not safe here -Jen\" is crossed out<br>\"don't worry we take good care of her...\" is written below in red"
+  },
+  "13193223976511953597": {
+    "name": "JOURNAL_DESC_MAD_SIGNAL_TOWER_RIGHT",
+    "en": "Signal tower?"
+  },
+  "13200040172885379808": {
+    "name": "HUD_COL_NOTE_SEA_HUB_PET_KEY_BACK",
+    "en": "900 Marion and Sixth"
+  },
+  "13207684935780302850": {
+    "name": "HUD_COL_NOTE_SEA_HUB_BANK_ROBBER_BACK",
+    "en": "I feel really fucking weird right now. Sweating like a pig.\nArm's all red and black where I got bit. Can't keep my thoughts straight. \n-----\nOH SHIT! IS THIS HOW IT HAPPENS? AM I TURNING INTO ONE OF THEM???\n-----\nFUCK THAT! IF I'M GOING OUT… I'LL GO OUT LIKE A FUCKING MAN!"
+  },
+  "13207862954290082012": {
+    "name": "JOURNAL_DESC_SUN_GUNSWAY_VASE",
+    "en": "Mughal vase - whatever they didn't melt down they used to decorate their homes."
+  },
+  "13237730471613689829": {
+    "name": "TREASURE_TRAINING_MANUAL_HEALTH_KIT_2_DESC",
+    "en": "Chapter 6<br>Improved First Aid Measures in the Field<br>STERILIZATION<br>-Sterilization is essential for the effectiveness of wound treatment in the field.<br>1. If unable to wash hands or wound, prep hands and wound site with iodine, alcohol.<br>2. Debride wound with sterilized tools or cover hands in sterile cloth or plastic to limit contamination.<br>3. Irrigate wound thoroughly with clean water. Water may be field-sterilized by boiling for 15 minutes.<br>4.Dress wounds with sterile bandages prepared either by boiling in water or soaking with alcohol. Dry bandage thoroughly before applying to wound."
+  },
+  "13262923553494683456": {
+    "name": "HUD_COL_NOTE_RES_ARCHERY_MAG",
+    "en": "Archery Magazine"
+  },
+  "13263864092504676230": {
+    "name": "TREASURE_COMIC_B_DESCRIPTION",
+    "en": "Book 2: MESSENGER PARTICLE<br><br>The first test of Daniela's zero-point jump drive started out a success, but contact with the test pilot was immediately lost. Forty-eight standard hours later, he returned transformed, and he came with a message.  “WE ARE THE TRAVELERS,” the message began."
+  },
+  "13265902180532471297": {
+    "name": "TREASURE_DESC_MAD_WATCHTOWER_STAIRS_1",
+    "en": "17th century brass and ivory tankard, Germany"
+  },
+  "13268800466009598325": {
+    "name": "JOURNAL4_PALMDALE_TEXT",
+    "en": "Palmdale, CA. So, I'm hiding out in a basement. Hoping this horde passes by. Miss you, Potato. "
+  },
+  "13302222127358216730": {
+    "name": "INTERACT_LOC_BIL_MAIN_EVACUATION_LOCATION",
+    "en": "MANDATORY EVACUATION NOTICE<br>Please follow the instructions of authorities along evacuation route<br><br>\"EVACUATION ROUTE\" is written inside an arrow pointing left<br><br>Evacuation safe-zone will be awaiting evacuees at the following location:<br>Lincoln High School"
+  },
+  "13411295389234957602": {
+    "name": "TREASURE_COMIC_F_DESCRIPTION",
+    "en": "Book 6: ACCRETION<br><br>Daniela and Captain Ryan have been thrown into the Arena, where the hungry eyes of the Travelers watch as they are forced to fight to the death. Will she put aside her feelings for the captain to fight for her own survival?"
+  },
+  "13413833145325920485": {
+    "name": "JOURNAL_DESC_START_CATHEDRAL_INFO",
+    "en": "[at top]\\St. DISMAS CATHEDRAL\\- Abandoned in/around 1697\\- Considered a historic site until rafe bought it and started digging it up.\\\\41. And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing wrong.\\42. And he said unto Jesus: remember me when you come unto your kingdom.\\43. And Jesus said unto him, today you will join me in paradise.\\\\[at bottom] \\Why Avery's fixation on St. Dismas?"
+  },
+  "13509988547103511055": {
+    "name": "HUD_COL_NOTE_JACKSON_EUGENE_FIREFLY_PENDANT_TEXT",
+    "en": "EUGENE LINDEN\n000314"
+  },
+  "13516765740378886230": {
+    "name": "HUD_COL_NOTE_RES_ARCHERY_MAG_TEXT",
+    "en": "Archery Magazine TEXT"
+  },
+  "13578350385176141008": {
+    "name": "TREASURE_FIREFLY_LOGO_M_KIPER_DESC",
+    "en": "Michael<br>Kiper <br>??0109 "
+  },
+  "13589084213385957301": {
+    "name": "JOURNAL_DESC_SCO_TEW_WARNING_WALL",
+    "en": "Tew's sigil? What's he doing in Scotland?\\\\\"For those who prove worthy, Paradise awaits, for those who prove false, behold your grim fate.\""
+  },
+  "13591686701228950983": {
+    "name": "INTERACT_LOC_SUB_RULES",
+    "en": "HOUSE RULES<br><br>Important please read<br>- Make sure doors are locked<br>- Ask for password if you don't know the visitor<br>- No shouting and noisy play<br>- Run to hiding spot when you hear the alarm"
+  },
+  "13601725597199208627": {
+    "name": "TREASURE_NOTE_MILITARY_LOST_HILL_DESCRIPTION",
+    "en": "We lost Troy Hill to the most ragtag pieces of maggot shit ever to carry a gun. Bastards are cunning, though. They stole one of our mortar launchers. We didn't stand a chance.<br><br>With this and the Strip District in their pocket, they now control the whole river. Made for a difficult retreat, there's barely half our squad left.<br><br>I just pray to God that Jeremy and Pam are still alive. They got stranded on the other side of the river."
+  },
+  "13620074963604998502": {
+    "name": "INTERACT_LOC_HUN_FED_UP",
+    "en": "Fed up\nwith\nFEDRA"
+  },
+  "13624302727840825233": {
+    "name": "HUD_COL_NOTE_SEA_HUB_MAP_BACK",
+    "en": "Welcome to Seattle"
+  },
+  "13637014689725111973": {
+    "name": "HUD_COL_NOTE_RES_INFECTED_LIQUOR_SAFE_TEXT",
+    "en": "Staff, \n\nSo everyone's up to speed, I sold the old safe to Dale's Garage across the way. I'm too old to learn a new combination, so the new safe uses the same numbers as the old safe. Easy peasy.\n"
+  },
+  "13690168689130300976": {
+    "name": "HUD_COL_UPGRADE_MANUAL_STEALTH_ABBY_TEXT",
+    "en": "DAVID VERSUS GOLIATH:\n\nA COMPREHENSIVE HISTORY OF GUERRILLA WARFARE\n\n\nDR. ANNA ORLOV \n"
+  },
+  "13836871451136545151": {
+    "name": "TREASURE_NOTE_SUB_CLICKER_ROOM_DESCRIPTION",
+    "en": "Yesterday I met some people that did not want to shoot me on sight. Shocking I know. We traded some supplies and went on our merry way.<br><br>They had kids with them and they seemed pretty scared. I almost told them about this place. What if they're like the others? What if...<br><br>You know what? I don't care. What's the point of surviving if you don't have someone to laugh at your corny jokes?<br><br>Tomorrow, I'm going to search for them. See if they want to join me in here.<br><br>-Ish"
+  },
+  "13941878410008958362": {
+    "name": "TREASURE_COMIC_N_DESCRIPTION",
+    "en": "Book 14: SINGULARITY<br><br>The Travelers have been crippled… for now. Daniela's daring plan, and her seemingly miraculous escape back home, have made her a galvanizing figurehead to the Last Watch. Captain Ryan's “sacrifice” has made him a martyr, an illusion Daniela won't dispel. But how long can she keep what really happened a secret?"
+  },
+  "14022292013565027841": {
+    "name": "INTERACT_LOC_OUT_STATE_HOUSE_ARCH",
+    "en": "Massachusetts State House"
+  },
+  "14100395520859903657": {
+    "name": "HUD_COL_NOTE_RES_FEDRA_FALL_NOTE_TEXT",
+    "en": "Boris,\nWolves broke into FEDRA HQ and found the enlisted rosters. I've heard they're starting to knock on doors, looking for soldiers.  I'm not gonna be executed in my own town. \n\nAfter things calm down, I'll try to return with a new name.\n\nI couldn't find Alfie. I put his food on your back porch. In case I don't come back, give him lots of scratches for me. He always loved you and Sofia.\n\nYolanda"
+  },
+  "14114724163090827031": {
+    "name": "JOURNAL_DESC_START_RAFE_INFO_LEFT",
+    "en": "32. RAFE ADLER\\Big Box Scion\\\\\"Wanna see something cool?\" We're en route to New York for a shareholder meeting, but Adler has no interest in discussing business. Instead, he shows me his latest find: a fabulous jeweled egg. \"One of a kind,\" he says. \"I had to do some serious digging, go out in the field - but that's the best part. It's no fun if you don't get your hands a little dirty.\"\\\\[written on photo]\\Mmmyes daddy bought me this plane\\\\[below article]\\We'll be fine. It's not like Rafe is a psychopath with unlimited resources..."
+  },
+  "14129033949497199375": {
+    "name": "TREASURE_DESC_MAD_TRAILS_RIDGE_1",
+    "en": "17th century parchment scroll, England"
+  },
+  "14132296325031794561": {
+    "name": "INTERACT_LOC_SUB_TRESPASSERS",
+    "en": "I'M ARMED <br>NO TRESPASSING <br>WILL SHOOT ON SIGHT"
+  },
+  "14153020774602268461": {
+    "name": "INTERACT_LOC_CRUISE_TERMINAL",
+    "en": "Cruise Terminal"
+  },
+  "14249960139985506420": {
+    "name": "JOURNAL1_FARMINGROTATION_TEXT",
+    "en": "Farming rotation blows. I don't get why people ask for this assignment. Note to self: talk to Maria about how early I can sign up for patrol training. "
+  },
+  "14340859954349621790": {
+    "name": "HUD_COL_NOTE_SEA_HIDDEN_CHECKPOINT_TEXT",
+    "en": "Gavin,\n\nDerek got into some business with a broken window last week, he would've lost his damn leg if we hadn't rushed him back to the Serevena. I went ahead and stashed some supplies at a couple of sites downtown for any future emergencies, broken legs, infected, Derek fuck-ups, whatever.\n\nSince you're going that way anyway, can you resupply the stash at the West 2 checkpoint? Gate hasn't worked for years but the combination is the old code for West 2.\n\nAlison"
+  },
+  "14388636355785776429": {
+    "name": "TREASURE_TRAINING_MANUAL_BOMB_COVER_DESC",
+    "en": "Improvised Traps and Area-Denial Techniques"
+  },
+  "14444210486670135231": {
+    "name": "JOURNAL_DESC_START_RAFE_INFO_RIGHT_TOK000",
+    "en": "SHORELINE AIDS REBELS IN CIVIL WAR\\\\Shoreline's presence in the capital city confirms what many already suspected: Nadine Ross is continuing her ambitious expansion of Shoreline's resources, involving them in several theaters of conflict around the globe.\\\\"
+  },
+  "14444212685693391653": {
+    "name": "JOURNAL_DESC_START_RAFE_INFO_RIGHT_TOK002",
+    "en": "\\...or that Nadine's got a mean high kick and an army at her beck and call...\\\\...crap."
+  },
+  "14463110664618385648": {
+    "name": "JOURNAL_DESC_START_TRIP_INFO_LEFT",
+    "en": "There must be a beginning of any great matter, but the continuing unto the end until it be thoroughly finished yields the true glory."
+  },
+  "14481789559778138469": {
+    "name": "TREASURE_NOTE_SUICIDE_DESCRIPTION_NONCRUMPLED",
+    "en": "Well, Bill,<br>I doubt you'd ever find this note cause you were too scared to ever make it to this part of town. But if for some reason you did, I want you to know I hated your guts. I grew tired of this shitty town and of your set-in-your-ways attitude. I wanted more from life than this and you could never get that.<br><br>And that stupid battery you kept moaning about -- I got it. But I guess you were right. Trying to leave this town will kill me. Still better than spending another day with you.<br><br>Good Luck,<br>Frank"
+  },
+  "14536410405252845512": {
+    "name": "HUD_COL_NOTE_SEA_INFORMANT_LETTER_TEXT",
+    "en": "Everything is in place. We will be waiting.\n\nOnce we intercept the convoy and take the FEDRA officers captive, you can abandon your post and join us. \n\nI know you've taken numerous risks and lived in fear of being discovered. Your loyalty to our cause is appreciated. \n\nIsaac\n"
+  },
+  "14547410661951236596": {
+    "name": "HUD_COL_NOTE_SEA_INFECT_DETECT_TEXT",
+    "en": "Place the tip of the device against exposed skin.\nPush the device firmly until it “clicks”.\nHold in place for 3 seconds.\nObserve reading on central display."
+  },
+  "14577727543178463575": {
+    "name": "HUD_COL_NOTE_RES_INFECTED_STREETS_SAFE_TEXT",
+    "en": "Yo - when Dale comes by, he's gonna ask for the safe combo, but just walk over to the garage and put it in yourself, otherwise he's gonna bother you eight more times. The combo is 30-82-65. \n\nSomeone needs to talk to his wife. I know she wants to think he's gonna get better but it's time to get practical. I heard the WLF have some real doctors at their base… Nobody would blame her for leaving (except Boris, but fuck him.) \n"
+  },
+  "14590843293540783148": {
+    "name": "JOURNAL_DESC_RIV_WATER_WHEEL_TOK003",
+    "en": "\\Impressive engineering for a bunch of pirates. Must've put the B team on their bridges."
+  },
+  "14590845492564039570": {
+    "name": "JOURNAL_DESC_RIV_WATER_WHEEL_TOK001",
+    "en": "\\Connect the gears?\\\\"
+  },
+  "14693384779009032400": {
+    "name": "TREASURE_ELLIE_BACKPACK_DESCRIPTION",
+    "en": "Ellie's Backpack"
+  },
+  "14777941998696080013": {
+    "name": "HUD_COL_NOTE_RES_PETSTORE_NOTE_TEXT",
+    "en": "Uli,\n\nIt was Boris. I saw him shoot that WLF patrol against their own van. Jesus… I get it… they killed his daughter… but he just signed our death warrant.\n  \nWe have one chance out of this… we turn him in. I know he's your friend… but if those Wolves shot that girl over some graffiti, think of what they'll do to all of us if they think we're harboring the killer of three of their own. \n\nLet's meet at the usual place after curfew.\n\n-X"
+  },
+  "14785714705732705331": {
+    "name": "NOTE_DESC_SUN_AVERY_LETTER",
+    "en": "My loyal subjects\\\\As the sun sets on our glorious Paradise, we must endeavor to preserve its riches. To that end we have expelled its weakest elements.\\\\The traitorous Tew knows our secrets, so we must act quickly. Destroy the dam. Cleanse New Devon, and move my treasure through the passage to my ship.\\\\  Signed, Lord Avery"
+  },
+  "14827087414345812541": {
+    "name": "HUD_COL_NOTE_SEA_HUB_FEDRA",
+    "en": "Plea to a Friend Letter"
+  },
+  "14827779127981894718": {
+    "name": "JOURNAL_DESC_START_RAFE_INFO_LEFT_TOK004",
+    "en": "\\We'll be fine. It's not like Rafe is a psychopath with unlimited resources..."
+  },
+  "14827781327005151140": {
+    "name": "JOURNAL_DESC_START_RAFE_INFO_LEFT_TOK002",
+    "en": "\\Mmmyes daddy bought me this plane\\\\"
+  },
+  "14827783526028407562": {
+    "name": "JOURNAL_DESC_START_RAFE_INFO_LEFT_TOK000",
+    "en": "32. RAFE ADLER\\Big Box Scion\\\\\"Wanna see something cool?\" We're en route to New York for a shareholder meeting, but Adler has no interest in discussing business. Instead, he shows me his latest find: a fabulous jeweled egg. \"One of a kind,\" he says. \"I had to do some serious digging, go out in the field - but that's the best part. It's no fun if you don't get your hands a little dirty.\"\\\\"
+  },
+  "14837362782380560904": {
+    "name": "JOURNAL3_SHAMBLER_TEXT",
+    "en": "Shambler… how are there new infected?"
+  },
+  "14844372090153937799": {
+    "name": "TREASURE_DESC_ISL_SHORE_END_1",
+    "en": "17th century Jamadhar dagger (dress dirk), Mughal Empire, India"
+  },
+  "14850953959644385460": {
+    "name": "HUD_COL_NOTE_RES_TATTOO_NOTE",
+    "en": "Note in Hillcrest Tattoo Parlor"
+  },
+  "14855726728560059996": {
+    "name": "INTERACT_LOC_WIL_AIRLINE_AD",
+    "en": "Fly With Air West's\nNew Luxury Airplane\nstarting November 2013"
+  },
+  "14893627955686854752": {
+    "name": "JOURNAL4_JESSEPARENTS_TEXT",
+    "en": "Jesse's parents came out today. It was nice at first. They're good people. But then they started pushing for us to move back to Jackson. I couldn't handle it and left for the woods. I didn't come back until late at night. Dina stayed up for me. I could tell she was mad, but she grabbed my hand and led me to bed. I feel so guilty. "
+  },
+  "14901838252084160108": {
+    "name": "TREASURE_COMIC_H_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - NEGENTROPY"
+  },
+  "14939851995802464566": {
+    "name": "INTERACT_LOC_HOSPITAL_THIS_WAY",
+    "en": "Hospital This Way"
+  },
+  "14975160993705729347": {
+    "name": "INTERACT_LOC_LAK_TOWN_APPROACH",
+    "en": "Welcome to Silver Lake\nSettled 1882"
+  },
+  "15024251724349548568": {
+    "name": "TREASURE_MAL_COL_DRUGSTORE_NOTE_DESCRIPTION",
+    "en": "PLEASE READ!<br><br>Pharmacist went crazy and attacked me. I hit him pretty hard. He's unconscious. I locked him in the American Princess store next door. Please get him help.<br><br>Combination: 35-30-31"
+  },
+  "15043937468554370662": {
+    "name": "HUD_COL_UPGRADE_MANUAL_CRAFTING_ELLIE_TEXT",
+    "en": "PREP:\n\nA Survival Guide for the Silent Majority\n\nTodd Garrett"
+  },
+  "15099658778563646502": {
+    "name": "JOURNAL3_POSTSCHOOL_TEXT",
+    "en": "One down. Seven to go. Waiting for it to sink in. Leah's next. She's posted at some tv station. She better know where the others are. "
+  },
+  "15128292956855506604": {
+    "name": "JOURNAL2_CATPOEM_TEXT",
+    "en": "<strike>Lying on stone</strike>\nPerched on an outcropping\nYou <strike>follow</strike> trace constellations in the sky.\n<strike>I trace the lines on your</strike>\nI trace the ink on your skin\n<strike>That hide the</strike>\nThat covers the scars, the burns,\nDecorating the darkness\nLike stars.\n"
+  },
+  "15162564544194296174": {
+    "name": "JOURNAL_DESC_ISL_HANGING_RAVINE_SKELETON",
+    "en": "this would suck."
+  },
+  "15212246251061272931": {
+    "name": "TREASURE_FIREFLY_LOGO_J_WARREN_DESC",
+    "en": "Joe<br>Warren <br>000310 "
+  },
+  "15224658160639451438": {
+    "name": "TREASURE_FIREFLY_LOGO_K_PERICH_DESC",
+    "en": "Katerina<br>Perich <br>000149 "
+  },
+  "15266986790185106128": {
+    "name": "TREASURE_DESC_MAN_BALCONY_1",
+    "en": "Antique souvenir pirate snowglobe"
+  },
+  "15271903631458986977": {
+    "name": "INTERACT_LOC_WIL_QUARANTINE_ZONE",
+    "en": "F.E.D.R.A.   STOP!   F.E.D.R.A.\nYOU ARE ENTERING A DESIGNATED QUARANTINE ZONE\n\nMycotoxin\nLevel 4\nContainment\nProtocols\n\nREPORT TO INDUCTION STATION BEFORE PROCEEDING\nAll persons must be cleared by medical staff\nbefore entry is allowed into quarantine zone"
+  },
+  "15284382222518909903": {
+    "name": "TREASURE_COMIC_I_DESCRIPTION",
+    "en": "Book 9: PRECIPITATE<br><br>The time has come for Daniela's second faster-than-light test flight. This time the mission is not exploration, but infiltration. This time, Daniela is going too.<br><br>Their payload: a twenty-teraton anticarbon bomb. Their crew: eight of the most capable, suicidal, and dangerous men and women of the Last Watch. Their mission: the annihilation of the Traveler homeworld."
+  },
+  "15322320922153815762": {
+    "name": "TREASURE_DESC_MAN_STAIRS_1",
+    "en": "Antique tin toy seaplane"
+  },
+  "15329750636761735962": {
+    "name": "JOURNAL3_HOSPITALSKETCH_TEXT",
+    "en": "LAKEHILL\nSEATTLE\nHOSPITAL\n\nI think this is it. watch for big red sign."
+  },
+  "15428845066796754314": {
+    "name": "INTERACT_LOC_BIL_QUARANTINE_ZONE",
+    "en": "Stop! You are entering a designated quarantine zone. Report to induction station before proceeding."
+  },
+  "15443221694568695495": {
+    "name": "INTERACT_LOC_FEDRA",
+    "en": "FEDRA: Federal Disaster Response Agency"
+  },
+  "15445720130962418218": {
+    "name": "HUD_COL_NOTE_MED_STAIRWELL_NOTE_TEXT",
+    "en": "Seb, Victor and Irina are dead. Avery and Mali are missing. And I'm bit. The nest was bigger than we anticipated. I tried to blow them up, but the fucking detonators were faulty.\n\nFigures that fucking FEDRA incompetence is what's going to kill me."
+  },
+  "15457892037068637693": {
+    "name": "TREASURE_DESC_CIT_ALLEY_1",
+    "en": "16th-17th century earthenware mug, Madagascar"
+  },
+  "15469029796180515030": {
+    "name": "TREASURE_NOTE_MILITARY_WANTED_POSTER_DESCRIPTION",
+    "en": "THIS IS THE FATE OF ALL TRAITORS<br><br>AIDING TRAITORS IS PUNISHABLE BY DEATH<br><br>THE PITTSBURGH BATTALION IS HERE TO KEEP YOU SAFE. WE ARE ACTIVELY WORKING TO RESTORE ORDER TO THE QUARANTINE ZONE."
+  },
+  "15477786211578105944": {
+    "name": "INTERACT_LOC_HUN_CM_YOULL_DIE_BEFORE",
+    "en": "YOU'LL\nDIE BEFORE\nWE\nSTARVE"
+  },
+  "15488424489412235596": {
+    "name": "HUD_COL_NOTE_SEA_FUEL_NOTE_TEXT",
+    "en": "If you need to refuel any vehicles, we have moved the fueling stations down into the parking lot of the courthouse to restrict access.  Make sure you have your military ID readily accessible."
+  },
+  "15494648307254864455": {
+    "name": "NOTE_DESC_JAILER_JOURNAL",
+    "en": "September 18 1696\\\\I hanged the first of Captain Avery's crew this afternoon, in full view of their cohorts - a gratuitous act, perhaps, but one that stokes the fear in their hearts for what follows - a visit to the remaining men in the tower. The sorry pyrates threw themselves at my feet, begging for mercy. One day, I hope to hear such pleas from their elusive Captain.\\\\September 20 1696\\\\As I hanged the rest of the pyrates this morning, one soul was bold enough to offer a bribe as the hood was placed ‘round his head: more vague promises of vast treasure. I asked him where this hoard could be found, and then dropped him as he answered. I have no patience for pyrate falsehoods."
+  },
+  "15519638851055625307": {
+    "name": "JOURNAL3_IDAHOFALLS_TEXT",
+    "en": "Idaho Falls. Dina caught three jack rabbits tonight. She has these traps her sister taught her how to build - they're fucking effective. My appetite hasn't come back yet. Trying to force food down. "
+  },
+  "15556054084368350091": {
+    "name": "INTERACT_LOC_BIL_APARTMENT_RACHEL",
+    "en": "Rachel"
+  },
+  "15560776983607456058": {
+    "name": "TREASURE_FIREFLY_LOGO_P_MROZIK_DESC",
+    "en": "Peter<br>Mrozik <br>000263 "
+  },
+  "15562020435015170666": {
+    "name": "TREASURE_NEWS_CLIPPING_UNI_2_DORMS_DESCRIPTION",
+    "en": "U.S. MILITARY RECALLS SEARCH EFFORT<br><br>By Lev Benioff<br>Field Writer<br><br>With the latest WHO report estimating that as much as 60 percent of the world's population is either dead or infected by the CBI pandemic, the United States Military has released a statement that they're recalling all of their search efforts.  Regions up to 10 miles from each quarantine zone's perimeter will remain under patrol for citizens attempting to enter, but no further effort will be made to evacuate those potentially trapped in hard-to-reach areas.<br><br>Attorney General Arthur Munroe made this clear in a letter...<br><br>(Found this in town.  WTF?  No one's coming!!!)"
+  },
+  "15579895532516060169": {
+    "name": "TREASURE_FIREFLY_LOGO_DESCRIPTION",
+    "en": "A pendant worn by members of the Fireflies militia"
+  },
+  "15634308516193094381": {
+    "name": "JOURNAL3_EUGENE_TEXT",
+    "en": "Was Eugene in touch with other Fireflies? Did he hear about me and Joel? No he would've said something."
+  },
+  "15656891514137840649": {
+    "name": "INTERACT_LOC_HUN_DEAD_SOLDIERS",
+    "en": "ANOTHER 3 SOLDIERS DEAD. \nWHATS IT GOING TO TAKE? \nGIVE UP!"
+  },
+  "15658150496096150826": {
+    "name": "JOURNAL_DESC_START_AUCTION_INFO_LEFT",
+    "en": "\"A crow will not pluck out the eye of another crow.\"\\Honor Among Thieves."
+  },
+  "15687648700552856175": {
+    "name": "TREASURE_NOTE_MILITARY_PROC_DESCRIPTION",
+    "en": "ALL CIVILIANS SEEKING RESIDENT STATUS MUST GO THROUGH THE FOLLOWING CHECKS:<br><br>DOCUMENTS CHECK<br>•__Confirm the applicant has a signed and approved FEDRA Application for QZ Transfer, and is within the stated commission window.<br>•__Military-Issued IDs should be examined closely, and cross checked with the central command database.<br><br>INFECTION SCAN<br>•__Scan all applicants. Any positive reading should result in immediate quarantine of individual by ushering them to the Sick line. Use all necessary force.<br>•__NOTE: when separating families, it is important to keep everyone as calm as possible. Any applicants causing trouble should be escorted to Administration.<br><br>DECONTAMINATION<br>•__All refugees must go through the decontamination shower and be doused with anti-fungal spray.<br>•__A physical exam must then be conducted, with candidates' records updated to indicate their work ability.<br><br>SECURITY SCREENING<br>•__Only 1 (one) suitcase is permitted per applicant. Personal artifacts must be potential contaminants. If in doubt, incinerate the object.<br>•__Any and all contraband materials (lethal weapons, firearms, explosives, dangerous chemicals, illicit drugs) must be disposed of immediately.<br>•__No animals are allowed inside the zone. They must be released outside the checkpoint upon arrival.<br><br>ALL STEPS MUST BE ADHERED TO. DO NOT ALLOW ANY EXCEPTIONS."
+  },
+  "15703015773815162919": {
+    "name": "JOURNAL_DESC_COL_AVERY_SKETCH_4OF5",
+    "en": "Not a good time to lose your head."
+  },
+  "15704805756813234516": {
+    "name": "HUD_COL_NOTE_SEA_ISAAC_PEPTALK",
+    "en": "Letter from Isaac"
+  },
+  "15720190234662645905": {
+    "name": "JOURNAL3_MONORAIL_TEXT",
+    "en": "Abby I begged you to stop. You brought this on yourself. "
+  },
+  "15752084362708656590": {
+    "name": "NOTE_DESC_ISL_DOVERS_JOURNAL",
+    "en": "March 20 1808\\\\I confronted Burnes this morning as we were making preparations to leave the caves.\\\\Our crew and food stores diminished, I demanded we return home so that we might return with more men, more supplies. Burnes laughed - laughed! - and repeated his mantra: the treasure is within our reach.\\\\I held firm: even if we were to find Avery's stash, with one ship remaining we shall barely have enough room for ourselves on the return voyage, let alone any Hindoo gold. I turned to First Mate Hayes for affirmation, but he backed away as though I had the Plague.\\\\Now Burnes approached me, a smile on his face, urging me to consider the good of the expedition, that I not foment dissent among the crew. The threat behind his words was plain - I suggested that perhaps I needed rest and retired to my camp.\\\\To hell with these fools. I have no intention of dying here, my only legacy words in that man's book. If Burnes believes this place to be Libertalia - if he wishes to go on - then he and the others shall go on without me. I shall break from this group at first light. Let us see how they fare with no navigator."
+  },
+  "15800160398997228564": {
+    "name": "JOURNAL3_POSTNORA_TEXT",
+    "en": "What I know:\n* They're former Fireflies. From the hospital. It makes sense. It's what my gut said all along. \n* The WLF took a bunch of them in after they disbanded. \n* They traveled to Jackson specifically <strike>to kill Joel</strike> to torture Joel. Killing him wasn't enough. \n* Abby is hiding out in the aquarium.\n\nWhat I don't know:\n* Why is Abby hiding out? Does it matter?\n* Where are the rest of them? Do they matter if I get Abby? No. \n* Where's Tommy? Is he still alive? He has to be. \n\nShould I tell Dina & Jesse about this? No. They can't know what Joel did. They won't understand. \n\nDo I understand?"
+  },
+  "15822672033412736536": {
+    "name": "JOURNAL_DESC_COL_LIBERTALIA_VISTA_TOK002",
+    "en": "\\Treasury?"
+  },
+  "15822674232435992958": {
+    "name": "JOURNAL_DESC_COL_LIBERTALIA_VISTA_TOK000",
+    "en": "LIBERTALIA\\\\"
+  },
+  "15844180676908015047": {
+    "name": "TREASURE_MAL_COL_ATRIUM_RECORDER_DESCRIPTION",
+    "en": "Atrium Recorder"
+  },
+  "15844842908923057700": {
+    "name": "HUD_COL_NOTE_SEA_VAULT_CODE_NOTE_TEXT",
+    "en": "Vault: 60 23 06\n\nchange of guard (X) every 2 hours during the day, \n\nevery 4 hours at night\n\n"
+  },
+  "15874907342738047415": {
+    "name": "INTERACT_LOC_SUB_NO_SUFFER",
+    "en": "THEY DIDN'T SUFFER"
+  },
+  "15876868146464144083": {
+    "name": "TREASURE_MAL_COL_PHARMACISTS_NOTE_DESCRIPTION_TOK004",
+    "en": "-Laura"
+  },
+  "15876872544510656927": {
+    "name": "TREASURE_MAL_COL_PHARMACISTS_NOTE_DESCRIPTION_TOK000",
+    "en": "Think about me while I'm off. I'll be missing you, but not too much. "
+  },
+  "15876874743533913349": {
+    "name": "TREASURE_MAL_COL_PHARMACISTS_NOTE_DESCRIPTION_TOK002",
+    "en": "<break/>\n \n "
+  },
+  "15951642818390498878": {
+    "name": "INTERACT_LOC_HUN_CAFE_SIGN",
+    "en": "RIVERS CAFE"
+  },
+  "16094097822456329278": {
+    "name": "TREASURE_FIREFLY_LOGO_T_KRISTOF_DESC",
+    "en": "Travis<br>Kristof <br>000283 "
+  },
+  "16145460906899039501": {
+    "name": "JOURNAL3_GATE_TEXT",
+    "en": "Trespassers killed on sight! How many of you are there? How many people have you killed?"
+  },
+  "16155777175565387671": {
+    "name": "TREASURE_RILEYS_PENDANT_DESCRIPTION",
+    "en": "Riley Abel\n000129"
+  },
+  "16173125654995012773": {
+    "name": "JOURNAL_DESC_START_TRIP_INFO_RIGHT",
+    "en": "USEFUL ITALIAN PHRASES\\\\my name is... - Mi chiamo\\(I don't) understand - (non) capisco\\Please speak slowly - Può parlare più lentamente, per favore\\Do you speak english? - Parla inglese\\Do you have a boyfriend? - Hai un fidanzato?\\My brother is an idiot - Mio fratello è un idiota. "
+  },
+  "16187684781589277597": {
+    "name": "TREASURE_COMIC_K_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - ANTIPARTICLES"
+  },
+  "16197028463395540756": {
+    "name": "TREASURE_NOTE_HUN_REBELLION_FIREFLIES_OUT_DESCRIPTION",
+    "en": "We don't need the Fireflies. Sure, they might've started the fight, but we're the ones that have done all the work. It's our blood in the streets. I don't agree with them wanting to take the fight to other cities. They need to earn their independence on their own. And I DEFINITELY won't take orders from some Firefly leader all the way on the other side of the country. Before the fighting ends I suggest we rid ourselves of them. This is our city. Our people.  I don't see why we can't rule ourselves."
+  },
+  "16198377098054883466": {
+    "name": "TREASURE_TRAINING_MANUAL_HEALTH_KIT_COVER_DESC",
+    "en": "Field Medicine and Emergency Care Procedures"
+  },
+  "16198781322488577942": {
+    "name": "HUD_COL_NOTE_RES_BOWMAN_UNFINISHED",
+    "en": "Condolence Note"
+  },
+  "16292713068001872433": {
+    "name": "HUD_COL_NOTE_MED_SHRINE_2_NOTE_TEXT",
+    "en": "Prophet -- I am a good soldier. I have already freed two wolves in your name. I will send you many more. Please honor me by letting me live long enough to see your salvation spread across this land."
+  },
+  "16311381893705756761": {
+    "name": "HUD_COL_NOTE_SEA_HUB_MAP",
+    "en": "Map of Seattle"
+  },
+  "16343257411926938706": {
+    "name": "TREASURE_MALL_SIPHON_HOSE_DESCRIPTION",
+    "en": "Siphon hose used to extract gas from gas tanks"
+  },
+  "16397434817117740510": {
+    "name": "HUD_COL_NOTE_SEA_QZ_TRUCK",
+    "en": "Construction Site Note"
+  },
+  "16398586285096331076": {
+    "name": "INTERACT_LOC_HUN_CA_YOULL_DIE_BEFORE",
+    "en": "You'll DIE\nbefore we \nstarve"
+  },
+  "16560743590644475019": {
+    "name": "JOURNAL_DESC_CIT_DISMAS_MURAL_TOK005",
+    "en": "\\King's Bay\\\\"
+  },
+  "16560745789667731441": {
+    "name": "JOURNAL_DESC_CIT_DISMAS_MURAL_TOK007",
+    "en": "\\It's one of these."
+  },
+  "16560747988690987863": {
+    "name": "JOURNAL_DESC_CIT_DISMAS_MURAL_TOK001",
+    "en": "\\Volcano!\\\\"
+  },
+  "16560750187714244285": {
+    "name": "JOURNAL_DESC_CIT_DISMAS_MURAL_TOK003",
+    "en": "\\Avery (we are here)\\\\"
+  },
+  "16563356022953747280": {
+    "name": "JOURNAL3_LEAVING_TEXT",
+    "en": "I don't think I can tolerate this…\nIt's too painful.\n\nI feel like I'm betraying him if I leave. Is it even about him anymore?\n\nHe'd want me to leave. He'd put the people he loves first. "
+  },
+  "16576656601519965824": {
+    "name": "TREASURE_NOTE_MIL_DRAFTING_CALL_DESCRIPTION",
+    "en": "NOTICE<br>THE CIVILIAN SERVICE SYSTEM<br><br>The General of the Boston Quarantine Zone,<br><br>To (FUCK THIS!)<br><br>GREETING:<br>As an able-bodied civilian, you are hereby issued work orders to participate in various duties relating to care of the Quarantine Zone.<br><br>Please report promptly to MAIN OFFICE, CHARLES BRIDGE on December 15 and 6:30AM for forwarding to an Armed Forces Management Station.<br><br>Willful failure to appear at the place and hour of the day named in this Order subjects the violator to ration restriction and possible loss of zone residency. Bring your Order with you when you report.<br><br>IMPORTANT NOTICE<br>(Read Carefully)<br>IF YOU HAVE PARTICIPATED IN WORK DUTIES IN THE PAST 6 MONTHS, BRING EVIDENCE WITH YOU AND SERVICE WILL BE POSTPONED. IF YOU HAVE ANY PHYSICAL OR MENTAL CONDITION WHICH, IN YOUR OPINION, MAY DISQUALIFY YOU FOR SERVICE, BRING A PHYSICIAN'S CERTIFICATE DESCRIBING THAT CONDITION."
+  },
+  "16587773349637308746": {
+    "name": "TREASURE_NOTE_MIL_DOCKS_1_DESCRIPTION",
+    "en": "What the hell are we doing with this guy? I don't like how he orders us around. I don't like his stupid pony-tail. And I sure as shit don't like that he hasn't paid us yet. Not to mention that the people after him are some of the most dangerous in the city. What do you think's going to happen when they get wind of our involvement?"
+  },
+  "16588309037500748969": {
+    "name": "HUD_COL_NOTE_RES_FEDRA_NOTE",
+    "en": "Join WLF Note"
+  },
+  "16593434097057819651": {
+    "name": "TREASURE_COMIC_E_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - FOREIGN ELEMENT"
+  },
+  "16619471018866625461": {
+    "name": "TREASURE_COMIC_C_DESCRIPTION_FRONT",
+    "en": "SAVAGE STARLIGHT - FORCE CARRIER"
+  },
+  "16665665187307891901": {
+    "name": "JOURNAL3_WLF_TEXT",
+    "en": "WLF = Washington Liberation Front.\n\nABBY."
+  },
+  "16686698188394883095": {
+    "name": "TREASURE_COMIC_A_DESCRIPTION",
+    "en": "Book 1: TERMINATION SHOCK<br><br>Dr. Daniela Star dreams of deep space. In the year 2186, mankind has conquered the solar system, but the shackles of special relativity prevent them from going any further. At her research facility on Ganymede, Daniela is on the verge of a breakthrough that will allow humanity to finally answer the question: are we alone?"
+  },
+  "16713681206693813899": {
+    "name": "HUD_COL_NOTE_MED_BUILDING_NOTE_TEXT",
+    "en": "Whoever turns up I don't care who they are I don't care if they're wolves or Seraphites or whatever the fuck just save me please save me I'll do whatever you want I'll cut my face I'll shoot up some FEDRA shits who gives a fuck I can't die here I don't wanna die here please help please help they're gonna find me they're gonna rip me apart… "
+  },
+  "16731385293644235629": {
+    "name": "TREASURE_MAL_QZ_ATRIUM_KITCHEN_NOTE_DESCRIPTION",
+    "en": "Thursday<br><br>I'm such an asshole. The other day I got back early from my patrol and there's little Ellie, sitting there next to my damn tent, petting my horse, all while crying her eyes out. So what do I do?  I take off before she notices me. I mean -- what the hell would I say to her?<br><br>“Hey Winston.”<br><br>“Hi Ellie. Can you please stop crying? It's upsetting me. Thanks.”<br><br>Yeah, that would've gone over well.<br><br>She's always so cheery with her endless questions you'd have no idea she's so sad inside. She wears that mask well.<br><br>I'm such an asshole."
+  },
+  "16750543087356162322": {
+    "name": "TREASURE_TILTED_BASEMENT_SAFE_DESCRIPTION",
+    "en": "Derek at the bookstore is letting us use his safe.\n\nWhen you close tonight, put my stuff in there. \n\n3-43-78"
+  },
+  "16757375463255227350": {
+    "name": "HUD_COL_NOTE_RES_INFECTED_BAR_SAFE_TEXT",
+    "en": "Yo - when Dale comes by, he's gonna ask for the safe combo, but just walk over to the garage and put it in yourself, otherwise he's gonna bother you eight more times. The combo is 30-82-65. \n\nSomeone needs to talk to his wife. I know she wants to think he's gonna get better but it's time to get practical. I heard the WLF have some real doctors at their base… Nobody would blame her for leaving (except Boris, but fuck him.) \n\n\n\n"
+  },
+  "16807540529210497412": {
+    "name": "NOTE_DESC_BRITISH_LETTER_2_TOK000",
+    "en": "June 11 1702\\\\The signal fires were lit last night, and like clockwork, another group of would-be bounty hunters and glory seekers wandered heedless into our encampment. They put up a good fight, killing a number of our fellows, but the outcome was never in doubt. Two regiments sent by the East India Company defeated in as many days. For their sake, I hope they learned their lesson.\\\\Their self-righteous Lieutenant Sherwood lived long enough to slander Captain Avery, pledging us a large share of the bounty and a full pardon in exchange for Avery's whereabouts. Avery is offering us something greater than gold, said I, just before putting an end to his insults with my sword.\\\\Our losses aside, this lot of British pigs were much better stocked than the last - we shall make good use of their boots and pistols.\\\\"
+  },
+  "16835518253490170368": {
+    "name": "JOURNAL4_PTSD_TEXT",
+    "en": "Happened again. Got rid of the images pretty quickly, but my skin hurt the rest of the morning. I gave up trying to go back to sleep. Dina stayed up with me. When will this stop? "
+  },
+  "16875153950654714256": {
+    "name": "JOURNAL_DESC_OPE_CISTERN",
+    "en": "A far cry from the dilapidated caves in Scotland. Everything's getting more lavish as we get closer to Libertalia."
+  },
+  "16890132349722646238": {
+    "name": "TREASURE_COMIC_J_DESCRIPTION",
+    "en": "Book 10: DEEP PHASE<br><br>So far, Daniela's phase-shift device has kept the Von Neumann and its crew invisible to the Travelers' sensor network. But as each zero-point jump brings them ever deeper into their vast interstellar empire, hopes for the return journey dwindle.<br><br>In three days they have traveled a quarter of the galactic radius, and in two more they will be at the Traveler homeworld. As long as nothing goes wrong."
+  },
+  "16890963650184730178": {
+    "name": "TREASURE_NOTE_FATHER_TO_SON_DESCRIPTION",
+    "en": "Kara,<br><br>You're the adult while I'm gone. Take care of your brother, he's looking to you for protection now. I won't be gone for more than a few days to gather food and supplies. If for some reason I haven't returned after a week, take your brother and head to the Pittsburgh Quarantine Zone.<br><br>Don't open the door to anyone but me. Save your bullets. If you have to leave, stay low and move quickly. Use your size to your advantage.<br><br>I'll see you soon.<br><br>-Dad"
+  },
+  "16899297914899269757": {
+    "name": "TREASURE_JOKE_BOOK_C_DESCRIPTION",
+    "en": "No Pun Intended: Volume Too<br>Will Livingston<br><br>What did the triangle say to the circle?<br>You're pointless.<br><br>What did the cannibal get when he showed up to the party late?<br>A cold shoulder.<br><br>I heard 2 peanuts walked into a park.<br>One was a salted.<br><br>A boiled egg in the morning is really hard to beat.<br><br>I'm reading a book on antigravity and it's impossible to put down.<br><br>It's not that the guy didn't know how to juggle, he just didn't have the balls to do it.<br><br>I'm glad I know sign language, it's become quite handy.<br><br>When a clock is hungry, it goes back four seconds."
+  },
+  "16899451112216069629": {
+    "name": "JOURNAL4_FARM_TEXT",
+    "en": "Would it have been better if I'd stayed? \nSwallowed up the <strike> regret sad</strike> shame,\nGiven them what's left of me? \n<strike>Was it mine to give?</strike>\nDo I <strike>still</strike> have it to give?\n\nCan I offer the scraps now? \nGristle and bone. Chewed up and rotting. \nOr will it make them sick;\nCorrode their insides, <strike>cripple</strike> poison them?\n\nI could be in the woods,\n<strike>Buried for the insects to clean,</strike>\nLeft for the insects to clean,\nUntil the iron smell is gone,\nUntil I'm bleached and <strike>beautiful</strike> brittle;\nReady to display.  "
+  },
+  "16955772771947812469": {
+    "name": "TREASURE_TOY_ROBOT_DESCRIPTION",
+    "en": "Sam's Cyberform \"Cool Jets\" Robot"
+  },
+  "16965381443503778753": {
+    "name": "TREASURE_MAP_TOM_POWERPLANT_SCHEMATICS_DESCRIPTION",
+    "en": "Schematics for the power plant"
+  },
+  "16969010931307043464": {
+    "name": "HUD_COL_NOTE_WAT_GROCERY_BAG_TEXT",
+    "en": "Coffee House\nBookstore\nMusic"
+  },
+  "17033864481140974639": {
+    "name": "JOURNAL4_LASVEGAS_TEXT",
+    "en": "I just got to the outskirts of Las Vegas. I can hear the infected from here. Must be thousands still alive inside the walls. What a nightmare. I'm gonna go around. "
+  },
+  "17061651053626338281": {
+    "name": "TREASURE_NOTE_SUB_ISH_FINAL_DESCRIPTION",
+    "en": "One open door. That's all it took. One of us forgot to close a door and a horde of those monsters entered our camp. We shut them in there and wrote a warning on the outside.<br><br>Susan and a couple of the kids are with me. As far as I know, we're the only survivors. I had to hold Susan so she wouldn't run back in there - go back for the bodies. It's just too dangerous. She lost her children, and I have no clue what to say to her.<br><br>Every part of my being just wants to give up. It'd be so easy to surrender to this world. I can't do that, though. I have too much faith in humanity. I've seen that we're still capable of good. We can make it. I have to stay strong… for her.<br><br>-Ish"
+  },
+  "17102953013905268763": {
+    "name": "JOURNAL_DESC_START_CATHEDRAL_INFO_TOK001",
+    "en": "\\St. DISMAS CATHEDRAL\\- Abandoned in/around 1697\\- Considered a historic site until rafe bought it and started digging it up.\\\\41. And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing wrong.\\42. And he said unto Jesus: remember me when you come unto your kingdom.\\43. And Jesus said unto him, today you will join me in paradise.\\\\"
+  },
+  "17102955212928525185": {
+    "name": "JOURNAL_DESC_START_CATHEDRAL_INFO_TOK003",
+    "en": " \\Why Avery's fixation on St. Dismas?"
+  },
+  "17113653664026612199": {
+    "name": "INTERACT_LOC_HUN_NO_HOPE",
+    "en": "\"NO HOPE\" is written on a road sign giving directions to the Port Authority, Police Department, and Federal Building"
+  },
+  "17147476646720542259": {
+    "name": "NOTE_DESC_PAS_TEW_TILE_WARNING",
+    "en": "Death to those who stray from the path."
+  },
+  "17169110700426786169": {
+    "name": "HUD_COL_NOTE_MED_APARTMENT_NOTE_TEXT",
+    "en": "To the girl next door - we're Sam and James - we live in 302. Didn't know anyone else was still here. We're not scary, we swear. Leaving behind a freshly baked treat. - Sam\n\nThanks for the cornbread. My mom told me to give you this bottle of vodka. Hope it's a good kind. Why didn't you guys get on the bus with everyone else? My name's Julia. My mom's name is Heidi. - Julia\n\nWHERE DID YOU FIND THIS VODKA? THIS IS LEGIT! We stuck around because we heard some horror stories about the temp apartments. People left to police themselves, letting them rob and kill each other. We'd rather take our chances here. Let us know if you or your mom need anything. - Sam\n\nThanks again. I'm gonna look for more cornbread mix while I'm out. That was… a game changer. Sweet of you guys to offer to help with my mom. I could really use the hand. Gonna go out scavenging now, but back tonight. Just knock. - Julia"
+  },
+  "17180370132838753536": {
+    "name": "JOURNAL_DESC_SUN_CAPTAINS_TABLE",
+    "en": "HONOR\\AMONG\\THIEVES"
+  },
+  "17222280072107508531": {
+    "name": "TREASURE_MAL_COL_MEDEVAC_DUCT_RECORDER_DESCRIPTION",
+    "en": "Duct Recorder"
+  },
+  "17273043805528223401": {
+    "name": "TREASURE_TRAINING_MANUAL_SHIV_1_DESC",
+    "en": "Chapter 4<br>Improved Durability of Blades<br>SHARPENING<br>-Sharpening a blade reduces the force necessary to cut or puncture, thus increasing the life of the blade<br>..."
+  },
+  "17291676750390897627": {
+    "name": "TREASURE_DIGITAL_RECORDER2_UNI_4_LAB_DESCRIPTION",
+    "en": "Lab Recorder"
+  },
+  "17378361975476059417": {
+    "name": "NOTE_DESC_BURNS_JAIL_PUZZLE_LETTER",
+    "en": "My dearest son Richard,\\\\Spanish devils have me in chains in the Viceroyalty of Panama. I stand accused of being party to pyracy. The trial is a mere formality. I shall imminently perish by hanging.\\\\I confess to you now: I was a member of Capt'n Henry Avery's crew. With my fellow crewmembers, I took part in the plunder of the Hindoo Gunsway. We committed many atrocities in the eyes of God and now I must pay for my sins.\\\\I now occupy the highest cell in the Spaniards' prison, looking out at the ocean, longing for another peaceful moment with you and your mother.\\\\Though my regrets are many, know that I am at peace with my fate. I hope someday you will find your way to this infernal place, bear my cross, and discover the riches of Paradise.\\\\Your loving Father,\\\\Joseph Burnes"
+  },
+  "17389873154520145028": {
+    "name": "JOURNAL3_PREDANCE_TEXT",
+    "en": "Dina asked if I was gonna go to the dance… And she touched my arm… ARGHH! I'm so delusional. Don't be an idiot. She's like that with everybody. Don't fuck up your friendship. Don't fuck up your friendship. DON'T FUCK UP YOUR FRIENDSHIP!!!"
+  },
+  "17392945174709773472": {
+    "name": "TREASURE_DESC_CIT_TOWER_2",
+    "en": "17th century dagger with carved ivory handle, Mughal or Persian Empire"
+  },
+  "17434666101350100953": {
+    "name": "TREASURE_TRAINING_MANUAL_SHIV_COVER_DESC",
+    "en": "Stealth Combat Weapons and Tactical Movement"
+  },
+  "17463620586273562822": {
+    "name": "JOURNAL1_CAT_TEXT",
+    "en": "Cat sat next to me at movie night. Our elbows kept touching. I think she was doing it on purpose? I don't know. Maybe not. <strike>Probebly </strike> probably not. "
+  },
+  "17465538867750170849": {
+    "name": "HUD_COL_UPGRADE_MANUAL_STEALTH_ELLIE_TEXT",
+    "en": "LAST ROUND\nTHE SURVIVALIST MAGAZINE\n\nTHE CAMOUFLAGE ISSUE\n\nPROTECT, DECEIVE, AND HIDE WITH THE BEST!\n\nOUR 15 TIPS FROM RENOWNED EXPERTS TO SHOW YOU HOW\n\nALSO INSIDE:\n12 DUCT TAPE BRANDS COMPARED\nRAIN WATER COLLECTION TECHNIQUES"
+  },
+  "17480721147883709878": {
+    "name": "JOURNAL3_SYNAGOGUE_TEXT",
+    "en": "When I think about <strike> Joel </strike> him,\nAll I see is open skin, slack jaw, insides out. \n\nI won't let her remember me that way. \nI'd rather die alone. \n\n<strike> Did she die alone? </strike>\n<strike> Was her God with her? </strike>\nWas He with you in the end? \n<strike> Was he with Joel? Did I make it worse for Joel, being there? </strike>\n<strike> Or was I company? </strike>\n<strike> He/him </strike> More than I was with him? \n\nBeyond faith in pain,\n<strike> I want faith from pain </strike>\nI want faith through pain. "
+  },
+  "17491658980575083699": {
+    "name": "TREASURE_TRAINING_MANUAL_SMOKE_BOMB_COVER_DESC",
+    "en": "Evasion And Distraction: Tactics and Equipment"
+  },
+  "17493549400893583041": {
+    "name": "JOURNAL4_BOAR_TEXT",
+    "en": "It happened again. I was hunting this boar and I'd cornered it in this old gas station. It was bleeding out, screaming. Sounded like him. Then I couldn't get the images out of my head. I left it there, dying. My skin hurts. "
+  },
+  "17499152104094640652": {
+    "name": "JOURNAL_DESC_SCO_CONSTELLATION",
+    "en": "LIBRA\\\\The moon was said to be in Libra when the city of Rome was founded - and the sun passed Libra on the autumnal equinox back then - so they associated it with balance, and later, with justice.\\\\But why did Avery choose this sign?"
+  },
+  "17507877197038455986": {
+    "name": "JOURNAL2_SNIPERSKETCH_TEXT",
+    "en": "It smells like wet leaves and firewood out here…"
+  },
+  "17560101089146710694": {
+    "name": "JOURNAL4_RATTLERS_TEXT",
+    "en": "Scars. Wolves. Fireflies. Fuck all these groups."
+  },
+  "17574309987324105813": {
+    "name": "TREASURE_FIREFLY_LOGO_L_RIOS_DESC",
+    "en": "Lucas<br>Rios<br>??0295 "
+  },
+  "17583738847412674039": {
+    "name": "NOTE_DESC_SHI_YOUNG_PIRATE",
+    "en": "Libertalia Journal\\Christopher Exley\\January 24 1718\\\\My new life begins today.\\\\With the shores of Libertalia finally beneath my feet, I am now a free man.\\\\The towns are filled with men and women, working and living with vigor and a sense of purpose. I watched goods taken from ships and readied for transport to the colony. Up in the hills, I spied the magnificent estates of New Devon. The joy I feel is overwhelming.\\\\Let this place stand as a rebuke to those who would mock and oppress us - our families, our noblemen, the authorities, our King. We shall build a model society for the rest of the world and forge a destiny of our own choosing, freed from the chains of our former lives.\\\\Here's to a chance at starting anew.\\\\For God and Liberty!"
+  },
+  "17594669964253456894": {
+    "name": "TREASURE_FIREFLY_LOGO_S_JIANG_DESC",
+    "en": "Shiyao<br>Jiang<br>000178 "
+  },
+  "17605454748817505403": {
+    "name": "NOTE_DESC_SCO_THOMAS_HOWARD_LETTER",
+    "en": "April 1701\\\\Let it be known that I, Thomas Howard - Captain of the Dauntless - am a gullible fool.\\\\It started with the cross: a cryptic message from my old compatriot with a vague promise of Paradise. I was skeptical, but the thought of living the remainder of my days at home, wondering what might have been, was too much to bear. And one does not ignore a letter from the King of Pyrates.\\\\I survived being marooned off the coast of Madagascar, I survived the attack of the East Indiaman Pembroke, but I will not survive this. My leg is broken and my crew - too cowardly to set foot in these damned caverns - cannot hear my calls for help. Who could have imagined my deeds would bring me here, to die an ignoble death so far from home?\\\\May God Himself curse you, Henry Avery. And may my ghost haunt you the rest of your days."
+  },
+  "17639353370130116312": {
+    "name": "JOURNAL2_CATISTHEBEST_TEXT",
+    "en": "Cat's the fucking best. That is all. "
+  },
+  "17665570226363480177": {
+    "name": "JOURNAL3_NEXTMORNING_TEXT",
+    "en": "Tonight was crazy. I feel scared. Elated. Anxious. Just gotta sleep it off."
+  },
+  "17687274009273922808": {
+    "name": "HUD_COL_NOTE_SEA_HIDDEN_CHECKPOINT",
+    "en": "WLF Community Supply Chest Note"
+  },
+  "17832790785924841098": {
+    "name": "TREASURE_FIREFLY_LOGO_R_RIGHETTI_DESC",
+    "en": "Robert<br>Righetti <br>000219 "
+  },
+  "17891007359480496685": {
+    "name": "TREASURE_NOTE_HUN_RELOCATION_DESCRIPTION",
+    "en": "THIS HAS BEEN CUT"
+  },
+  "17905706591132539814": {
+    "name": "TREASURE_NOTE_HUN_FIREFLIES_LEAVE_DESCRIPTION",
+    "en": "THIS HAS BEEN CUT"
+  },
+  "17994105198717322556": {
+    "name": "JOURNAL_DESC_MAD_KINGS_BAY_2",
+    "en": "Tastes the same as back home. Real beef my ass.\\\\Fast Burger has a Varanga bowl in Madagascar. Sully got it. Shredded beef on rice.\\\\Call Elena\\calling card PIN:\\[crossed out]021625110\\17 mins[crossed out]\\042786211\\9 mins"
+  },
+  "17994106298228950767": {
+    "name": "JOURNAL_DESC_MAD_KINGS_BAY_3",
+    "en": "[jeep rental receipt]\\Insurance: NONE\\Servicing Fee: AR - 96,307\\Additional Driver: AR - 64,204\\Tax: AR - 36,240\\Additions: WINCH : AR - 192,614\\Suspension Package: NONE\\After Hours Pickup: NONE\\Total: AR - 562,365\\\\Primary Driver: Victor Sullivan\\Driver 2: Nathan Drake\\Driver 3: Sam Drake\\\\[coin rubbing]\\\"WORTHLESS COIN\""
+  },
+  "18063627675647120400": {
+    "name": "TREASURE_DESC_DIV_SALVAGE_3",
+    "en": "Vintage 20th century brass or copper arcade token"
+  },
+  "18065588719806602048": {
+    "name": "JOURNAL4_ABBYSBOAT_TEXT",
+    "en": "2425 Constance"
+  },
+  "18084171510873467714": {
+    "name": "JOURNAL4_POTATORIDE_TEXT",
+    "en": "Took JJ on a ride today. He laughed the whole time. I almost didn't think about Seattle all day. It was nice. "
+  },
+  "18120012414437009405": {
+    "name": "TREASURE_NOTE_MIL_CITY_WANTED_POSTER_DESCRIPTION",
+    "en": "WANTED FOR FIREFLY AFFILIATION<br>MARLENE<br><br>DESCRIPTION<br><br>Age: Mid 40's<br>Height: 5'7\"<br>Weight: 125-135 lbs.<br>Build: Medium<br>Occupations: Laborer, community organizer<br>Scars and marks: Scar on chest, just below collarbone<br>Hair Color: Black<br>Eyes: Brown<br>Race: Mixed<br>Nationality: American<br><br>CRIMINAL RECORD<br>Suspect is wanted on multiple charges including terrorism, murder, conspiracy to murder, forgery, bribery, robbery, and others stemming from organizing and leading the terrorist group known as The Fireflies.<br><br>CAUTION<br><br>SUSPECT SHOULD BE CONSIDERED ARMED AND DANGEROUS AT ALL TIMES; SHE IS WELL-PROTECTED AND WELL-REGARDED BY MANY; EXPECT RESISTANCE TO HER ARREST OR EXECUTION FROM MEMBERS OF THE PUBLIC.<br>IF YOU SEE THIS PERSON, REPORT TO THE NEAREST FEDRA HQ. INFORMATION LEADING TO HER CAPTURE WILL BE REWARDED!"
+  },
+  "18136990605424655114": {
+    "name": "HUD_COL_NOTE_SEA_WANTED_POSTER",
+    "en": "Wanted Poster"
+  },
+  "18181186035186489132": {
+    "name": "GAM_MES_HOM_BUY_DINNER_NOTE_TEXT",
+    "en": "I'm going to be home late tonight.  Go ahead and order food.  See you in the morning.<br><br>Dad"
+  },
+  "18205122890015297330": {
+    "name": "HUD_COL_NOTE_SEA_WLF_JOURNAL_TEXT",
+    "en": "Saturday, March 29\nOur strike against the FEDRA checkpoint worked. Killed at least three of those thugs, just a few wounded on our side. In the wake of our losses, it felt good to hit back. That night, we voted Isaac as the new commander. It was a contentious meeting - his summary execution of those prisoners still doesn't sit right with some people, but I like him. He can make the tough calls. \n\nFriday, April 4\nI'm fucking exhausted, but for a good reason - we've had eight new recruits show up in the last few days. And six are FEDRA deserters! Isaac's directive is clearly fucking working. It's either that or all those fliers! People are taking us seriously now, finally seeing the WLF as a real alternative. We'll kick those fascists out and rebuild on the foundations Emma and Jason laid."
+  },
+  "18245406913233033295": {
+    "name": "JOURNAL_DESC_MAD_KINGS_BAY_3_TOK003",
+    "en": "\\\"WORTHLESS COIN\""
+  },
+  "18245409112256289717": {
+    "name": "JOURNAL_DESC_MAD_KINGS_BAY_3_TOK001",
+    "en": "\\Insurance: NONE\\Servicing Fee: AR - 96,307\\Additional Driver: AR - 64,204\\Tax: AR - 36,240\\Additions: WINCH : AR - 192,614\\Suspension Package: NONE\\After Hours Pickup: NONE\\Total: AR - 562,365\\\\Primary Driver: Victor Sullivan\\Driver 2: Nathan Drake\\Driver 3: Sam Drake\\\\"
+  },
+  "18270861262652407518": {
+    "name": "INTERACT_LOC_HUN_OUT_OF_OPTIONS",
+    "en": "OUT OF OPTIONS"
+  },
+  "18324814354430550393": {
+    "name": "TREASURE_NAME_SHI_DESCENT_CLIFFS_2",
+    "en": "Jade Flower Pendant"
+  },
+  "18349960195605860141": {
+    "name": "HUD_COL_NOTE_SEA_WAD_OF_CASH",
+    "en": "Wad of Cash"
+  },
+  "18373038294791176350": {
+    "name": "NOTE_DESC_COL_TREASURY_MANIFEST",
+    "en": "MANIFEST of the good ship DESTINY bound for LIBERTALIA from the port of KING'S BAY\\\\10,000 coins, silver, Mughal\\93 t lb\\\\9,000 coins, silver, Mughal\\84 t lb\\\\14,000 coins, gold, Spanish doubloons\\245 t lb\\\\statue, gold, horse and rider, Mughal\\500 lb\\\\sculpture, bronze, elephant, Mughal\\20 lb\\\\sculpture, bronze, elephant, Mughal\\23 lb\\\\100 spears, iron, Spanish\\400 lb\\\\54 cutlasses, steel, Spanish\\162 lb\\\\50 cannon ball, iron, Spanish\\1,200 lb\\\\12 horses\\9,000 lb\\\\4 barrels of wine\\2,400 lb\\\\"
+  },
+  "18373678961797901765": {
+    "name": "INTERACT_LOC_HUN_POPUP_TOYS",
+    "en": "Pop Up Toys"
+  },
+  "18387243821886284230": {
+    "name": "JOURNAL2_FIREFLYNOTE_TEXT",
+    "en": "The answers are as elusive as a Firefly… "
+  },
+  "18418610166330144624": {
+    "name": "HUD_COL_NOTE_MED_GYM_NOTE_TEXT",
+    "en": "Please don't leave valuables lying around while you're on shift. We have an employee safe in the cleaning closet in the lobby. The code is the same as the wifi.\n\n-Sheryl"
+  }
+}

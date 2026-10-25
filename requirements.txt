@@ -1,0 +1,16 @@
+# Dependencies for The Last of Us Part I - Arabic Localization Suite
+# Author: Mohamed Moslem Allouch
+
+# Font processing & CFF CharString manipulation
+fonttools>=4.40.0
+
+# Arabic text shaping & bidirectional layout
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+
+# Binary reverse engineering & PE manipulation
+pefile>=2023.2.7
+capstone>=5.0.0
+
+# Standalone installer build tools (optional)
+pyinstaller>=6.0.0

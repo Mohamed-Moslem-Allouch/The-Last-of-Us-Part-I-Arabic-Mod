@@ -1,0 +1,63 @@
+# ==============================================================================
+# The Last of Us Part I - Git Ignore Configuration
+# Author: Mohamed Moslem Allouch
+# ==============================================================================
+
+# Game Dumps & Multi-Gigabyte Files
+backup/
+*.psarc
+*.psarc.*
+core.psarc
+tlou-i.exe
+tlou-i.exe.*
+
+# Binary Executables & Build Output
+dist/
+build/
+*.exe
+*.dll
+*.pkg
+*.spec
+
+# Archives (except embedded installer payload)
+*.rar
+*.zip
+!tools/mod_data.zip
+
+# Python Bytecode & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Temporary, Cache & Scratch Files
+*.tmp
+*.tmp*
+*.bak
+*.orig_bak
+*.swp
+*.log
+*.png
+
+# Untouched Large Asian Fonts (> 3 MB)
+orig_fonts/AsiaKGD14-R.ttf
+orig_fonts/DFHEI5-V-SONY.ttf
+orig_fonts/HeiSASC-Medium_0.ttf
+orig_fonts/SCE-RyuminH-KL.ttf
+
+# Large binary dumps in extracted/
+extracted/text2/sid-lookup
+extracted/fonts/test_*
+extracted/fonts/test_render.png
+
+# IDE & OS Metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
