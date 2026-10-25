@@ -82,7 +82,7 @@ The screenshots below show the localized Arabic mod running on PC at 1440p resol
 | ❌ How It Was (Broken Cursive Seams) | ✅ How It Was Fixed (Seamless Continuous Arabic) |
 | :---: | :---: |
 | <img src="screenshots/seam_issue_before.png" alt="Broken Seams Before Fix" width="280"> | <img src="screenshots/seam_issue_fixed.png" alt="Seamless After Fix" width="280"> |
-| **Notice the black vertical cuts between letters:**<br>`هـ | يـ | ا ،  لـ | نـ | ذ | هـ | ب`<br>*Each glyph's dilated outline quad stamped over the preceding tail.* | **Flawless cursive letter connections:**<br>`هيا، لنذهب`<br>*Material `0x1e` solid vector text combined with +100 unit baseline overhangs.* |
+| *Material `0x1f` dilated outline quads stamping over preceding letter tails.* | *Material `0x1e` solid vector fill combined with +100 unit baseline overhangs.* |
 
 #### The Root Cause:
 In cursive scripts such as Arabic, glyphs must connect seamlessly along the horizontal baseline. Initial testing revealed a persistent 1-to-2-pixel vertical black gap between connected Arabic letters:
