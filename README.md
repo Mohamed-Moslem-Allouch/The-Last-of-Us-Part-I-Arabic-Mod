@@ -280,8 +280,8 @@ tlou1-arabic-mod/
 #### 1. Environment Setup
 ```powershell
 # Clone the repository
-git clone https://github.com/your-username/tlou1-arabic-mod.git
-cd tlou1-arabic-mod
+git clone https://github.com/Mohamed-Moslem-Allouch/The-Last-of-Us-Part-I-Arabic-Mod.git
+cd The-Last-of-Us-Part-I-Arabic-Mod
 
 # Install Python requirements
 pip install -r requirements.txt
