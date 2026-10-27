@@ -19,6 +19,8 @@ build/
 *.pkg
 *.spec
 The_Last_of_Us_Part_I_Arabic_Mod/
+The_Last_of_Us_Part_I_Arabic_Mod_v1.0/
+nexus_package/mod_data/
 
 # Archives (except embedded installer payload)
 *.rar

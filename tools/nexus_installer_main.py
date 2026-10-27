@@ -25,16 +25,25 @@ def get_bundle_dir() -> str:
     return os.path.dirname(os.path.abspath(__file__))
 
 def load_mod_asset(rel_path: str) -> bytes:
-    """Loads a file from the pre-compressed mod_data.zip or loose directory."""
-    bundle_dir = get_bundle_dir()
-    zip_path = os.path.join(bundle_dir, "mod_data.zip")
+    """Loads a file from mod_data directory."""
+    candidates = [
+        os.path.join(os.path.dirname(sys.executable), "mod_data", rel_path),
+        os.path.join(os.getcwd(), "mod_data", rel_path),
+        os.path.join(get_bundle_dir(), "mod_data", rel_path),
+        os.path.join(get_bundle_dir(), rel_path),
+    ]
+    for c in candidates:
+        if os.path.exists(c):
+            with open(c, "rb") as f:
+                return f.read()
+
+    zip_path = os.path.join(get_bundle_dir(), "mod_data.zip")
     norm_rel = rel_path.replace("\\", "/")
     if os.path.exists(zip_path):
         with zipfile.ZipFile(zip_path, "r") as zf:
             return zf.read(norm_rel)
-    loose_path = os.path.join(bundle_dir, "mod_data", rel_path)
-    with open(loose_path, "rb") as f:
-        return f.read()
+
+    raise FileNotFoundError(f"Required mod asset not found: {rel_path}. Please ensure 'mod_data' folder is in the same directory.")
 
 def print_banner():
     print("=" * 72)

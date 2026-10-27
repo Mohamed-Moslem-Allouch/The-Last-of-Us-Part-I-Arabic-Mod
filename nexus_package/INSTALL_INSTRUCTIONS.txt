@@ -1,0 +1,35 @@
+================================================================================
+THE LAST OF US PART I - ARABIC LOCALIZATION MOD (v1.0)
+Created by: Mohamed Moslem Allouch
+GitHub: https://github.com/Mohamed-Moslem-Allouch/The-Last-of-Us-Part-I-Arabic-Mod
+================================================================================
+
+HOW TO INSTALL (CHOOSE OPTION 1 OR OPTION 2):
+
+--------------------------------------------------------------------------------
+OPTION 1: AUTOMATED 1-CLICK INSTALLER (RECOMMENDED)
+--------------------------------------------------------------------------------
+1. Double-click the included shortcut:
+   "Download_1Click_Installer.url"
+   Or visit the official GitHub Release:
+   https://github.com/Mohamed-Moslem-Allouch/The-Last-of-Us-Part-I-Arabic-Mod/releases/tag/v1.0.0
+
+2. Download "The_Last_of_Us_Part_I_Arabic_Mod_v1.0.zip" and run "TLOU_Arabic_Mod_Installer.exe".
+3. Press [1] to Install. It automatically backs up your game files and patches
+   the game in ~30 seconds!
+4. Launch the game and enjoy!
+
+--------------------------------------------------------------------------------
+OPTION 2: PYTHON SCRIPT INSTALLER (NO EXECUTABLE REQUIRED)
+--------------------------------------------------------------------------------
+If you already have Python installed on your PC:
+1. Make sure this folder contains "Install_Arabic_Mod.py" and the "mod_data" folder.
+2. Double-click "Install_Arabic_Mod.py" (or open a terminal and run):
+   python Install_Arabic_Mod.py
+3. Select Option [1] to Install.
+4. Launch the game!
+
+--------------------------------------------------------------------------------
+UNINSTALLATION:
+--------------------------------------------------------------------------------
+Run the installer again and select Option [2] to restore your original game files.
