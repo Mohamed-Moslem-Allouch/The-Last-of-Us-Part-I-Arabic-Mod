@@ -63,8 +63,7 @@ namespace TLOUArabicInstaller {
                     Console.WriteLine("[-] ERROR: 'mod_data' folder not found!");
                     Console.WriteLine("    Please make sure 'mod_data' folder is extracted alongside this installer.");
                     Console.ResetColor();
-                    Console.WriteLine("\nPress any key to exit...");
-                    Console.ReadKey();
+                    WaitExit();
                     return;
                 }
             }
@@ -82,8 +81,7 @@ namespace TLOUArabicInstaller {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("[-] Installation aborted. Game directory not found.");
                 Console.ResetColor();
-                Console.WriteLine("\nPress any key to exit...");
-                Console.ReadKey();
+                WaitExit();
                 return;
             }
 
@@ -220,8 +218,14 @@ namespace TLOUArabicInstaller {
                 Console.ResetColor();
             }
 
-            Console.WriteLine("\nPress any key to exit...");
-            Console.ReadKey();
+            WaitExit();
+        }
+
+        static void WaitExit() {
+            if (!Console.IsInputRedirected) {
+                Console.WriteLine("\nPress any key to exit...");
+                try { Console.ReadKey(); } catch { }
+            }
         }
 
         static void RunInstall(string gameDir, string modDataDir) {
@@ -379,8 +383,7 @@ namespace TLOUArabicInstaller {
             Console.WriteLine("- When you restart the game, your subtitles will STAY in Arabic automatically!");
             Console.WriteLine("- Simply launch 'The Last of Us Part I' and enjoy playing!\n");
 
-            Console.WriteLine("Press any key to exit...");
-            Console.ReadKey();
+            WaitExit();
         }
 
         static int FindBytes(byte[] haystack, byte[] needle) {
@@ -459,8 +462,9 @@ namespace TLOUArabicInstaller {
                 foreach (int nb in entryNumBlocks) totalZ += nb;
                 uint newTocLen = (uint)(32 + numEntries * 30 + totalZ * 2);
 
-                // Placeholder seek
-                dstFs.Seek(newTocLen, SeekOrigin.Begin);
+                // Reserve exact space for header and TOC
+                byte[] zeroToc = new byte[newTocLen];
+                dstFs.Write(zeroToc, 0, zeroToc.Length);
 
                 List<PsarcEntry> newEntries = new List<PsarcEntry>(entries.Count);
                 List<ushort> newZLengths = new List<ushort>(totalZ);
@@ -497,17 +501,26 @@ namespace TLOUArabicInstaller {
                         newEntries.Add(ne);
                     } else {
                         int nb = entryNumBlocks[i];
-                        for (int b = 0; b < nb; b++) {
-                            ushort zlen = origZLengths[orig.ZIndex + b];
-                            newZLengths.Add(zlen);
-                            int readLen = (zlen == 0) ? (int)blockSz : (int)zlen;
-                            if (b == nb - 1 && zlen == 0) {
-                                int rem = (int)(orig.UncompSz % blockSz);
-                                if (rem > 0) readLen = rem;
+                        if (nb > 0) {
+                            srcFs.Seek((long)orig.Offset, SeekOrigin.Begin);
+                            int totalEntryBytes = 0;
+                            for (int b = 0; b < nb; b++) {
+                                ushort zlen = origZLengths[orig.ZIndex + b];
+                                newZLengths.Add(zlen);
+                                int chunkSz = (zlen > 0) ? (int)zlen : Math.Min((int)blockSz, (int)(orig.UncompSz - (ulong)b * blockSz));
+                                totalEntryBytes += chunkSz;
                             }
 
-                            int readBytes = srcFs.Read(streamBuf, 0, readLen);
-                            bw.Write(streamBuf, 0, readBytes);
+                            int remaining = totalEntryBytes;
+                            while (remaining > 0) {
+                                int toRead = Math.Min(remaining, streamBuf.Length);
+                                int read = srcFs.Read(streamBuf, 0, toRead);
+                                if (read <= 0) {
+                                    throw new EndOfStreamException(string.Format("Unexpected EOF reading entry {0} (MD5: {1})", i, hex));
+                                }
+                                bw.Write(streamBuf, 0, read);
+                                remaining -= read;
+                            }
                         }
 
                         PsarcEntry ne = new PsarcEntry { Md5 = orig.Md5, ZIndex = curZIdx, UncompSz = orig.UncompSz, Offset = curOffset };
